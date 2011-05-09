@@ -1,0 +1,5175 @@
+Start getting SNPs from snpedia.com
+Got 22949 SNPs from snpedia.com
+
+Start getting SNPs from user
+Got 966983 SNPs from user
+
+Start filtering SNPs
+Got 8600 SNPs that are available on SNPedia & are homozygotous
+
+Start getting genotypes
+Got 8410 SNPs from SNPedia which have known genotypes
+
+Start getting genotype descriptions
+Got 2245 genotypes with a sufficient description
+
+Start getting relevant genotypes
+
+1
+-----------
+My genotype at rs6684865: GG or (G;G)
+rs6684865(A;A) is associated with: 1.5x risk
+rs6684865(A;G) is associated with: 1.2x risk
+rs6684865(G;G) is associated with: normal
+
+2
+-----------
+My genotype at rs3890745: TT or (A;A)
+rs3890745(A;A) is associated with: 1.12x risk of Rheumatoid arthritis
+rs3890745(A;G) is associated with: 
+rs3890745(G;G) is associated with: normal
+
+3
+-----------
+My genotype at rs17376328: GG or (G;G)
+rs17376328(A;A) is associated with: lower blood pressure
+rs17376328(A;G) is associated with: lower blood pressure
+rs17376328(G;G) is associated with: normal
+
+4
+-----------
+My genotype at rs198358: TT or (A;A)
+rs198358(A;A) is associated with: normal
+rs198358(A;G) is associated with: lower blood pressure
+rs198358(G;G) is associated with: lower blood pressure
+
+5
+-----------
+My genotype at rs5067: AA or (A;A)
+rs5067(A;A) is associated with: normal
+rs5067(A;G) is associated with: 0.5x reduced risk for asthma
+rs5067(G;G) is associated with: 0.5x reduced risk for asthma
+
+6
+-----------
+My genotype at rs5065: AA or (A;A)
+rs5065(A;A) is associated with: 1.12x risk on diuretic; if hypertensive, better outcome when treated with calcium channel blocker than with diuretic
+rs5065(A;G) is associated with: normal risk
+rs5065(G;G) is associated with: 0.87x risk on diuretic; if hypertensive, better outcome when treated with diuretic than with calcium channel blocker
+
+7
+-----------
+My genotype at rs7543472: TT or (T;T)
+rs7543472(C;C) is associated with: normal
+rs7543472(C;T) is associated with: weakly associated with increased cataract risk
+rs7543472(T;T) is associated with: ~2x increased risk for cataracts
+
+8
+-----------
+My genotype at rs2240340: TT or (A;A)
+rs2240340(A;A) is associated with: increased risk for RA
+rs2240340(A;G) is associated with: increased risk for RA
+rs2240340(G;G) is associated with: average
+
+9
+-----------
+My genotype at rs11809207: GG or (G;G)
+rs11809207(A;A) is associated with: 0.92cm taller on average
+rs11809207(A;G) is associated with: 0.46cm taller on average
+rs11809207(G;G) is associated with: normal
+
+10
+-----------
+My genotype at rs5800: CC or (G;G)
+rs5800(A;A) is associated with: AF risk in HCM patients (only)
+rs5800(A;G) is associated with: AF risk in HCM patients (only)
+rs5800(G;G) is associated with: normal
+
+11
+-----------
+My genotype at rs36053993: CC or (G;G)
+rs36053993(A;A) is associated with: increased risk for certain cancers?
+rs36053993(A;G) is associated with: increased risk for certain cancers?
+rs36053993(G;G) is associated with: normal
+
+12
+-----------
+My genotype at rs34612342: TT or (A;A)
+rs34612342(A;A) is associated with: normal
+rs34612342(A;G) is associated with: increased risk for certain cancers?
+rs34612342(G;G) is associated with: increased risk for certain cancers?
+
+13
+-----------
+My genotype at rs324420: AA or (A;A)
+rs324420(A;A) is associated with: significantly increased risk for substance use disorders
+rs324420(A;C) is associated with: normal
+rs324420(C;C) is associated with: normal
+
+14
+-----------
+My genotype at rs8179183: GG or (G;G)
+rs8179183(C;C) is associated with: normal
+rs8179183(C;G) is associated with: less likely to gain weight if taking risperidone
+rs8179183(G;G) is associated with: less likely to gain weight if taking risperidone
+
+15
+-----------
+My genotype at rs1892534: CC or (G;G)
+rs1892534(A;A) is associated with: 1.2x increased risk overall for cancers
+rs1892534(G;G) is associated with: normal
+
+16
+-----------
+My genotype at rs4655595: AA or (A;A)
+rs4655595(A;A) is associated with: normal
+rs4655595(A;G) is associated with: 1.4 risk
+rs4655595(G;G) is associated with: 2.3 risk
+
+17
+-----------
+My genotype at rs11465770: CC or (C;C)
+rs11465770(C;C) is associated with: normal Crohn's Disease risk
+rs11465770(C;T) is associated with: possibly lower risk of Crohn's Disease (OR=0.30)
+rs11465770(T;T) is associated with: possibly lower risk of Crohn's Disease (OR=0.30)
+
+18
+-----------
+My genotype at rs7530511: CC or (C;C)
+rs7530511(C;C) is associated with: normal
+rs7530511(C;T) is associated with: normal
+rs7530511(T;T) is associated with: 9x increased risk for Graves disease
+
+19
+-----------
+My genotype at rs11465804: TT or (T;T)
+rs11465804(G;G) is associated with: 0.68x lower risk for spondylitis
+rs11465804(G;T) is associated with: 0.68x lower risk for spondylitis
+rs11465804(T;T) is associated with: normal risk
+
+20
+-----------
+My genotype at rs11209026: GG or (G;G)
+rs11209026(A;A) is associated with: 0.26x lower risk for certain autoimmune diseases
+rs11209026(A;G) is associated with: 0.26x lower risk for certain autoimmune diseases
+rs11209026(G;G) is associated with: common
+
+21
+-----------
+My genotype at rs1343151: GG or (C;C)
+rs1343151(C;C) is associated with: normal risk
+rs1343151(C;T) is associated with: 0.8x lower risk for spondylitis
+rs1343151(T;T) is associated with: 0.8x lower risk for spondylitis
+
+22
+-----------
+My genotype at rs10889677: AA or (A;A)
+rs10889677(A;A) is associated with: 1.5x risk for certain autoimmune diseases
+rs10889677(A;C) is associated with: 1.5x risk for certain autoimmune diseases; 2x risk for Graves disease
+rs10889677(C;C) is associated with: 1x risk for certain autoimmune diseases; 2.3x risk for Graves disease
+
+23
+-----------
+My genotype at rs12567232: AA or (A;A)
+rs12567232(A;A) is associated with: Increased risk for Crohn's Disease
+rs12567232(A;G) is associated with: Increased risk for Crohn's Disease
+rs12567232(G;G) is associated with: normal
+
+24
+-----------
+My genotype at rs11209032: AA or (A;A)
+rs11209032(A;A) is associated with: 1.3x higher risk for spondylitis
+rs11209032(A;G) is associated with: 1.3x higher risk for spondylitis
+rs11209032(G;G) is associated with: normal risk
+
+25
+-----------
+My genotype at rs1495965: CC or (G;G)
+rs1495965(A;A) is associated with: 1.2x higher risk for spondylitis
+rs1495965(A;G) is associated with: 1.2x higher risk for spondylitis
+rs1495965(G;G) is associated with: normal risk
+
+26
+-----------
+My genotype at rs527974: GG or (C;C)
+rs527974(C;C) is associated with: better response to certain calcium channel blockers
+rs527974(C;T) is associated with: better response to certain calcium channel blockers
+rs527974(T;T) is associated with: normal
+
+27
+-----------
+My genotype at rs11162922: AA or (A;A)
+rs11162922(A;A) is associated with: 2x risk
+rs11162922(A;G) is associated with: 1.3x risk
+rs11162922(G;G) is associated with: normal
+
+28
+-----------
+My genotype at rs10735781: CC or (G;G)
+rs10735781(C;C) is associated with: >1.11x risk
+rs10735781(C;G) is associated with: 1.11x risk
+rs10735781(G;G) is associated with: common
+
+29
+-----------
+My genotype at rs6680578: AA or (T;T)
+rs6680578(A;A) is associated with: >1.11x risk
+rs6680578(A;T) is associated with: 1.11x risk
+rs6680578(T;T) is associated with: common
+
+30
+-----------
+My genotype at rs6604026: TT or (T;T)
+rs6604026(C;C) is associated with: >1.15x risk
+rs6604026(C;T) is associated with: 1.15x risk
+rs6604026(T;T) is associated with: common
+
+31
+-----------
+My genotype at rs7536563: GG or (G;G)
+rs7536563(A;A) is associated with: >1.12x risk
+rs7536563(A;G) is associated with: 1.12x risk
+rs7536563(G;G) is associated with: common
+
+32
+-----------
+My genotype at rs3918290: CC or (G;G)
+rs3918290(A;A) is associated with: 5-fluorouracil toxicity
+rs3918290(A;G) is associated with: some 5-fluorouracil toxicity 
+
+33
+-----------
+My genotype at rs12021720: CC or (C;C)
+rs12021720(T;T) is associated with: rare genotype but harmless
+
+34
+-----------
+My genotype at rs1676486: GG or (G;G)
+rs1676486(A;A) is associated with: >1.4x risk for LDH
+rs1676486(A;G) is associated with: 1.4x risk for LDH
+
+35
+-----------
+My genotype at rs646776: TT or (A;A)
+rs646776(A;A) is associated with: 1.2x risk of coronary artery disease
+
+36
+-----------
+My genotype at rs599839: AA or (A;A)
+rs599839(A;A) is associated with: 1.29x increased risk for heart disease
+rs599839(A;G) is associated with: 1.29x increased risk for heart disease
+rs599839(G;G) is associated with: normal
+
+37
+-----------
+My genotype at rs6679677: CC or (C;C)
+rs6679677(A;A) is associated with: 5.2x risk for T1D; 3.3x for RA
+rs6679677(A;C) is associated with: 1.8x risk for T1D; 2x risk for RA
+rs6679677(C;C) is associated with: normal
+
+38
+-----------
+My genotype at rs3789604: TT or (T;T)
+rs3789604(G;G) is associated with: 1.7x increased RA risk
+rs3789604(G;T) is associated with: 1.5x increased RA risk; 1.4x increased GD risk
+rs3789604(T;T) is associated with: normal for RA; 1.4x increased GD risk
+
+39
+-----------
+My genotype at rs2476601: GG or (G;G)
+rs2476601(A;A) is associated with: rare genotype
+rs2476601(A;G) is associated with: 2x risk for T1D, RA, Addison's
+rs2476601(G;G) is associated with: normal
+
+40
+-----------
+My genotype at rs17602729: GG or (G;G)
+rs17602729(A;A) is associated with: AMPD1 deficiency
+rs17602729(A;G) is associated with: AMPD1 heterozygote
+rs17602729(G;G) is associated with: common
+
+41
+-----------
+My genotype at rs6330: GG or (C;C)
+rs6330(C;C) is associated with: more anxious females, less anxious males
+rs6330(C;T) is associated with: normal
+rs6330(T;T) is associated with: more anxious males, less anxious females
+
+42
+-----------
+My genotype at rs12044852: CC or (C;C)
+rs12044852(A;A) is associated with: common
+rs12044852(A;C) is associated with: 1.24x risk
+rs12044852(C;C) is associated with: >1.24x risk
+
+43
+-----------
+My genotype at rs10754339: AA or (A;A)
+rs10754339(A;A) is associated with: normal
+rs10754339(A;G) is associated with: 1.3x increased risk of breast cancer
+rs10754339(G;G) is associated with: 1.45x increased risk of breast cancer
+
+44
+-----------
+My genotype at rs10801935: AA or (A;A)
+rs10801935(A;A) is associated with: normal
+rs10801935(A;C) is associated with: normal
+rs10801935(C;C) is associated with: 0.3x decreased risk of breast cancer
+
+45
+-----------
+My genotype at rs3738414: GG or (G;G)
+rs3738414(A;A) is associated with: 0.4x decreased risk of breast cancer
+rs3738414(A;G) is associated with: normal
+rs3738414(G;G) is associated with: normal
+
+46
+-----------
+My genotype at rs2145418: AA or (T;T)
+rs2145418(G;G) is associated with: 9.2x increased thyroid cancer risk
+rs2145418(G;T) is associated with: 5.0x increased thyroid cancer risk
+rs2145418(T;T) is associated with: normal
+
+47
+-----------
+My genotype at rs17646946: GG or (G;G)
+rs17646946(A;A) is associated with: straighter curl
+
+48
+-----------
+My genotype at rs11803731: AA or (T;T)
+rs11803731(A;A) is associated with: straighter hair
+rs11803731(T;T) is associated with: curlier hair
+
+49
+-----------
+My genotype at rs499697: AA or (T;T)
+rs499697(T;T) is associated with: straighter hair
+
+50
+-----------
+My genotype at rs6684439: TT or (T;T)
+rs6684439(C;C) is associated with: normal
+rs6684439(C;T) is associated with: 1.7x increased melanoma risk
+rs6684439(T;T) is associated with: normal?
+
+51
+-----------
+My genotype at rs4845618: TT or (T;T)
+rs4845618(G;G) is associated with: normal
+rs4845618(G;T) is associated with: 1.7x increased melanoma risk
+rs4845618(T;T) is associated with: normal?
+
+52
+-----------
+My genotype at rs8192284: CC or (C;C)
+rs8192284(A;A) is associated with: normal
+rs8192284(A;C) is associated with: 1.7x increased melanoma risk
+rs8192284(C;C) is associated with: normal?
+
+53
+-----------
+My genotype at rs13376333: CC or (C;C)
+rs13376333(C;T) is associated with: 1.5x higher risk of atrial fibrillation
+rs13376333(T;T) is associated with: ~2x higher risk of atrial fibrillation
+
+54
+-----------
+My genotype at rs2230288: CC or (G;G)
+rs2230288(A;A) is associated with: Homozygous for E326K variant of GBA gene
+rs2230288(A;G) is associated with: E326K variant in GBA gene
+
+55
+-----------
+My genotype at rs364897: TT or (A;A)
+rs364897(A;G) is associated with: N188S variant of the GBA gene
+rs364897(G;G) is associated with: Homozygous for N188S variant of GBA gene
+
+56
+-----------
+My genotype at rs2297480: GG or (C;C)
+rs2297480(A;A) is associated with: normal
+rs2297480(A;C) is associated with: normal
+rs2297480(C;C) is associated with: reduced response to anti-osteoporosis drugs
+
+57
+-----------
+My genotype at rs2814778: TT or (A;A)
+rs2814778(A;A) is associated with: Duffy-positive
+rs2814778(A;G) is associated with: Duffy-positive
+rs2814778(G;G) is associated with: Duffy-negative: increased odds of HIV infection upon exposure, but slowed disease progression if infected
+
+58
+-----------
+My genotype at rs2427837: GG or (G;G)
+rs2427837(A;A) is associated with: lowest IgE levels
+rs2427837(A;G) is associated with: lower IgE levels
+rs2427837(G;G) is associated with: normal but highest IgE levels
+
+59
+-----------
+My genotype at rs2251746: TT or (T;T)
+rs2251746(C;C) is associated with: lowest IgE levels
+rs2251746(C;T) is associated with: lower IgE levels
+rs2251746(T;T) is associated with: normal but highest IgE levels
+
+60
+-----------
+My genotype at rs1800947: CC or (G;G)
+rs1800947(C;C) is associated with: lower CRP levels
+rs1800947(C;G) is associated with: lower CRP levels
+rs1800947(G;G) is associated with: normal
+
+61
+-----------
+My genotype at rs3766379: TT or (T;T)
+rs3766379(C;C) is associated with: normal
+rs3766379(C;T) is associated with: 1.37x increased risk for rheumatoid arthritis
+rs3766379(T;T) is associated with: 1.9x increased risk for rheumatoid arthritis
+
+62
+-----------
+My genotype at rs6682654: GG or (G;G)
+rs6682654(A;G) is associated with: 1.34x increased risk for rheumatoid arthritis
+rs6682654(G;G) is associated with: 1.8x increased risk for rheumatoid arthritis
+
+63
+-----------
+My genotype at rs1801274: AA or (T;T)
+rs1801274(C;C) is associated with: normal
+rs1801274(C;T) is associated with: complex; generally greater risk for cancer progression
+rs1801274(T;T) is associated with: complex; generally greater risk for cancer progression
+
+64
+-----------
+My genotype at rs10918594: GG or (G;G)
+rs10918594(C;C) is associated with: Shorter QT interval
+rs10918594(C;G) is associated with: average QT interval
+rs10918594(G;G) is associated with: Longer QT interval
+
+65
+-----------
+My genotype at rs4656461: AA or (A;A)
+rs4656461(A;A) is associated with: normal
+rs4656461(A;G) is associated with: 1.5x increased risk for open angle glaucoma
+rs4656461(G;G) is associated with: 2.2x increased risk for open angle glaucoma
+
+66
+-----------
+My genotype at rs6025: CC or (G;G)
+rs6025(A;A) is associated with: Prone to thrombosis
+rs6025(A;G) is associated with: Prone to thrombosis
+rs6025(G;G) is associated with: normal/common
+
+67
+-----------
+My genotype at rs5361: TT or (A;A)
+rs5361(A;A) is associated with: normal risk
+rs5361(A;C) is associated with: normal risk
+rs5361(C;C) is associated with: 4x increased risk for recurrent venous thromboembolism.
+
+68
+-----------
+My genotype at rs12037606: GG or (G;G)
+rs12037606(A;A) is associated with: 1.5x risk of Crohn's disease
+rs12037606(A;G) is associated with: 1.2x risk of Crohn's disease
+rs12037606(G;G) is associated with: normal
+
+69
+-----------
+My genotype at rs486907: TT or (A;A)
+rs486907(A;A) is associated with: 2x increased prostate cancer risk
+rs486907(A;G) is associated with: 1.5x increased prostate cancer risk
+rs486907(G;G) is associated with: normal
+
+70
+-----------
+My genotype at rs3738579: GG or (C;C)
+rs3738579(C;C) is associated with: 1.5x increased risk for breast cancer, HNSCC
+rs3738579(C;T) is associated with: 0.5x decreased risk for several cancers
+rs3738579(T;T) is associated with: 1.3x - 2x increased risk for several cancers
+
+71
+-----------
+My genotype at rs5275: AA or (T;T)
+rs5275(C;C) is associated with: 0.68x decreased risk for bladder cancer
+rs5275(C;T) is associated with: 0.68x decreased risk for bladder cancer
+rs5275(T;T) is associated with: normal
+
+72
+-----------
+My genotype at rs2745557: GG or (G;G)
+rs2745557(A;A) is associated with: autism risk?
+rs2745557(A;G) is associated with: autism risk?
+rs2745557(G;G) is associated with: normal
+
+73
+-----------
+My genotype at rs20417: CC or (G;G)
+rs20417(C;C) is associated with: normal risk of diabetes
+rs20417(C;G) is associated with: 30% higher risk of diabetes
+rs20417(G;G) is associated with: ?
+
+74
+-----------
+My genotype at rs689465: TT or (A;A)
+rs689465(A;A) is associated with: 1.5x increased risk for mild asthma
+rs689465(A;G) is associated with: slight increased risk for mild asthma
+rs689465(G;G) is associated with: normal
+
+75
+-----------
+My genotype at rs800292: GG or (C;C)
+rs800292(C;C) is associated with: normal
+rs800292(C;T) is associated with: increased risk of macular degeneration
+rs800292(T;T) is associated with: increased risk of macular degeneration
+
+76
+-----------
+My genotype at rs1061170: CC or (C;C)
+rs1061170(C;C) is associated with: 5.9x risk for AMD; higher mortality among nonagenarians
+rs1061170(C;T) is associated with: 2.5x risk for AMD; higher mortality among nonagenarians
+rs1061170(T;T) is associated with: common/normal
+
+77
+-----------
+My genotype at rs380390: GG or (G;G)
+rs380390(C;C) is associated with: increased risk for ARMD
+rs380390(C;G) is associated with: None
+
+78
+-----------
+My genotype at rs1329428: CC or (G;G)
+rs1329428(A;A) is associated with: normal
+rs1329428(A;G) is associated with: ?
+rs1329428(G;G) is associated with: 2x increased risk for macular degeneration
+
+79
+-----------
+My genotype at rs7539542: GG or (G;G)
+rs7539542(C;C) is associated with: 0.51x decreased breast cancer risk
+rs7539542(C;G) is associated with: 0.59x decreased breast cancer risk
+rs7539542(G;G) is associated with: normal
+
+80
+-----------
+My genotype at rs642961: GG or (G;G)
+rs642961(A;A) is associated with: normal
+rs642961(A;G) is associated with: 1.9x risk of cleft lip
+rs642961(G;G) is associated with: 2.3x risk of cleft lip
+
+81
+-----------
+My genotype at rs2639703: TT or (T;T)
+rs2639703(C;C) is associated with: 1.6x risk
+rs2639703(C;T) is associated with: 1.1x risk
+rs2639703(T;T) is associated with: normal
+
+82
+-----------
+My genotype at rs1136410: AA or (T;T)
+rs1136410(C;C) is associated with: 0.80x reduced risk for glioblastoma
+rs1136410(C;T) is associated with: 0.80x reduced risk for glioblastoma
+rs1136410(T;T) is associated with: normal
+
+83
+-----------
+My genotype at rs6675281: CC or (C;C)
+rs6675281(C;C) is associated with: common
+rs6675281(C;T) is associated with: None
+rs6675281(T;T) is associated with: None
+
+84
+-----------
+My genotype at rs2820037: AA or (T;T)
+rs2820037(A;A) is associated with: normal
+rs2820037(A;T) is associated with: 1.5x risk
+rs2820037(T;T) is associated with: 1.1x risk
+
+85
+-----------
+My genotype at rs4481887: GG or (G;G)
+rs4481887(A;A) is associated with: 74% of you can smell asparagus metabolites in urine
+rs4481887(A;G) is associated with: 71% of you can smell asparagus metabolites in urine
+rs4481887(G;G) is associated with: 57%% of you can smell asparagus metabolites in urine
+
+86
+-----------
+My genotype at rs10192566: GG or (G;G)
+rs10192566(C;C) is associated with: if diabetic, poorer response to rosiglitazone
+rs10192566(C;G) is associated with: if diabetic, better response to rosiglitazone
+rs10192566(G;G) is associated with: if diabetic, better response to rosiglitazone
+
+87
+-----------
+My genotype at rs10495584: AA or (A;A)
+rs10495584(A;A) is associated with: normal
+rs10495584(A;G) is associated with: lower blood pressure
+rs10495584(G;G) is associated with: lower blood pressure
+
+88
+-----------
+My genotype at rs5742904: CC or (G;G)
+rs5742904(A;A) is associated with: Hypercholesterolemia, Type B; homozygote
+rs5742904(A;G) is associated with: Hypercholesterolemia, Type B; heterozygote
+rs5742904(G;G) is associated with: normal
+
+89
+-----------
+My genotype at rs520354: AA or (A;A)
+rs520354(A;A) is associated with: increased risk in men for biliary conditions
+rs520354(A;G) is associated with: increased risk in men for biliary conditions
+rs520354(G;G) is associated with: normal
+
+90
+-----------
+My genotype at rs7577363: GG or (G;G)
+rs7577363(A;A) is associated with: >1.37x risk
+rs7577363(A;G) is associated with: 1.37x risk
+rs7577363(G;G) is associated with: common
+
+91
+-----------
+My genotype at rs9332964: CC or (G;G)
+rs9332964(A;A) is associated with: micropenis
+rs9332964(A;G) is associated with: average
+rs9332964(G;G) is associated with: average
+
+92
+-----------
+My genotype at rs1126497: TT or (T;T)
+rs1126497(C;C) is associated with: normal
+rs1126497(C;T) is associated with: 1.4x increased risk for breast cancer
+rs1126497(T;T) is associated with: 1.4x increased risk for breast cancer
+
+93
+-----------
+My genotype at rs10865331: AA or (A;A)
+rs10865331(A;A) is associated with: 1.4x higher risk for ankylosing spondylitis
+rs10865331(A;G) is associated with: 1.2x higher risk for ankylosing spondylitis
+rs10865331(G;G) is associated with: normal
+
+94
+-----------
+My genotype at rs721048: GG or (G;G)
+rs721048(A;A) is associated with: slightly increased prostate cancer risk
+rs721048(A;G) is associated with: None
+rs721048(G;G) is associated with: normal
+
+95
+-----------
+My genotype at rs12469063: AA or (A;A)
+rs12469063(A;A) is associated with: >1.7x risk for restless legs
+rs12469063(A;G) is associated with: 1.7x risk for restless legs
+rs12469063(G;G) is associated with: common
+
+96
+-----------
+My genotype at rs2300478: TT or (T;T)
+rs2300478(G;G) is associated with: >1.7x risk for restless legs
+rs2300478(G;T) is associated with: 1.7x risk for restless legs
+rs2300478(T;T) is associated with: common
+
+97
+-----------
+My genotype at rs1007371: TT or (T;T)
+rs1007371(T;T) is associated with: rare genotype.
+
+98
+-----------
+My genotype at rs2278206: AA or (T;T)
+rs2278206(C;C) is associated with: 1.16x increased risk for asthma
+rs2278206(C;T) is associated with: normal
+rs2278206(T;T) is associated with: possibly less susceptible to asthma
+
+99
+-----------
+My genotype at rs7570682: GG or (G;G)
+rs7570682(A;A) is associated with: 1.6x risk
+rs7570682(A;G) is associated with: 1.2x risk
+rs7570682(G;G) is associated with: normal
+
+100
+-----------
+My genotype at rs3827760: AA or (T;T)
+rs3827760(C;C) is associated with: shovel-Shaped Incisors
+
+101
+-----------
+My genotype at rs1800587: GG or (C;C)
+rs1800587(C;C) is associated with: normal
+rs1800587(C;T) is associated with: normal
+rs1800587(T;T) is associated with: increased waist circumference and risk of disk disease
+
+102
+-----------
+My genotype at rs1143634: GG or (C;C)
+rs1143634(C;C) is associated with: normal
+rs1143634(C;T) is associated with: complex; see details
+rs1143634(T;T) is associated with: complex; see details
+
+103
+-----------
+My genotype at rs419598: TT or (T;T)
+rs419598(C;C) is associated with: 0.29x lower risk for periodontitis
+rs419598(C;T) is associated with: 0.29x lower risk for periodontitis
+rs419598(T;T) is associated with: normal
+
+104
+-----------
+My genotype at rs1375144: GG or (C;C)
+rs1375144(C;C) is associated with: 1.6x risk
+rs1375144(C;T) is associated with: 1.3x risk
+rs1375144(T;T) is associated with: normal
+
+105
+-----------
+My genotype at rs2069912: CC or (C;C)
+rs2069912(C;C) is associated with: sepsis risk in East Asians
+rs2069912(C;T) is associated with: sepsis risk in East Asians
+rs2069912(T;T) is associated with: normal
+
+106
+-----------
+My genotype at rs4988235: AA or (T;T)
+rs4988235(C;C) is associated with: possibly lactose intolerant
+rs4988235(C;T) is associated with: can digest milk
+rs4988235(T;T) is associated with: can digest milk
+
+107
+-----------
+My genotype at rs182549: TT or (T;T)
+rs182549(C;C) is associated with: possibly lactose intolerant
+rs182549(C;T) is associated with: None
+rs182549(T;T) is associated with: None
+
+108
+-----------
+My genotype at rs3754777: CC or (G;G)
+rs3754777(A;A) is associated with: slightly higher blood pressure if Caucasian
+rs3754777(A;G) is associated with: slightly higher blood pressure if Caucasian
+rs3754777(G;G) is associated with: normal
+
+109
+-----------
+My genotype at rs6749447: TT or (T;T)
+rs6749447(G;G) is associated with: slightly higher blood pressure if Caucasian
+rs6749447(G;T) is associated with: slightly higher blood pressure if Caucasian
+rs6749447(T;T) is associated with: normal
+
+110
+-----------
+My genotype at rs573225: AA or (T;T)
+rs573225(C;C) is associated with: normal
+rs573225(C;T) is associated with: higher insulinogenic index in obese children
+rs573225(T;T) is associated with: higher insulinogenic index in obese children
+
+111
+-----------
+My genotype at rs1344706: CC or (G;G)
+rs1344706(G;G) is associated with: normal
+rs1344706(G;T) is associated with: 1.1x increased risk for schizophrenia
+rs1344706(T;T) is associated with: 1.2x increased risk for schizophrenia
+
+112
+-----------
+My genotype at rs1800255: GG or (G;G)
+rs1800255(A;A) is associated with: increased risk for pelvic organ prolapse
+rs1800255(A;G) is associated with: normal
+rs1800255(G;G) is associated with: normal
+
+113
+-----------
+My genotype at rs3821236: GG or (G;G)
+rs3821236(A;A) is associated with: 2x higher risk of lupus
+rs3821236(A;G) is associated with: 1.4x higher risk of lupus
+
+114
+-----------
+My genotype at rs7574865: GG or (G;G)
+rs7574865(G;G) is associated with: common
+rs7574865(G;T) is associated with: 1.3x risk for RA; 1.5x for SLE
+rs7574865(T;T) is associated with: 2x risk for RA; 1.6x for SLE; 1.9x increased risk for type-1 diabetes
+
+115
+-----------
+My genotype at rs10181656: CC or (G;G)
+rs10181656(C;C) is associated with: normal
+rs10181656(C;G) is associated with: 1.7x increased SLE risk
+rs10181656(G;G) is associated with: 1.7x increased SLE risk
+
+116
+-----------
+My genotype at rs7582694: GG or (G;G)
+rs7582694(C;C) is associated with: 1.71x increased SLE risk
+rs7582694(C;G) is associated with: 1.71x increased SLE risk
+rs7582694(G;G) is associated with: normal
+
+117
+-----------
+My genotype at rs700651: AA or (A;A)
+rs700651(A;A) is associated with: normal
+rs700651(A;G) is associated with: ~1.18x increased risk of aneurysm
+rs700651(G;G) is associated with: ~1.56x increased risk of aneurysm
+
+118
+-----------
+My genotype at rs828907: GG or (G;G)
+rs828907(G;G) is associated with: normal
+rs828907(G;T) is associated with: slightly increased risk of bladder cancer
+rs828907(T;T) is associated with: slightly increased risk of bladder cancer
+
+119
+-----------
+My genotype at rs2059693: CC or (C;C)
+rs2059693(C;C) is associated with: normal
+rs2059693(C;T) is associated with: 1.3x increased risk for testicular cancer
+rs2059693(T;T) is associated with: 1.6x increased risk for testicular cancer
+
+120
+-----------
+My genotype at rs1801278: CC or (G;G)
+rs1801278(A;A) is associated with: reduced colorectal risk when combined with INSR SNP
+rs1801278(A;G) is associated with: reduced colorectal risk when combined with INSR SNP
+rs1801278(G;G) is associated with: normal
+
+121
+-----------
+My genotype at rs10210302: TT or (T;T)
+rs10210302(C;C) is associated with: normal
+rs10210302(C;T) is associated with: 1.2x risk
+rs10210302(T;T) is associated with: 1.8x risk
+
+122
+-----------
+My genotype at rs2241880: GG or (C;C)
+rs2241880(C;C) is associated with: 2x-3x increased risk for Crohn's disease in Caucasians
+rs2241880(C;T) is associated with: 1.4x increased risk for Crohn's disease in Caucasians
+rs2241880(T;T) is associated with: normal
+
+123
+-----------
+My genotype at rs58597806: GG or (G;G)
+rs58597806(G;G) is associated with: normal
+rs58597806(G;T) is associated with: likely reduced UGT1A9 glucuronidation
+rs58597806(T;T) is associated with: likely reduced UGT1A9 glucuronidation
+
+124
+-----------
+My genotype at rs4148323: GG or (G;G)
+rs4148323(A;A) is associated with: homozygous for UGT1A1*6
+rs4148323(A;G) is associated with: carrier of 1 UGT1A1*6 allele
+rs4148323(G;G) is associated with: normal
+
+125
+-----------
+My genotype at rs2953145: CC or (G;G)
+rs2953145(C;C) is associated with: normal
+rs2953145(C;G) is associated with: 1.8x risk
+rs2953145(G;G) is associated with: 2.1x risk
+
+126
+-----------
+My genotype at rs1052133: CC or (G;G)
+rs1052133(C;C) is associated with: normal
+rs1052133(C;G) is associated with: normal for bladder cancer risk; 1.9x increased risk for gallbladder cancer
+rs1052133(G;G) is associated with: 2x increased bladder cancer risk; 4.5x increased risk for gallbladder cancer
+
+127
+-----------
+My genotype at rs17036314: GG or (G;G)
+rs17036314(C;C) is associated with: risk of progressing from IGT to T2D; reduced by exercise
+rs17036314(C;G) is associated with: risk of progressing from IGT to T2D; reduced by exercise
+rs17036314(G;G) is associated with: normal
+
+128
+-----------
+My genotype at rs1801282: CC or (G;G)
+rs1801282(C;G) is associated with: watch out for high fat in diet
+rs1801282(G;G) is associated with: watch out for high fat in diet
+
+129
+-----------
+My genotype at rs2228001: TT or (A;A)
+rs2228001(A;A) is associated with: statistically significant, but slight, increase in lung cancer risk
+rs2228001(A;C) is associated with: normal
+rs2228001(C;C) is associated with: normal
+
+130
+-----------
+My genotype at rs2228000: GG or (C;C)
+rs2228000(C;C) is associated with: normal
+rs2228000(C;T) is associated with: normal
+rs2228000(T;T) is associated with: statistically significant, but slight, increase in bladder cancer risk
+
+131
+-----------
+My genotype at rs7639618: CC or (C;C)
+rs7639618(C;C) is associated with: normal
+rs7639618(C;T) is associated with: 1.45x increased osteoarthritis risk
+rs7639618(T;T) is associated with: 1.45x increased osteoarthritis risk
+
+132
+-----------
+My genotype at rs11718863: AA or (T;T)
+rs11718863(A;A) is associated with: normal
+rs11718863(A;T) is associated with: 1.43x increased osteoarthritis risk
+rs11718863(T;T) is associated with: 1.43x increased osteoarthritis risk
+
+133
+-----------
+My genotype at rs4399848: GG or (G;G)
+rs4399848(A;A) is associated with: rare
+rs4399848(A;G) is associated with: Heterozygous
+rs4399848(G;G) is associated with: normal
+
+134
+-----------
+My genotype at rs4276227: TT or (T;T)
+rs4276227(C;C) is associated with: 1.5x risk
+rs4276227(C;T) is associated with: 1.2x risk
+rs4276227(T;T) is associated with: normal
+
+135
+-----------
+My genotype at rs3732379: CC or (C;C)
+rs3732379(T;T) is associated with: increased susceptibility
+
+136
+-----------
+My genotype at rs312481: GG or (C;C)
+rs312481(C;C) is associated with: better response to certain calcium channel blockers
+rs312481(C;T) is associated with: normal
+rs312481(T;T) is associated with: normal
+
+137
+-----------
+My genotype at rs3774426: TT or (T;T)
+rs3774426(C;C) is associated with: better response to certain calcium channel blockers
+rs3774426(C;T) is associated with: normal
+rs3774426(T;T) is associated with: normal
+
+138
+-----------
+My genotype at rs358806: CC or (C;C)
+rs358806(A;A) is associated with: normal risk of type-2 diabetes
+rs358806(A;C) is associated with: 0.9x risk of type-2 diabetes
+rs358806(C;C) is associated with: 1.8x risk of type-2 diabetes
+
+139
+-----------
+My genotype at rs7646054: AA or (A;A)
+rs7646054(A;A) is associated with: normal
+rs7646054(A;G) is associated with: increased osteoporosis risk
+rs7646054(G;G) is associated with: increased osteoporosis risk
+
+140
+-----------
+My genotype at rs13078807: AA or (A;A)
+rs13078807(A;A) is associated with: common, despite what hapmap says
+
+141
+-----------
+My genotype at rs12487066: TT or (T;T)
+rs12487066(C;C) is associated with: >1.09x increased risk for multiple sclerosis
+rs12487066(C;T) is associated with: 1.09x increased risk for multiple sclerosis
+rs12487066(T;T) is associated with: common
+
+142
+-----------
+My genotype at rs334558: AA or (A;A)
+rs334558(A;A) is associated with: later onset of BP
+rs334558(A;G) is associated with: later onset of BP
+rs334558(G;G) is associated with: common
+
+143
+-----------
+My genotype at rs6439886: AA or (A;A)
+rs6439886(A;A) is associated with: normal form
+rs6439886(A;G) is associated with: ?
+rs6439886(G;G) is associated with: increased memory performance
+
+144
+-----------
+My genotype at rs1803274: CC or (G;G)
+rs1803274(A;A) is associated with: possible increased Alzheimer's risk
+rs1803274(A;G) is associated with: possible increased Alzheimer's risk
+rs1803274(G;G) is associated with: normal
+
+145
+-----------
+My genotype at rs1799807: TT or (A;A)
+rs1799807(A;A) is associated with: Typical BuChE
+rs1799807(A;G) is associated with: Heterozygous for "atypical" BuChE
+rs1799807(G;G) is associated with: Homozygous for "atypical" BuChE
+
+146
+-----------
+My genotype at rs2948694: AA or (A;A)
+rs2948694(A;A) is associated with: normal
+rs2948694(A;G) is associated with: increased risk for heavy alcohol consumption
+rs2948694(G;G) is associated with: increased risk for heavy alcohol consumption
+
+147
+-----------
+My genotype at rs2232165: GG or (C;C)
+rs2232165(C;C) is associated with: normal
+rs2232165(C;T) is associated with: increased risk for heavy alcohol consumption
+rs2232165(T;T) is associated with: increased risk for heavy alcohol consumption
+
+148
+-----------
+My genotype at rs1131532: AA or (T;T)
+rs1131532(C;C) is associated with: normal
+rs1131532(C;T) is associated with: normal
+rs1131532(T;T) is associated with: 3-6x higher odds of worse outcomes in breast cancer patients
+
+149
+-----------
+My genotype at rs683395: AA or (T;T)
+rs683395(C;C) is associated with: 1.3x risk
+rs683395(C;T) is associated with: 1.5x risk
+rs683395(T;T) is associated with: normal
+
+150
+-----------
+My genotype at rs4402960: GG or (G;G)
+rs4402960(G;G) is associated with: normal
+rs4402960(G;T) is associated with: 1.2x increased risk for type-2 diabetes
+rs4402960(T;T) is associated with: 1.2x increased risk for type-2 diabetes
+
+151
+-----------
+My genotype at rs1470579: AA or (A;A)
+rs1470579(A;A) is associated with: normal
+rs1470579(A;C) is associated with: 1.2x increased risk for type-2 diabetes
+rs1470579(C;C) is associated with: 1.2x increased risk for type-2 diabetes
+
+152
+-----------
+My genotype at rs2077119: TT or (T;T)
+rs2077119(G;G) is associated with: 0.91x decreased risk for T2D
+rs2077119(G;T) is associated with: 0.91x decreased risk for T2D
+rs2077119(T;T) is associated with: 1x normal risk
+
+153
+-----------
+My genotype at rs17300539: GG or (G;G)
+rs17300539(A;A) is associated with: if obese, dieting more effective
+rs17300539(A;G) is associated with: if obese, dieting more effective
+rs17300539(G;G) is associated with: normal
+
+154
+-----------
+My genotype at rs2241766: TT or (T;T)
+rs2241766(G;G) is associated with: normal
+rs2241766(G;T) is associated with: 0.6x decreased risk for breast cancer
+rs2241766(T;T) is associated with: normal
+
+155
+-----------
+My genotype at rs1501299: GG or (C;C)
+rs1501299(A;A) is associated with: normal
+rs1501299(A;C) is associated with: normal
+rs1501299(C;C) is associated with: 1.8x higher breast cancer risk
+
+156
+-----------
+My genotype at rs710521: TT or (A;A)
+rs710521(A;A) is associated with: 1.4x increased bladder cancer risk
+rs710521(A;G) is associated with: 1.2x increased bladder cancer risk
+rs710521(G;G) is associated with: normal
+
+157
+-----------
+My genotype at rs4961: TT or (T;T)
+rs4961(G;G) is associated with: normal
+rs4961(G;T) is associated with: 1.8x increased risk for high blood pressure
+rs4961(T;T) is associated with: 1.8x increased risk for high blood pressure
+
+158
+-----------
+My genotype at rs8192678: CC or (G;G)
+rs8192678(A;A) is associated with: higher blood pressure if <50
+rs8192678(A;G) is associated with: higher blood pressure if <50
+rs8192678(G;G) is associated with: normal
+
+159
+-----------
+My genotype at rs8192287: GG or (G;G)
+rs8192287(G;G) is associated with: normal
+rs8192287(G;T) is associated with: normal
+rs8192287(T;T) is associated with: possibly reduced lung function, see details
+
+160
+-----------
+My genotype at rs8192288: GG or (G;G)
+rs8192288(G;G) is associated with: normal
+rs8192288(G;T) is associated with: normal
+rs8192288(T;T) is associated with: possibly reduced lung function, see details
+
+161
+-----------
+My genotype at rs35859249: CC or (C;C)
+rs35859249(C;C) is associated with: normal
+rs35859249(C;T) is associated with: associated with familial obesity
+rs35859249(T;T) is associated with: associated with familiar obesity
+
+162
+-----------
+My genotype at rs4833103: AA or (A;A)
+rs4833103(A;A) is associated with: normal
+rs4833103(A;C) is associated with: 0.75x decreased risk for Non-hodgkin's lymphoma
+rs4833103(C;C) is associated with: 0.74x decreased risk for Non-hodgkin's lymphoma
+
+163
+-----------
+My genotype at rs1554483: CC or (G;G)
+rs1554483(C;C) is associated with: normal
+rs1554483(C;G) is associated with: 1.8x higher risk for obesity if in haplotype
+rs1554483(G;G) is associated with: 1.8x higher risk for obesity if in haplotype
+
+164
+-----------
+My genotype at rs4864548: GG or (G;G)
+rs4864548(A;A) is associated with: normal
+rs4864548(A;G) is associated with: 1.8x higher risk for obesity if in haplotype
+rs4864548(G;G) is associated with: 1.8x higher risk for obesity if in haplotype
+
+165
+-----------
+My genotype at rs629242: CC or (C;C)
+rs629242(C;C) is associated with: normal risk
+rs629242(C;T) is associated with: somewhat higher risk for prostate cancer
+rs629242(T;T) is associated with: somewhat higher risk for prostate cancer
+
+166
+-----------
+My genotype at rs6836703: GG or (G;G)
+rs6836703(A;A) is associated with: 1.34x increased risk for azoospermia in males
+rs6836703(A;G) is associated with: 1.34x increased risk for azoospermia in males
+rs6836703(G;G) is associated with: normal
+
+167
+-----------
+My genotype at rs2231142: GG or (C;C)
+rs2231142(A;A) is associated with: increased risk of gout; more responsive to rosuvastatin
+rs2231142(A;C) is associated with: 1.74x increased gout risk; gefinitib takers 4x more susceptible to diarrhea
+rs2231142(C;C) is associated with: normal
+
+168
+-----------
+My genotype at rs2231137: CC or (G;G)
+rs2231137(A;A) is associated with: normal
+rs2231137(A;G) is associated with: 2-3x increased risk for ischemic stroke
+rs2231137(G;G) is associated with: 2-3x increased risk for ischemic stroke
+
+169
+-----------
+My genotype at rs356219: AA or (A;A)
+rs356219(A;A) is associated with: normal
+rs356219(A;G) is associated with: 1.3x increased risk for Parkinson's disease
+rs356219(G;G) is associated with: 1.6x increased risk for Parkinson's disease
+
+170
+-----------
+My genotype at rs2066702: GG or (C;C)
+rs2066702(C;C) is associated with: common
+rs2066702(C;T) is associated with: None
+rs2066702(T;T) is associated with: None
+
+171
+-----------
+My genotype at rs1573496: CC or (G;G)
+rs1573496(C;C) is associated with: normal
+rs1573496(C;G) is associated with: 0.68x decreased risk of oral/throat cancers
+rs1573496(G;G) is associated with: 0.68x decreased risk of oral/throat cancers
+
+172
+-----------
+My genotype at rs3816873: TT or (T;T)
+rs3816873(C;C) is associated with: reduced risk of type-2 diabetes
+rs3816873(C;T) is associated with: None
+rs3816873(T;T) is associated with: None
+
+173
+-----------
+My genotype at rs1585215: TT or (A;A)
+rs1585215(A;A) is associated with: normal
+rs1585215(A;G) is associated with: 2x increased risk for Hodgkin lymphoma
+rs1585215(G;G) is associated with: 3.5x increased risk for Hodgkin lymphoma
+
+174
+-----------
+My genotype at rs2200733: CC or (C;C)
+rs2200733(C;C) is associated with: normal
+rs2200733(C;T) is associated with: 1.4x increased risk of atrial fibrillation and ischemic stroke
+rs2200733(T;T) is associated with: 1.4x increased risk of atrial fibrillation and ischemic stroke
+
+175
+-----------
+My genotype at rs10033464: GG or (G;G)
+rs10033464(G;G) is associated with: normal
+rs10033464(G;T) is associated with: 1.4x increased risk of atrial fibrillation and ischemic stroke
+rs10033464(T;T) is associated with: 1.4x increased risk of atrial fibrillation and ischemic stroke
+
+176
+-----------
+My genotype at rs13149290: CC or (C;C)
+rs13149290(C;C) is associated with: somewhat higher risk for prostate cancer
+rs13149290(C;T) is associated with: normal risk
+rs13149290(T;T) is associated with: normal risk
+
+177
+-----------
+My genotype at rs3804100: TT or (T;T)
+rs3804100(C;C) is associated with: somwhat increased risk for type-1 diabetes and allergic asthma
+rs3804100(C;T) is associated with: somewhat increased risk for type-1 diabetes and allergic asthma
+rs3804100(T;T) is associated with: normal
+
+178
+-----------
+My genotype at rs6837793: GG or (G;G)
+rs6837793(A;A) is associated with: normal
+rs6837793(A;G) is associated with: more likely to gain weight if taking risperidone
+rs6837793(G;G) is associated with: more likely to gain weight if taking risperidone
+
+179
+-----------
+My genotype at rs27072: CC or (C;C)
+rs27072(C;C) is associated with: 2x risk of severe alcohol withdrawal
+rs27072(C;T) is associated with: normal
+rs27072(T;T) is associated with: normal
+
+180
+-----------
+My genotype at rs27048: CC or (C;C)
+rs27048(C;C) is associated with: 2x risk of severe alcohol withdrawal
+rs27048(C;T) is associated with: normal
+rs27048(T;T) is associated with: normal
+
+181
+-----------
+My genotype at rs464049: AA or (T;T)
+rs464049(C;C) is associated with: decreased risk of schizophrenia in limited study
+rs464049(C;T) is associated with: increased risk of schizophrenia in limited study
+rs464049(T;T) is associated with: increased risk of schizophrenia in limited study
+
+182
+-----------
+My genotype at rs1801394: GG or (G;G)
+rs1801394(A;A) is associated with: normal
+rs1801394(A;G) is associated with: normal
+rs1801394(G;G) is associated with: 1.4x higher risk for meningiomas
+
+183
+-----------
+My genotype at rs10513025: TT or (T;T)
+rs10513025(C;C) is associated with: >0.55x reduced risk for autism
+rs10513025(C;T) is associated with: 0.55x reduced risk for autism
+rs10513025(T;T) is associated with: normal
+
+184
+-----------
+My genotype at rs16891982: GG or (G;G)
+rs16891982(C;C) is associated with: generally non-European, but if European, 7x more likely to have black hair
+rs16891982(C;G) is associated with: if European, 7x more likely to have black hair
+rs16891982(G;G) is associated with: generally European
+
+185
+-----------
+My genotype at rs26722: CC or (C;C)
+rs26722(C;C) is associated with: normal
+rs26722(C;T) is associated with: perhaps darker eye, hair, skin
+rs26722(T;T) is associated with: darker eye, hair, skin color
+
+186
+-----------
+My genotype at rs6897932: CC or (C;C)
+rs6897932(C;C) is associated with: 1.5x increased risk for multiple sclerosis
+rs6897932(C;T) is associated with: 1.3x increased risk for multiple sclerosis
+rs6897932(T;T) is associated with: normal
+
+187
+-----------
+My genotype at rs3194051: AA or (A;A)
+rs3194051(A;A) is associated with: >1.1x risk
+rs3194051(A;G) is associated with: 1.12x risk
+rs3194051(G;G) is associated with: normal
+
+188
+-----------
+My genotype at rs17234657: TT or (T;T)
+rs17234657(G;G) is associated with: 2.3x risk
+rs17234657(G;T) is associated with: 1.5x risk
+rs17234657(T;T) is associated with: normal
+
+189
+-----------
+My genotype at rs889312: CC or (C;C)
+rs889312(A;A) is associated with: normal
+rs889312(A;C) is associated with: Very slightly higher risk for breast cancer
+rs889312(C;C) is associated with: Very slightly higher risk for breast cancer
+
+190
+-----------
+My genotype at rs966221: GG or (C;C)
+rs966221(C;C) is associated with: 1.5x increased stroke risk
+rs966221(C;T) is associated with: 1.5x increased stroke risk
+rs966221(T;T) is associated with: normal
+
+191
+-----------
+My genotype at rs17244841: AA or (T;T)
+rs17244841(A;A) is associated with: more responsive to statin treatment
+rs17244841(A;T) is associated with: not as responsive to statin treatment
+rs17244841(T;T) is associated with: not as responsive to statin treatment
+
+192
+-----------
+My genotype at rs17238540: TT or (T;T)
+rs17238540(G;G) is associated with: less responsive to statin treatment
+rs17238540(G;T) is associated with: not as responsive to statin treatment
+rs17238540(T;T) is associated with: common
+
+193
+-----------
+My genotype at rs6869366: TT or (T;T)
+rs6869366(G;G) is associated with: >2x increased risk for bladder cancer
+rs6869366(G;T) is associated with: 2x increased risk for bladder cancer
+rs6869366(T;T) is associated with: normal
+
+194
+-----------
+My genotype at rs6232: TT or (A;A)
+rs6232(A;G) is associated with: obesity and insulin
+rs6232(G;G) is associated with: obesity and insulin
+
+195
+-----------
+My genotype at rs27044: CC or (G;G)
+rs27044(C;C) is associated with: normal risk
+rs27044(C;G) is associated with: 1.4x higher risk for spondylitis
+rs27044(G;G) is associated with: 1.4x higher risk for spondylitis
+
+196
+-----------
+My genotype at rs30187: CC or (C;C)
+rs30187(C;C) is associated with: normal risk
+rs30187(C;T) is associated with: 1.4x higher risk for spondylitis
+rs30187(T;T) is associated with: 1.4x higher risk for spondylitis
+
+197
+-----------
+My genotype at rs383830: TT or (T;T)
+rs383830(A;A) is associated with: 1.9x risk
+rs383830(A;T) is associated with: 1.6x risk
+rs383830(T;T) is associated with: normal
+
+198
+-----------
+My genotype at rs27388: GG or (G;G)
+rs27388(A;A) is associated with: somewhat increased risk for schizophrenia
+rs27388(A;G) is associated with: somewhat increased risk for schizophrenia
+rs27388(G;G) is associated with: normal risk
+
+199
+-----------
+My genotype at rs1355095: TT or (A;A)
+rs1355095(A;A) is associated with: normal
+rs1355095(A;G) is associated with: None
+rs1355095(G;G) is associated with: increase risk of schizophrenia
+
+200
+-----------
+My genotype at rs6596075: CC or (G;G)
+rs6596075(C;C) is associated with: 2x risk
+rs6596075(C;G) is associated with: 1.5x risk
+rs6596075(G;G) is associated with: normal
+
+201
+-----------
+My genotype at rs17166496: CC or (G;G)
+rs17166496(C;C) is associated with: 1.1x risk
+rs17166496(C;G) is associated with: 0.8x risk
+rs17166496(G;G) is associated with: normal
+
+202
+-----------
+My genotype at rs13357391: CC or (C;C)
+rs13357391(C;C) is associated with: slightly earlier age at menarche
+rs13357391(C;T) is associated with: normal
+rs13357391(T;T) is associated with: normal
+
+203
+-----------
+My genotype at rs1859345: CC or (C;C)
+rs1859345(C;C) is associated with: slightly earlier age at menarche
+rs1859345(C;T) is associated with: normal
+rs1859345(T;T) is associated with: normal
+
+204
+-----------
+My genotype at rs2303067: AA or (A;A)
+rs2303067(A;A) is associated with: 1.8x risk
+rs2303067(A;G) is associated with: ?
+rs2303067(G;G) is associated with: normal
+
+205
+-----------
+My genotype at rs1042713: GG or (G;G)
+rs1042713(A;A) is associated with: 1.7x increased risk that pediatric inhaler use may make asthma worse
+rs1042713(A;G) is associated with: 1.3x increased risk that pediatric inhaler use may make asthma worse
+rs1042713(G;G) is associated with: normal
+
+206
+-----------
+My genotype at rs1042714: GG or (G;G)
+rs1042714(C;C) is associated with: normal
+rs1042714(C;G) is associated with: complex; see details for increased risks
+rs1042714(G;G) is associated with: complex; see details for increased risks
+
+207
+-----------
+My genotype at rs1800888: CC or (C;C)
+rs1800888(C;C) is associated with: normal
+rs1800888(C;T) is associated with: increased risk of coronary artery disease
+rs1800888(T;T) is associated with: increased risk of coronary artery disease
+
+208
+-----------
+My genotype at rs13361189: TT or (T;T)
+rs13361189(C;C) is associated with: 2.6x increased risk for Crohn's disease
+rs13361189(C;T) is associated with: 1.3x increased risk for Crohn's disease
+rs13361189(T;T) is associated with: normal
+
+209
+-----------
+My genotype at rs4958847: GG or (G;G)
+rs4958847(A;A) is associated with: 2.6x increased risk for Crohn's disease
+rs4958847(A;G) is associated with: 1.3x increased risk for Crohn's disease
+rs4958847(G;G) is associated with: normal
+
+210
+-----------
+My genotype at rs1000113: CC or (C;C)
+rs1000113(C;C) is associated with: normal
+rs1000113(C;T) is associated with: 1.5x risk of Crohn's disease
+rs1000113(T;T) is associated with: 1.9x risk of Crohn's disease
+
+211
+-----------
+My genotype at rs3212227: TT or (A;A)
+rs3212227(A;A) is associated with: 1.4x increased risk of psoriasis and psoriatic arthritis
+rs3212227(A;C) is associated with: None
+rs3212227(C;C) is associated with: normal
+
+212
+-----------
+My genotype at rs6887695: GG or (G;G)
+rs6887695(C;C) is associated with: normal
+rs6887695(C;G) is associated with: 
+rs6887695(G;G) is associated with: 1.4x increased risk of psoriasis, psoriatic arthritis
+
+213
+-----------
+My genotype at rs2910164: GG or (G;G)
+rs2910164(C;C) is associated with: higher/earlier cancer likelihood??
+rs2910164(C;G) is associated with: higher/earlier cancer likelihood??
+rs2910164(G;G) is associated with: normal
+
+214
+-----------
+My genotype at rs3095870: CC or (G;G)
+rs3095870(A;A) is associated with: normal risk
+rs3095870(A;G) is associated with: 1.7x increased risk for SLE (lupus)
+rs3095870(G;G) is associated with: 1.7x increased risk for SLE (lupus)
+
+215
+-----------
+My genotype at rs872071: AA or (A;A)
+rs872071(A;A) is associated with: normal
+rs872071(A;G) is associated with: ~1.5x increased risk for chronic lymphocytic leukemia
+rs872071(G;G) is associated with: ~1.5x increased risk for chronic lymphocytic leukemia
+
+216
+-----------
+My genotype at rs1334710: AA or (A;A)
+rs1334710(A;A) is associated with: average
+rs1334710(A;G) is associated with: increased risk
+rs1334710(G;G) is associated with: increased risk
+
+217
+-----------
+My genotype at rs1018381: GG or (C;C)
+rs1018381(T;T) is associated with: impaired cognitive ability
+
+218
+-----------
+My genotype at rs1142345: TT or (A;A)
+rs1142345(G;G) is associated with: possibly incapable of detoxifying
+
+219
+-----------
+My genotype at rs1800584: CC or (G;G)
+rs1800584(A;A) is associated with: TPMT*4A homozygote; likely issues detoxifying certain drugs
+rs1800584(A;G) is associated with: TPMT*4A heterozygote; possible issues detoxifying certain drugs
+
+220
+-----------
+My genotype at rs1800460: CC or (G;G)
+rs1800460(A;A) is associated with: incapable of detoxifying byproducts of certain drugs
+rs1800460(A;G) is associated with: normal
+rs1800460(G;G) is associated with: normal
+
+221
+-----------
+My genotype at rs1800462: CC or (G;G)
+rs1800462(C;C) is associated with: incapable of detoxifying
+rs1800462(C;G) is associated with: detoxifying ability may be diminished
+rs1800462(G;G) is associated with: normal for 23andMe
+
+222
+-----------
+My genotype at rs7754840: CC or (G;G)
+rs7754840(C;C) is associated with: 1.3x increased risk for type-2 diabetes
+rs7754840(C;G) is associated with: 1.3x increased risk for type-2 diabetes
+rs7754840(G;G) is associated with: normal
+
+223
+-----------
+My genotype at rs793862: GG or (G;G)
+rs793862(A;A) is associated with: 3-5x dyslexia risk
+rs793862(A;G) is associated with: increased dyslexia risk
+rs793862(G;G) is associated with: common
+
+224
+-----------
+My genotype at rs807701: AA or (T;T)
+rs807701(C;C) is associated with: 2-5x increased dyslexia risk
+rs807701(C;T) is associated with: increased dyslexia risk
+rs807701(T;T) is associated with: common
+
+225
+-----------
+My genotype at rs4504469: CC or (C;C)
+rs4504469(C;C) is associated with: common
+rs4504469(C;T) is associated with: 1.5x risk
+rs4504469(T;T) is associated with: > 1.5x risk
+
+226
+-----------
+My genotype at rs761100: CC or (G;G)
+rs761100(G;G) is associated with: higher risk for dyslexia
+rs761100(G;T) is associated with: normal risk
+rs761100(T;T) is associated with: normal risk
+
+227
+-----------
+My genotype at rs3212236: TT or (A;A)
+rs3212236(A;A) is associated with: higher risk for dyslexia
+rs3212236(A;G) is associated with: normal risk
+rs3212236(G;G) is associated with: normal risk
+
+228
+-----------
+My genotype at rs2143340: AA or (T;T)
+rs2143340(C;C) is associated with: > 2x risk of dyslexia and poor reading performance
+rs2143340(C;T) is associated with: increased risk of dyslexia and poor reading performance
+rs2143340(T;T) is associated with: common
+
+229
+-----------
+My genotype at rs1799945: CC or (G;G)
+rs1799945(C;C) is associated with: Not a H63D hemochromatosis carrier.
+rs1799945(C;G) is associated with: One copy of H63D, carrier of hemochromatosis, likely unaffected unless also C282Y carrier.
+rs1799945(G;G) is associated with: Two copies of H36D, likely affected by mild form of hemochromatosis
+
+230
+-----------
+My genotype at rs1800562: GG or (G;G)
+rs1800562(A;A) is associated with: Two copies of H36D, likely affected by hemochromatosis which may be serious if male or post-menopausal.
+rs1800562(A;G) is associated with: One copy of C282Y, carrier of hemochromatosis, likely unaffected unless also H63D carrier.
+rs1800562(G;G) is associated with: Not a C282Y hemochromatosis carrier.
+
+231
+-----------
+My genotype at rs4959039: AA or (A;A)
+rs4959039(A;A) is associated with: normal
+rs4959039(A;G) is associated with: 1.4x higher risk for multiple sclerosis
+rs4959039(G;G) is associated with: 1.6x higher risk for multiple sclerosis
+
+232
+-----------
+My genotype at rs1265159: GG or (C;C)
+rs1265159(C;C) is associated with: normal
+rs1265159(C;T) is associated with: ~5x increased risk of psoriasis
+rs1265159(T;T) is associated with: psoriasis risk for Chinese?
+
+233
+-----------
+My genotype at rs1265181: GG or (G;G)
+rs1265181(C;C) is associated with: normal
+rs1265181(C;G) is associated with: increased risk for psoriasis
+rs1265181(G;G) is associated with: possibly increased risk of psoriasis
+
+234
+-----------
+My genotype at rs2395029: TT or (T;T)
+rs2395029(G;G) is associated with: HLA-B*5701 homozygote; high risk for hypersensitivity to various drugs including abacavir; see details
+rs2395029(G;T) is associated with: HLA-B*5701 carrier
+rs2395029(T;T) is associated with: common
+
+235
+-----------
+My genotype at rs1800630: CC or (C;C)
+rs1800630(A;A) is associated with: 1.8x increased lupus risk
+rs1800630(A;C) is associated with: 1.8x increased lupus risk
+rs1800630(C;C) is associated with: normal
+
+236
+-----------
+My genotype at rs1800750: GG or (G;G)
+rs1800750(A;A) is associated with: higher acute otitis risk
+rs1800750(A;G) is associated with: normal risk
+rs1800750(G;G) is associated with: normal risk
+
+237
+-----------
+My genotype at rs361525: GG or (G;G)
+rs361525(A;A) is associated with: complex; generally higher risk for certain diseases
+rs361525(A;G) is associated with: complex; generally higher risk for certain diseases
+rs361525(G;G) is associated with: complex; generally normal risk
+
+238
+-----------
+My genotype at rs9332739: GG or (G;G)
+rs9332739(C;C) is associated with: reduced risk of age related macular degeneration
+rs9332739(C;G) is associated with: None
+rs9332739(G;G) is associated with: normal
+
+239
+-----------
+My genotype at rs419788: CC or (G;G)
+rs419788(A;A) is associated with: 2.3x risk for lupus
+rs419788(A;G) is associated with: 2.0x risk for lupus
+rs419788(G;G) is associated with: average
+
+240
+-----------
+My genotype at rs2070600: CC or (G;G)
+rs2070600(A;A) is associated with: 1.5x increased risk for gastric cancer
+rs2070600(A;G) is associated with: 1.5x increased risk for gastric cancer
+rs2070600(G;G) is associated with: normal
+
+241
+-----------
+My genotype at rs3131296: CC or (G;G)
+rs3131296(A;A) is associated with: normal
+rs3131296(A;G) is associated with: 1.2x increased risk for schizophrenia
+rs3131296(G;G) is associated with: 1.4x increased risk for schizophrenia
+
+242
+-----------
+My genotype at rs6910071: AA or (A;A)
+rs6910071(A;A) is associated with: normal
+rs6910071(A;G) is associated with: possibly at 4x higher risk of [[rheumatoid arthritis]]
+rs6910071(G;G) is associated with: 6x higher risk of [[rheumatoid arthritis]]
+
+243
+-----------
+My genotype at rs3129934: CC or (C;C)
+rs3129934(C;C) is associated with: normal
+rs3129934(C;T) is associated with: normal
+rs3129934(T;T) is associated with: 3.3x increased risk for multiple sclerosis
+
+244
+-----------
+My genotype at rs3817964: TT or (T;T)
+rs3817964(A;A) is associated with: normal
+rs3817964(A;T) is associated with: possibly at 4x higher risk of [[rheumatoid arthritis]]
+rs3817964(T;T) is associated with: 6x higher risk of [[rheumatoid arthritis]]
+
+245
+-----------
+My genotype at rs10947262: CC or (C;C)
+rs10947262(C;C) is associated with: 1.3x increased risk for osteoarthritis
+
+246
+-----------
+My genotype at rs3135391: GG or (C;C)
+rs3135391(C;C) is associated with: normal
+rs3135391(C;T) is associated with: HLA-DRB1*1501 carrier; higher multiple sclerosis risk
+rs3135391(T;T) is associated with: 3 to 6 fold higher risk for multiple sclerosis
+
+247
+-----------
+My genotype at rs3135388: GG or (C;C)
+rs3135388(C;C) is associated with: normal
+rs3135388(C;T) is associated with: 3x higher risk of multiple sclerosis
+rs3135388(T;T) is associated with: 3-6x higher risk of multiple sclerosis
+
+248
+-----------
+My genotype at rs660895: AA or (A;A)
+rs660895(A;A) is associated with: normal
+rs660895(A;G) is associated with: possibly at 4x higher risk of [[rheumatoid arthritis]]
+rs660895(G;G) is associated with: 6x higher risk of rheumatoid arthritis
+
+249
+-----------
+My genotype at rs9272346: GG or (G;G)
+rs9272346(A;A) is associated with: 18.5x risk of Type-1 Diabetes
+rs9272346(A;G) is associated with: 5.5x risk type-1 diabetes
+rs9272346(G;G) is associated with: normal
+
+250
+-----------
+My genotype at rs2187668: CC or (G;G)
+rs2187668(A;A) is associated with: Autoimmune disorder risk (lupus, celiac disease) due to 2 HLA-DRB1*0301 alleles
+rs2187668(A;G) is associated with: Somewhat increased autoimmune disorder (lupus, celiac disease) risk; 1 HLA-DRB1*0301 allele
+rs2187668(G;G) is associated with: average
+
+251
+-----------
+My genotype at rs9469220: AA or (A;A)
+rs9469220(A;A) is associated with: 1.5x risk
+rs9469220(A;G) is associated with: 1.1x risk
+rs9469220(G;G) is associated with: normal
+
+252
+-----------
+My genotype at rs6457617: TT or (T;T)
+rs6457617(C;C) is associated with: normal
+rs6457617(C;T) is associated with: 2.3x risk of rheumatoid arthritis
+rs6457617(T;T) is associated with: 5.2x risk of rheumatoid arthritis
+
+253
+-----------
+My genotype at rs7454108: TT or (T;T)
+rs7454108(C;C) is associated with: Homozygous for HLA-DQ8 haplotype
+rs7454108(C;T) is associated with: Single HLA-DQ8 haplotype
+
+254
+-----------
+My genotype at rs241448: AA or (T;T)
+rs241448(C;C) is associated with: 2.14x increased risk for Alzheimer's
+rs241448(C;T) is associated with: 1.51x increased risk for Alzheimer's
+rs241448(T;T) is associated with: common
+
+255
+-----------
+My genotype at rs1800454: CC or (G;G)
+rs1800454(A;A) is associated with: affected
+rs1800454(A;G) is associated with: carrier
+rs1800454(G;G) is associated with: normal
+
+256
+-----------
+My genotype at rs7757037: AA or (A;A)
+rs7757037(A;A) is associated with: 0.63x decreased risk for bipolar disorder
+rs7757037(A;G) is associated with: 0.68x decreased risk for bipolar disorder
+rs7757037(G;G) is associated with: normal
+
+257
+-----------
+My genotype at rs1360780: CC or (C;C)
+rs1360780(C;C) is associated with: normal
+rs1360780(C;T) is associated with: 1.3x increased risk for depression
+rs1360780(T;T) is associated with: 1.3x increased risk for depression
+
+258
+-----------
+My genotype at rs1801270: CC or (C;C)
+rs1801270(A;A) is associated with: increased risk for lung cancer
+rs1801270(A;C) is associated with: increased risk for lung cancer
+rs1801270(C;C) is associated with: normal risk
+
+259
+-----------
+My genotype at rs4714156: CC or (C;C)
+rs4714156(C;C) is associated with: <0.61x risk for restless legs
+rs4714156(C;T) is associated with: 0.61x risk for restless legs
+rs4714156(T;T) is associated with: common
+
+260
+-----------
+My genotype at rs9296249: TT or (T;T)
+rs9296249(C;C) is associated with: <0.62x risk for restless legs
+rs9296249(C;T) is associated with: 0.62x risk for restless legs
+rs9296249(T;T) is associated with: common
+
+261
+-----------
+My genotype at rs9357271: TT or (T;T)
+rs9357271(C;C) is associated with: <0.63x risk for restless legs
+rs9357271(C;T) is associated with: 0.63x risk for restless legs
+rs9357271(T;T) is associated with: common
+
+262
+-----------
+My genotype at rs3923809: AA or (A;A)
+rs3923809(A;A) is associated with: >1.9x risk for restless legs
+rs3923809(A;G) is associated with: 1.9x risk for restless legs
+rs3923809(G;G) is associated with: common
+
+263
+-----------
+My genotype at rs6458307: TT or (T;T)
+rs6458307(C;C) is associated with: 1.4x risk
+rs6458307(C;T) is associated with: 0.8x risk
+rs6458307(T;T) is associated with: normal
+
+264
+-----------
+My genotype at rs699947: CC or (C;C)
+rs699947(A;A) is associated with: 1.36x increased risk for thyroid cancer in men
+rs699947(A;C) is associated with: 1.36x increased risk for thyroid cancer in men
+rs699947(C;C) is associated with: normal
+
+265
+-----------
+My genotype at rs1570360: GG or (G;G)
+rs1570360(A;A) is associated with: 3x risk
+rs1570360(A;G) is associated with: 3x risk
+rs1570360(G;G) is associated with: normal
+
+266
+-----------
+My genotype at rs3025039: CC or (C;C)
+rs3025039(C;C) is associated with: normal
+rs3025039(C;T) is associated with: 2.6x increased risk for ARMD
+rs3025039(T;T) is associated with: 2.6x increased risk for ARMD
+
+267
+-----------
+My genotype at rs7771980: TT or (T;T)
+rs7771980(C;C) is associated with: lower bone mineral density in postmenopausal Korean women
+rs7771980(C;T) is associated with: higher bone mineral density in postmenopausal Spanish women
+rs7771980(T;T) is associated with: normal
+
+268
+-----------
+My genotype at rs2275913: AA or (A;A)
+rs2275913(A;A) is associated with: 3x increased gastric cancer risk
+rs2275913(A;G) is associated with: 1.4x increased gastric cancer risk
+rs2275913(G;G) is associated with: normal
+
+269
+-----------
+My genotype at rs3804505: GG or (C;C)
+rs3804505(C;T) is associated with: ?
+rs3804505(T;T) is associated with: rare, related to myoclonic epilepsy
+
+270
+-----------
+My genotype at rs2653349: GG or (G;G)
+rs2653349(A;A) is associated with: normal
+rs2653349(A;G) is associated with: ~1.5x? increased risk for cluster headaches
+rs2653349(G;G) is associated with: 2-6x increased risk for cluster headaches
+
+271
+-----------
+My genotype at rs2518224: AA or (A;A)
+rs2518224(A;A) is associated with: normal
+rs2518224(A;C) is associated with: normal
+rs2518224(C;C) is associated with: 8.2x higher risk of suicidal thoughts when taking [[citalopram]]
+
+272
+-----------
+My genotype at rs619203: GG or (G;G)
+rs619203(C;C) is associated with: 
+rs619203(C;G) is associated with: increases susceptibility to Myocardial Infarction 1.15 times
+rs619203(G;G) is associated with: None
+
+273
+-----------
+My genotype at rs6918698: GG or (G;G)
+rs6918698(C;C) is associated with: normal risk
+rs6918698(C;G) is associated with: ~normal risk
+rs6918698(G;G) is associated with: 2.2x higher systemic sclerosis risk
+
+274
+-----------
+My genotype at rs6920220: GG or (G;G)
+rs6920220(A;A) is associated with: 1.7x risk
+rs6920220(A;G) is associated with: 1.2x risk
+rs6920220(G;G) is associated with: normal
+
+275
+-----------
+My genotype at rs7753394: TT or (T;T)
+rs7753394(C;C) is associated with: 1.5x risk
+rs7753394(C;T) is associated with: 1.2x risk
+rs7753394(T;T) is associated with: normal
+
+276
+-----------
+My genotype at rs237025: GG or (C;C)
+rs237025(C;C) is associated with: VAL/VAL reduced [[diabetes]] susceptibility
+rs237025(C;T) is associated with: contributes to both type-1 diabetes and type-2 diabetes
+rs237025(T;T) is associated with: MET/MET increased diabetes susceptibility
+
+277
+-----------
+My genotype at rs6922269: GG or (G;G)
+rs6922269(A;A) is associated with: 1.6x risk
+rs6922269(A;G) is associated with: 1.2x risk
+rs6922269(G;G) is associated with: normal
+
+278
+-----------
+My genotype at rs2881766: TT or (T;T)
+rs2881766(G;G) is associated with: normal
+rs2881766(G;T) is associated with: increased risk for pregnancy-induced hypertension
+rs2881766(T;T) is associated with: increased risk for pregnancy-induced hypertension
+
+279
+-----------
+My genotype at rs3020314: TT or (T;T)
+rs3020314(C;C) is associated with: 0.42x reduced lymphoma risk
+rs3020314(C;T) is associated with: 0.64x reduced lymphoma risk
+rs3020314(T;T) is associated with: normal
+
+280
+-----------
+My genotype at rs2179922: GG or (G;G)
+rs2179922(A;A) is associated with: males 1-2cm shorter on average
+rs2179922(G;G) is associated with: common
+
+281
+-----------
+My genotype at rs2295190: GG or (G;G)
+rs2295190(G;G) is associated with: common
+rs2295190(G;T) is associated with: Slightly increased risk for ovarian cancer in women
+rs2295190(T;T) is associated with: Slightly increased risk for ovarian cancer in women
+
+282
+-----------
+My genotype at rs1799971: AA or (A;A)
+rs1799971(A;A) is associated with: normal
+rs1799971(A;G) is associated with: stronger cravings for alcohol. if alcoholic, naltrexone treatment 2x more successful
+rs1799971(G;G) is associated with: more pain
+
+283
+-----------
+My genotype at rs10485057: AA or (A;A)
+rs10485057(A;A) is associated with: normal
+rs10485057(A;G) is associated with: normal?
+rs10485057(G;G) is associated with: increased risk for smoking, nicotine dependence
+
+284
+-----------
+My genotype at rs622342: CC or (C;C)
+rs622342(C;C) is associated with: influences dosage for Parkinson's patients
+
+285
+-----------
+My genotype at rs3798220: TT or (T;T)
+rs3798220(C;C) is associated with: 2-3x higher risk for cardiovascular events, which can be lowered by aspirin
+rs3798220(C;T) is associated with: 2-3x higher risk for cardiovascular events, which can be lowered by aspirin
+rs3798220(T;T) is associated with: normal
+
+286
+-----------
+My genotype at rs10455872: AA or (A;A)
+rs10455872(A;G) is associated with: increased Coronary Heart disease risk
+rs10455872(G;G) is associated with: increased Coronary Heart disease risk
+
+287
+-----------
+My genotype at rs992037: CC or (C;C)
+rs992037(C;C) is associated with: lowest lysine values
+rs992037(C;T) is associated with: intermediate lysine values
+rs992037(T;T) is associated with: highest lysine values
+
+288
+-----------
+My genotype at rs13208776: GG or (G;G)
+rs13208776(A;A) is associated with: normal
+rs13208776(A;G) is associated with: normal
+rs13208776(G;G) is associated with: higher risk for generalized vitiligo
+
+289
+-----------
+My genotype at rs8089: CC or (G;G)
+rs8089(G;G) is associated with: slightly increased heart attack risk
+rs8089(G;T) is associated with: slightly increased heart attack risk
+rs8089(T;T) is associated with: normal risk
+
+290
+-----------
+My genotype at rs1800795: CC or (G;G)
+rs1800795(C;C) is associated with: less IL6; certain risks, see details
+rs1800795(C;G) is associated with: complex; see details
+rs1800795(G;G) is associated with: more IL6; certain risks, see details
+
+291
+-----------
+My genotype at rs10250779: CC or (C;C)
+rs10250779(C;C) is associated with: normal
+rs10250779(C;T) is associated with: normal
+rs10250779(T;T) is associated with: possible exercise-inducing cramping in African-Americans
+
+292
+-----------
+My genotype at rs2302009: AA or (T;T)
+rs2302009(G;G) is associated with: 4.6x risk
+rs2302009(G;T) is associated with: normal
+rs2302009(T;T) is associated with: normal
+
+293
+-----------
+My genotype at rs1057868: CC or (C;C)
+rs1057868(C;C) is associated with: normal
+rs1057868(C;T) is associated with: normal
+rs1057868(T;T) is associated with: 1.6x higher overall CYP3A activity
+
+294
+-----------
+My genotype at rs1334512: GG or (G;G)
+rs1334512(G;G) is associated with: 0.37x decreased risk for severe malaria
+rs1334512(G;T) is associated with: decreased risk for severe malaria
+rs1334512(T;T) is associated with: normal
+
+295
+-----------
+My genotype at rs12536657: GG or (G;G)
+rs12536657(A;A) is associated with: hypermyopia risk
+
+296
+-----------
+My genotype at rs1128503: GG or (C;C)
+rs1128503(C;C) is associated with: normal
+rs1128503(C;T) is associated with: may require more methadone during heroin withdrawal
+rs1128503(T;T) is associated with: likely to require more methadone during heroin withdrawal
+
+297
+-----------
+My genotype at rs662: TT or (A;A)
+rs662(A;A) is associated with: 0.65x lower risk of ovarian cancer; normal PON catalytic efficiency
+rs662(A;G) is associated with: 0.65x lower risk of ovarian cancer; higher risk of coronary heart disease in some studies; somewhat reduced PON catalytic efficiency
+rs662(G;G) is associated with: higher risk of coronary heart disease in some studies; significantly reduced PON catalytic efficiency; increased trait-anxiety scores
+
+298
+-----------
+My genotype at rs705381: CC or (C;C)
+rs705381(C;C) is associated with: normal
+rs705381(C;T) is associated with: less likely to gain weight if taking risperidone
+rs705381(T;T) is associated with: less likely to gain weight if taking risperidone
+
+299
+-----------
+My genotype at rs41279854: AA or (A;A)
+rs41279854(G;G) is associated with: CYP3A5*10 homozygote; nonexpressor for CYP3A5
+rs41279854(A;G) is associated with: carrier of one CYP3A5*10 allele
+rs41279854(A;A) is associated with: normal
+
+300
+-----------
+My genotype at rs28365083: GG or (C;C)
+rs28365083(A;A) is associated with: CYP3A5*2 homozygote; nonexpressor for CYP3A5
+rs28365083(A;C) is associated with: carrier of one CYP3A5*2 allele
+rs28365083(C;C) is associated with: normal
+
+301
+-----------
+My genotype at rs28383479: CC or (G;G)
+rs28383479(A;A) is associated with: CYP3A5*9 homozygote; nonexpressor for CYP3A5
+rs28383479(A;G) is associated with: carrier of one CYP3A5*9 allele
+rs28383479(G;G) is associated with: normal
+
+302
+-----------
+My genotype at rs10264272: CC or (C;C)
+rs10264272(C;C) is associated with: normal
+rs10264272(C;T) is associated with: carrier of one CYP3A5*6 allele
+rs10264272(T;T) is associated with: CYP3A5*6 homozygote; nonexpressor for CYP3A5
+
+303
+-----------
+My genotype at rs56411402: TT or (T;T)
+rs56411402(C;C) is associated with: CYP3A5*4 homozygote; nonexpressor for CYP3A5
+rs56411402(C;T) is associated with: carrier of one CYP3A5*4 allele
+rs56411402(T;T) is associated with: normal
+
+304
+-----------
+My genotype at rs41279857: GG or (G;G)
+rs41279857(T;T) is associated with: CYP3A5*S100Y homozygote; nonexpressor for CYP3A5
+rs41279857(G;T) is associated with: carrier of one CYP3A5*S100Y allele
+rs41279857(G;G) is associated with: normal
+
+305
+-----------
+My genotype at rs56244447: AA or (A;A)
+rs56244447(A;A) is associated with: normal
+rs56244447(A;C) is associated with: carrier of one CYP3A5*3D allele
+rs56244447(C;C) is associated with: CYP3A5*3D homozygote; nonexpressor for CYP3A5
+
+306
+-----------
+My genotype at rs776746: CC or (G;G)
+rs776746(A;A) is associated with: nonfunctional CYP3A5; drug metabolism effects
+rs776746(A;G) is associated with: carrier of 1 nonfunctional CYP3A5 allele; drug metabolism affects
+
+307
+-----------
+My genotype at rs72552791: TT or (A;A)
+rs72552791(G;G) is associated with: CYP3A5*11 homozygote; nonexpressor for CYP3A5
+rs72552791(A;G) is associated with: carrier of one CYP3A5*11 allele
+rs72552791(A;A) is associated with: normal
+
+308
+-----------
+My genotype at rs28383468: GG or (C;C)
+rs28383468(C;C) is associated with: normal
+rs28383468(C;T) is associated with: carrier of one CYP3A5*H30Y allele
+rs28383468(T;T) is associated with: CYP3A5*H30Y homozygote; nonexpressor for CYP3A5
+
+309
+-----------
+My genotype at rs55817950: GG or (G;G)
+rs55817950(A;A) is associated with: CYP3A5*8 homozygote; nonexpressor for CYP3A5
+rs55817950(A;G) is associated with: carrier of one CYP3A5*8 allele
+rs55817950(G;G) is associated with: normal
+
+310
+-----------
+My genotype at rs4986913: GG or (C;C)
+rs4986913(C;C) is associated with: normal
+rs4986913(C;T) is associated with: carrier of one CYP3A4*19 allele
+rs4986913(T;T) is associated with: CYP3A4*19 homozygote
+
+311
+-----------
+My genotype at rs4986910: AA or (T;T)
+rs4986910(C;C) is associated with: CYP3A4*3 homozygote
+rs4986910(C;T) is associated with: carrier of one CYP3A4*3 allele
+rs4986910(T;T) is associated with: normal
+
+312
+-----------
+My genotype at rs1041988: AA or (T;T)
+rs1041988(C;C) is associated with: CYP3A4*_23139T>C(I431T) homozygote
+rs1041988(C;T) is associated with: carrier of one CYP3A4*_23139T>C(I431T) allele
+rs1041988(T;T) is associated with: normal
+
+313
+-----------
+My genotype at rs4986909: GG or (C;C)
+rs4986909(C;C) is associated with: normal
+rs4986909(C;T) is associated with: carrier of one CYP3A4*13 allele
+rs4986909(T;T) is associated with: CYP3A4*13 homozygote
+
+314
+-----------
+My genotype at rs67784355: GG or (G;G)
+rs67784355(A;A) is associated with: CYP3A4*11 homozygote
+rs67784355(A;G) is associated with: carrier of one CYP3A4*11 allele
+rs67784355(G;G) is associated with: normal
+
+315
+-----------
+My genotype at rs28371759: AA or (T;T)
+rs28371759(C;C) is associated with: CYP3A4*18 homozygote
+rs28371759(C;T) is associated with: carrier of one CYP3A4*18 allele
+rs28371759(T;T) is associated with: normal
+
+316
+-----------
+My genotype at rs3208363: AA or (T;T)
+rs3208363(G;G) is associated with: CYP3A4*_16907T>G(S252A) homozygote
+rs3208363(G;T) is associated with: carrier of one CYP3A4*_16907T>G(S252A) allele
+rs3208363(T;T) is associated with: normal
+
+317
+-----------
+My genotype at rs55785340: AA or (A;A)
+rs55785340(G;G) is associated with: CYP3A4*2 homozygote
+rs55785340(A;G) is associated with: carrier of one CYP3A4*2 allele
+rs55785340(A;A) is associated with: normal
+
+318
+-----------
+My genotype at rs55901263: GG or (G;G)
+rs55901263(C;C) is associated with: CYP3A4*5 homozygote
+rs55901263(C;G) is associated with: carrier of one CYP3A4*5 allele
+rs55901263(G;G) is associated with: normal
+
+319
+-----------
+My genotype at rs3208361: TT or (A;A)
+rs3208361(A;A) is associated with: normal
+rs3208361(A;G) is associated with: carrier of one CYP3A4*_15635A>G(I193V) allele
+rs3208361(G;G) is associated with: CYP3A4*_15635A>G(I193V)  homozygote
+
+320
+-----------
+My genotype at rs4987161: AA or (T;T)
+rs4987161(C;C) is associated with: CYP3A4*17 homozygote
+rs4987161(C;T) is associated with: carrier of one CYP3A4*17 allele
+rs4987161(T;T) is associated with: normal
+
+321
+-----------
+My genotype at rs12721627: GG or (G;G)
+rs12721627(C;C) is associated with: normal
+rs12721627(C;G) is associated with: carrier of one CYP3A4*16 allele
+rs12721627(G;G) is associated with: CYP3A4*16 homozygote
+
+322
+-----------
+My genotype at rs4986908: CC or (G;G)
+rs4986908(A;A) is associated with: CYP3A4*_14313G>A(E174H) homozygote
+rs4986908(A;G) is associated with: carrier of one CYP3A4*_14313G>A(E174H) allele
+rs4986908(G;G) is associated with: normal
+
+323
+-----------
+My genotype at rs4986907: CC or (G;G)
+rs4986907(A;A) is associated with: CYP3A4*15A homozygote
+rs4986907(A;G) is associated with: carrier of one CYP3A4*15A allele
+rs4986907(G;G) is associated with: normal
+
+324
+-----------
+My genotype at rs55951658: TT or (T;T)
+rs55951658(C;C) is associated with: CYP3A4*4 homozygote
+rs55951658(C;T) is associated with: carrier of one CYP3A4*4 allele
+rs55951658(T;T) is associated with: normal
+
+325
+-----------
+My genotype at rs3091339: TT or (A;A)
+rs3091339(A;A) is associated with: normal
+rs3091339(A;G) is associated with: carrier of one CYP3A4*_11460A>G(K96E) allele
+rs3091339(G;G) is associated with: CYP3A4*_11460A>G(K96E) homozygote
+
+326
+-----------
+My genotype at rs56324128: CC or (C;C)
+rs56324128(C;C) is associated with: normal
+rs56324128(C;T) is associated with: carrier of one CYP3A4*7 allele
+rs56324128(T;T) is associated with: CYP3A4*7 homozygote
+
+327
+-----------
+My genotype at rs12721634: AA or (T;T)
+rs12721634(C;C) is associated with: CYP3A4*14 homozygote
+rs12721634(C;T) is associated with: carrier of one CYP3A4*14 allele
+rs12721634(T;T) is associated with: normal
+
+328
+-----------
+My genotype at rs2740574: TT or (A;A)
+rs2740574(A;A) is associated with: normal
+rs2740574(A;G) is associated with: carrier of one CYP3A4*1B allele
+rs2740574(G;G) is associated with: 2.5x increased risk for prostate or ovarian cancer; CYP3A4*1B homozygote
+
+329
+-----------
+My genotype at rs2227692: CC or (C;C)
+rs2227692(C;T) is associated with: 1.6x higher risk for diffuse gastric cancer
+rs2227692(T;T) is associated with: 1.6x higher risk for diffuse gastric cancer
+
+330
+-----------
+My genotype at rs7341475: GG or (G;G)
+rs7341475(A;A) is associated with: normal
+rs7341475(A;G) is associated with: normal
+rs7341475(G;G) is associated with: 1.58x increased schizophrenia risk for women
+
+331
+-----------
+My genotype at rs1799999: CC or (G;G)
+rs1799999(G;G) is associated with: normal risk
+rs1799999(G;T) is associated with: 
+rs1799999(T;T) is associated with: insulin resistance
+
+332
+-----------
+My genotype at rs4730751: CC or (C;C)
+rs4730751(A;A) is associated with: For kidney donors, 2x more likely to result in allograft rejection
+
+333
+-----------
+My genotype at rs1858830: CC or (G;G)
+rs1858830(C;C) is associated with: 2x risk of autism
+rs1858830(C;G) is associated with: 1.6x increased autism risk
+rs1858830(G;G) is associated with: normal
+
+334
+-----------
+My genotype at rs213950: GG or (G;G)
+rs213950(A;A) is associated with: >1.1x risk
+rs213950(A;G) is associated with: 1.1x risk
+rs213950(G;G) is associated with: normal
+
+335
+-----------
+My genotype at rs11761231: CC or (C;C)
+rs11761231(C;C) is associated with: 
+rs11761231(C;T) is associated with: 
+rs11761231(T;T) is associated with: normal
+
+336
+-----------
+My genotype at rs3807153: AA or (T;T)
+rs3807153(C;C) is associated with: Distal Renal Tubular Acidosis
+rs3807153(C;T) is associated with: carrier
+rs3807153(T;T) is associated with: normal
+
+337
+-----------
+My genotype at rs10246939: TT or (T;T)
+rs10246939(C;C) is associated with: can taste bitter
+rs10246939(C;T) is associated with: can taste bitter
+rs10246939(T;T) is associated with: possibly unable to taste bitterness
+
+338
+-----------
+My genotype at rs1726866: AA or (T;T)
+rs1726866(C;C) is associated with: can taste bitter
+rs1726866(C;T) is associated with: can taste bitter
+rs1726866(T;T) is associated with: possible unable to taste bitter
+
+339
+-----------
+My genotype at rs713598: CC or (G;G)
+rs713598(C;C) is associated with: can taste bitter
+rs713598(C;G) is associated with: can taste bitter
+rs713598(G;G) is associated with: possibly unable to taste bitter
+
+340
+-----------
+My genotype at rs8176058: GG or (C;C)
+rs8176058(C;C) is associated with: common
+rs8176058(C;T) is associated with: None
+rs8176058(T;T) is associated with: None
+
+341
+-----------
+My genotype at rs7794745: AA or (T;T)
+rs7794745(A;A) is associated with: normal risk
+rs7794745(A;T) is associated with: slightly increased risk for autism
+rs7794745(T;T) is associated with: slightly increased risk for autism
+
+342
+-----------
+My genotype at rs851715: TT or (A;A)
+rs851715(A;A) is associated with: risk of speech development delay and/or impairment
+rs851715(A;G) is associated with: None
+rs851715(G;G) is associated with: None
+
+343
+-----------
+My genotype at rs10246256: TT or (T;T)
+rs10246256(C;C) is associated with: None
+rs10246256(C;T) is associated with: None
+rs10246256(T;T) is associated with: higher risk of speech development delay and/or impairment
+
+344
+-----------
+My genotype at rs2710102: GG or (C;C)
+rs2710102(C;C) is associated with: higher risk of speech development delay and/or impairment
+rs2710102(C;T) is associated with: None
+rs2710102(T;T) is associated with: None
+
+345
+-----------
+My genotype at rs759178: CC or (G;G)
+rs759178(G;G) is associated with: higher risk of speech development delay and/or impairment
+rs759178(G;T) is associated with: None
+rs759178(T;T) is associated with: None
+
+346
+-----------
+My genotype at rs1922892: TT or (T;T)
+rs1922892(C;C) is associated with: None
+rs1922892(C;T) is associated with: None
+rs1922892(T;T) is associated with: higher risk of speech development delay and/or impairment
+
+347
+-----------
+My genotype at rs2538991: CC or (G;G)
+rs2538991(G;G) is associated with: higher risk of speech development delay and/or impairment
+rs2538991(G;T) is associated with: None
+rs2538991(T;T) is associated with: None
+
+348
+-----------
+My genotype at rs2538976: CC or (G;G)
+rs2538976(A;A) is associated with: None
+rs2538976(A;G) is associated with: None
+rs2538976(G;G) is associated with: higher risk for speech development delay and/or impairment
+
+349
+-----------
+My genotype at rs2710117: AA or (T;T)
+rs2710117(A;A) is associated with: higher risk of speech development delay and/or impairment
+rs2710117(A;T) is associated with: None
+rs2710117(T;T) is associated with: None
+
+350
+-----------
+My genotype at rs17173608: TT or (T;T)
+rs17173608(G;G) is associated with: lower visceral adipose tissue
+rs17173608(G;T) is associated with: lower visceral adipose tissue
+rs17173608(T;T) is associated with: normal
+
+351
+-----------
+My genotype at rs3218536: CC or (G;G)
+rs3218536(A;A) is associated with: lower risk for breast, ovarian cancer
+rs3218536(A;G) is associated with: lower risk for breast, ovarian cancer
+rs3218536(G;G) is associated with: normal risk
+
+352
+-----------
+My genotype at rs10239794: CC or (C;C)
+rs10239794(C;C) is associated with: average
+rs10239794(C;T) is associated with: 1.3x risk for ALS
+rs10239794(T;T) is associated with: >1.3x risk for ALS
+
+353
+-----------
+My genotype at rs10260404: CC or (C;C)
+rs10260404(C;C) is associated with: 1.6x risk for ALS
+rs10260404(C;T) is associated with: 1.2x risk for ALS
+rs10260404(T;T) is associated with: average
+
+354
+-----------
+My genotype at rs2515475: CC or (C;C)
+rs2515475(C;C) is associated with: normal
+rs2515475(C;T) is associated with: 1.27x increased ARDS risk in critically ill patients
+rs2515475(T;T) is associated with: 1.27x increased ARDS risk in critically ill patients
+
+355
+-----------
+My genotype at rs268: AA or (A;A)
+rs268(A;G) is associated with: 3X increased risk for venous thromboembolism
+rs268(G;G) is associated with: 3X+ increased risk for venous thromboembolism
+
+356
+-----------
+My genotype at rs326: AA or (A;A)
+rs326(A;A) is associated with: lower HDL cholesterol
+rs326(A;G) is associated with: lower HDL cholesterol
+rs326(G;G) is associated with: normal risk
+
+357
+-----------
+My genotype at rs17482753: GG or (G;G)
+rs17482753(G;G) is associated with: normal
+rs17482753(G;T) is associated with: elevated triglycerides
+rs17482753(T;T) is associated with: elevated triglycerides
+
+358
+-----------
+My genotype at rs10503669: CC or (C;C)
+rs10503669(A;A) is associated with: associated with higher HDL cholesterol
+rs10503669(A;C) is associated with: associated with higher HDL cholesterol
+
+359
+-----------
+My genotype at rs2270641: TT or (T;T)
+rs2270641(G;G) is associated with: 3.7x higher risk for schizophrenia
+rs2270641(G;T) is associated with: ?
+rs2270641(T;T) is associated with: normal
+
+360
+-----------
+My genotype at rs7014851: TT or (T;T)
+rs7014851(C;C) is associated with: None
+rs7014851(C;T) is associated with: None
+rs7014851(T;T) is associated with: common
+
+361
+-----------
+My genotype at rs11136000: TT or (T;T)
+rs11136000(C;C) is associated with: normal
+rs11136000(C;T) is associated with: 0.84x decreased risk for Alzheimer's disease
+rs11136000(T;T) is associated with: 0.84x decreased risk for Alzheimer's disease
+
+362
+-----------
+My genotype at rs2609653: TT or (T;T)
+rs2609653(C;C) is associated with: 3.6x risk
+rs2609653(C;T) is associated with: 1.5x risk
+rs2609653(T;T) is associated with: normal
+
+363
+-----------
+My genotype at rs4994: AA or (T;T)
+rs4994(C;C) is associated with: 2x higher risk in certain women for cardiac events
+rs4994(C;T) is associated with: 2x higher risk in certain women for cardiac events
+rs4994(T;T) is associated with: normal
+
+364
+-----------
+My genotype at rs7003908: CC or (C;C)
+rs7003908(A;A) is associated with: normal
+rs7003908(A;C) is associated with: normal
+rs7003908(C;C) is associated with: 1.4x increased risk for glioblastoma
+
+365
+-----------
+My genotype at rs2228063: AA or (A;A)
+rs2228063(A;A) is associated with: common
+rs2228063(A;G) is associated with: None
+rs2228063(G;G) is associated with: None
+
+366
+-----------
+My genotype at rs13266634: CC or (C;C)
+rs13266634(C;C) is associated with: increased risk for type-2 diabetes
+rs13266634(C;T) is associated with: increased risk for type-2 diabetes
+rs13266634(T;T) is associated with: normal
+
+367
+-----------
+My genotype at rs3802177: GG or (C;C)
+rs3802177(C;C) is associated with: 1.16x increased risk for type-2 diabetes
+rs3802177(C;T) is associated with: 1.16x increased risk for type-2 diabetes
+rs3802177(T;T) is associated with: normal
+
+368
+-----------
+My genotype at rs16901979: CC or (C;C)
+rs16901979(A;A) is associated with: 1.5x increased risk for prostate cancer
+rs16901979(A;C) is associated with: 1.5x increased risk for prostate cancer
+rs16901979(C;C) is associated with: normal risk
+
+369
+-----------
+My genotype at rs10505483: CC or (G;G)
+rs10505483(A;A) is associated with: None
+rs10505483(A;G) is associated with: None
+rs10505483(G;G) is associated with: common
+
+370
+-----------
+My genotype at rs6983267: GG or (G;G)
+rs6983267(G;G) is associated with: 1.58x increased risk for prostate cancer; also other cancers
+rs6983267(G;T) is associated with: 1.2x risk of prostate cancer
+rs6983267(T;T) is associated with: average risk
+
+371
+-----------
+My genotype at rs1447295: CC or (C;C)
+rs1447295(A;A) is associated with: 1.7x increased risk of prostate cancer
+rs1447295(A;C) is associated with: 1.4x increased risk of prostate cancer
+rs1447295(C;C) is associated with: normal
+
+372
+-----------
+My genotype at rs4242382: GG or (G;G)
+rs4242382(A;A) is associated with: 1.7x increased risk for prostate cancer
+rs4242382(A;G) is associated with: 1.7x increased risk for prostate cancer
+rs4242382(G;G) is associated with: normal risk
+
+373
+-----------
+My genotype at rs7017300: AA or (A;A)
+rs7017300(A;A) is associated with: normal risk
+rs7017300(A;C) is associated with: 1.7x increased risk for prostate cancer
+rs7017300(C;C) is associated with: 1.7x increased risk for prostate cancer
+
+374
+-----------
+My genotype at rs10090154: CC or (C;C)
+rs10090154(C;C) is associated with: normal
+rs10090154(C;T) is associated with: 1.4x increased risk for prostate cancer
+rs10090154(T;T) is associated with: 1.4x increased risk for prostate cancer
+
+375
+-----------
+My genotype at rs7837688: GG or (G;G)
+rs7837688(G;G) is associated with: 1.7x increased risk for prostate cancer
+rs7837688(G;T) is associated with: 1.7x increased risk for prostate cancer
+rs7837688(T;T) is associated with: normal risk
+
+376
+-----------
+My genotype at rs9642880: GG or (G;G)
+rs9642880(G;G) is associated with: normal
+rs9642880(G;T) is associated with: 1.2x increased bladder cancer risk
+rs9642880(T;T) is associated with: 1.5x increased bladder cancer risk
+
+377
+-----------
+My genotype at rs987525: CC or (C;C)
+rs987525(A;A) is associated with: 6x increased risk for cleft lip
+rs987525(A;C) is associated with: 2.5x increased risk for cleft lip
+rs987525(C;C) is associated with: normal
+
+378
+-----------
+My genotype at rs6997709: GG or (G;G)
+rs6997709(G;G) is associated with: 1.5x higher risk for hypertension
+rs6997709(G;T) is associated with: 1.2x higher risk for hypertension
+rs6997709(T;T) is associated with: normal
+
+379
+-----------
+My genotype at rs2294008: CC or (C;C)
+rs2294008(T;T) is associated with: increased risk of gastric and bladder cancer
+
+380
+-----------
+My genotype at rs2572886: GG or (G;G)
+rs2572886(A;A) is associated with: 1.4x increased risk of HIV infection
+rs2572886(A;G) is associated with: 1.4x increased risk of HIV infection
+rs2572886(G;G) is associated with: normal
+
+381
+-----------
+My genotype at rs9886784: CC or (C;C)
+rs9886784(A;A) is associated with: >3.2x risk for AD
+rs9886784(A;C) is associated with: 3.2x risk for AD
+rs9886784(C;C) is associated with: average
+
+382
+-----------
+My genotype at rs719725: CC or (C;C)
+rs719725(A;A) is associated with: 1.46x increased risk for colorectal cancer
+rs719725(A;C) is associated with: 1.5x increased risk for colorectal cancer
+rs719725(C;C) is associated with: normal
+
+383
+-----------
+My genotype at rs3814113: TT or (T;T)
+rs3814113(C;C) is associated with: 0.8x decreased risk for ovarian cancer
+rs3814113(C;T) is associated with: 0.8x decreased risk for ovarian cancer
+rs3814113(T;T) is associated with: normal
+
+384
+-----------
+My genotype at rs3731239: AA or (T;T)
+rs3731239(C;C) is associated with: 0.9x lower risk for breast cancer
+rs3731239(C;T) is associated with: ?
+rs3731239(T;T) is associated with: normal risk
+
+385
+-----------
+My genotype at rs3218005: TT or (A;A)
+rs3218005(A;A) is associated with: 1.55x higher risk for breast cancer
+rs3218005(A;G) is associated with: ?
+rs3218005(G;G) is associated with: normal risk
+
+386
+-----------
+My genotype at rs10811661: TT or (T;T)
+rs10811661(C;C) is associated with: normal
+rs10811661(C;T) is associated with: 1.2x increased risk for type-2 diabetes
+rs10811661(T;T) is associated with: 1.2x increased risk for type-2 diabetes
+
+387
+-----------
+My genotype at rs7019241: CC or (C;C)
+rs7019241(C;C) is associated with: average
+rs7019241(C;T) is associated with: reduced risk for AD?
+rs7019241(T;T) is associated with: reduced risk for AD?
+
+388
+-----------
+My genotype at rs10868366: GG or (G;G)
+rs10868366(G;G) is associated with: average
+rs10868366(G;T) is associated with: reduced risk for AD?
+rs10868366(T;T) is associated with: reduced risk for AD?
+
+389
+-----------
+My genotype at rs965513: GG or (G;G)
+rs965513(A;A) is associated with: 3.5x increased thyroid cancer risk
+rs965513(A;G) is associated with: 1.7x increased thyroid cancer risk
+rs965513(G;G) is associated with: normal
+
+390
+-----------
+My genotype at rs1867277: GG or (G;G)
+rs1867277(A;A) is associated with: 2x increased risk for thyroid cancer
+rs1867277(A;G) is associated with: 1.5x increased risk for thyroid cancer
+rs1867277(G;G) is associated with: normal
+
+391
+-----------
+My genotype at rs4149274: GG or (C;C)
+rs4149274(C;C) is associated with: associated with higher HDL cholesterol
+rs4149274(C;T) is associated with: associated with higher HDL cholesterol
+
+392
+-----------
+My genotype at rs4149268: CC or (G;G)
+rs4149268(A;G) is associated with: associated with higher HDL cholesterol
+rs4149268(G;G) is associated with: associated with higher HDL cholesterol
+
+393
+-----------
+My genotype at rs10759932: TT or (T;T)
+rs10759932(C;C) is associated with: increased risk for chorionic plate inflammation
+rs10759932(C;T) is associated with: increased risk for chorionic plate inflammation
+rs10759932(T;T) is associated with: normal
+
+394
+-----------
+My genotype at rs4986790: AA or (A;A)
+rs4986790(A;A) is associated with: normal
+rs4986790(A;G) is associated with: None
+rs4986790(G;G) is associated with: complex; numerous associations reported
+
+395
+-----------
+My genotype at rs4986791: CC or (C;C)
+rs4986791(C;C) is associated with: normal
+rs4986791(C;T) is associated with: complex; see details
+rs4986791(T;T) is associated with: complex; see details
+
+396
+-----------
+My genotype at rs1953126: CC or (C;C)
+rs1953126(C;C) is associated with: normal
+rs1953126(C;T) is associated with: 1.3x increased risk for rheumatoid arthritis
+rs1953126(T;T) is associated with: 1.3x increased risk for rheumatoid arthritis
+
+397
+-----------
+My genotype at rs1571801: TT or (A;A)
+rs1571801(A;A) is associated with: >1.36x risk for prostate cancer
+rs1571801(A;C) is associated with: 1.36x risk for prostate cancer
+rs1571801(C;C) is associated with: average
+
+398
+-----------
+My genotype at rs10306114: AA or (A;A)
+rs10306114(A;A) is associated with: normal
+rs10306114(A;G) is associated with: Higher risk of bleeding during coronary angiography
+rs10306114(G;G) is associated with: Higher risk of bleeding during coronary angiography
+
+399
+-----------
+My genotype at rs3842787: CC or (C;C)
+rs3842787(C;C) is associated with: normal
+rs3842787(C;T) is associated with: Higher risk of bleeding during coronary angiography
+rs3842787(T;T) is associated with: Higher risk of bleeding during coronary angiography
+
+400
+-----------
+My genotype at rs3003609: TT or (T;T)
+rs3003609(C;C) is associated with: normal
+rs3003609(C;T) is associated with: ?
+rs3003609(T;T) is associated with: associated with heavier smoking in Caucasians
+
+401
+-----------
+My genotype at rs2283123: CC or (C;C)
+rs2283123(C;C) is associated with: normal risk of schizophrenia in limited study
+rs2283123(C;T) is associated with: decreased risk of schizophrenia in limited study
+rs2283123(T;T) is associated with: decreased risk of schizophrenia in limited study
+
+402
+-----------
+My genotype at rs41309764: GG or (C;C)
+rs41309764(C;C) is associated with: normal
+rs41309764(C;T) is associated with: Congenital heart disease and valve calcification likely
+rs41309764(T;T) is associated with: Congenital heart disease and valve calcification
+
+403
+-----------
+My genotype at rs908832: GG or (G;G)
+rs908832(A;A) is associated with: 3.8x increased risk for early-onset Alzheimers
+rs908832(G;G) is associated with: normal
+
+404
+-----------
+My genotype at rs6602024: GG or (G;G)
+rs6602024(A;A) is associated with: 1-3 body mass index units heavier on average
+rs6602024(A;G) is associated with: ?
+rs6602024(G;G) is associated with: normal
+
+405
+-----------
+My genotype at rs6601764: TT or (T;T)
+rs6601764(C;C) is associated with: 1.5x risk
+rs6601764(C;T) is associated with: 1.1x risk
+rs6601764(T;T) is associated with: normal
+
+406
+-----------
+My genotype at rs1800860: GG or (G;G)
+rs1800860(A;A) is associated with: 10% smaller kidneys as newborns
+rs1800860(A;G) is associated with: 10% smaller kidneys as newborns
+rs1800860(G;G) is associated with: normal
+
+407
+-----------
+My genotype at rs17158558: CC or (C;C)
+rs17158558(C;C) is associated with: normal
+rs17158558(C;T) is associated with: normal
+rs17158558(T;T) is associated with: associated in just 1 case with Hirschsprung disease
+
+408
+-----------
+My genotype at rs3026785: TT or (T;T)
+rs3026785(C;C) is associated with: may be protective against Hirschsprung disease
+rs3026785(C;T) is associated with: may be protective against Hirschsprung disease
+rs3026785(T;T) is associated with: normal
+
+409
+-----------
+My genotype at rs4253208: GG or (G;G)
+rs4253208(C;C) is associated with: normal
+rs4253208(C;G) is associated with: carrier
+rs4253208(G;G) is associated with: possible COCKAYNE SYNDROME, TYPE B
+
+410
+-----------
+My genotype at rs2177369: GG or (C;C)
+rs2177369(C;C) is associated with: 1.5x increased risk for Alzheimer's disease
+rs2177369(C;T) is associated with: normal
+rs2177369(T;T) is associated with: normal
+
+411
+-----------
+My genotype at rs10993994: CC or (C;C)
+rs10993994(T;T) is associated with: 1.2x prostate cancer risk
+
+412
+-----------
+My genotype at rs2279420: AA or (T;T)
+rs2279420(C;C) is associated with: 0.79x decreased risk for LOAD
+rs2279420(C;T) is associated with: 0.79x decreased risk for LOAD
+rs2279420(T;T) is associated with: normal
+
+413
+-----------
+My genotype at rs3758391: TT or (T;T)
+rs3758391(C;C) is associated with: normal
+rs3758391(C;T) is associated with: less mental decline with age
+rs3758391(T;T) is associated with: less mental decline with age
+
+414
+-----------
+My genotype at rs5030882: TT or (T;T)
+rs5030882(C;T) is associated with: 
+rs5030882(T;T) is associated with: common
+
+415
+-----------
+My genotype at rs1049550: AA or (T;T)
+rs1049550(C;C) is associated with: normal
+rs1049550(C;T) is associated with: 0.62x reduced risk for sarcoidosis
+rs1049550(T;T) is associated with: 0.62x reduced risk for sarcoidosis
+
+416
+-----------
+My genotype at rs2274223: AA or (A;A)
+rs2274223(A;A) is associated with: normal
+rs2274223(A;G) is associated with: 1.5x increased risk for stomach & esophageal cancer (seen in Han Chinese)
+rs2274223(G;G) is associated with: 1.9x increased risk for stomach & esophageal cancer (seen in Han Chinese)
+
+417
+-----------
+My genotype at rs28399504: AA or (A;A)
+rs28399504(A;A) is associated with: normal
+rs28399504(A;G) is associated with: carrier
+rs28399504(G;G) is associated with: poor metabolizer
+
+418
+-----------
+My genotype at rs55752064: TT or (T;T)
+rs55752064(C;C) is associated with: CYP2C19*14 homozygote
+rs55752064(C;T) is associated with: carrier of one CYP2C19*14 allele
+rs55752064(T;T) is associated with: normal
+
+419
+-----------
+My genotype at rs17882687: AA or (A;A)
+rs17882687(A;A) is associated with: normal
+rs17882687(A;C) is associated with: carrier of one CYP2C19*15 allele
+rs17882687(C;C) is associated with: CYP2C19*15 homozygote
+
+420
+-----------
+My genotype at rs17878459: GG or (G;G)
+rs17878459(C;C) is associated with: CYP2C19*2B homozygote
+rs17878459(C;G) is associated with: carrier of one CYP2C19*2B allele
+rs17878459(G;G) is associated with: normal
+
+421
+-----------
+My genotype at rs41291556: TT or (T;T)
+rs41291556(C;C) is associated with: CYP2C19*8 homozygote
+rs41291556(C;T) is associated with: carrier of one CYP2C19*8 allele
+rs41291556(T;T) is associated with: normal
+
+422
+-----------
+My genotype at rs72552267: GG or (G;G)
+rs72552267(A;A) is associated with: CYP2C19*6 homozygote
+rs72552267(A;G) is associated with: carrier of one CYP2C19*6 allele
+rs72552267(G;G) is associated with: normal
+
+423
+-----------
+My genotype at rs17884712: GG or (G;G)
+rs17884712(A;A) is associated with: CYP2C19*9 homozygote
+rs17884712(A;G) is associated with: carrier of one CYP2C19*9 allele
+rs17884712(G;G) is associated with: normal
+
+424
+-----------
+My genotype at rs4986893: GG or (G;G)
+rs4986893(A;A) is associated with: poor metabolizer of several commonly prescribed drugs
+rs4986893(A;G) is associated with: carrier
+rs4986893(G;G) is associated with: normal
+
+425
+-----------
+My genotype at rs6413438: CC or (C;C)
+rs6413438(C;C) is associated with: normal
+rs6413438(C;T) is associated with: carrier of one CYP2C19*10 allele
+rs6413438(T;T) is associated with: CYP2C19*10 homozygote
+
+426
+-----------
+My genotype at rs72558186: TT or (T;T)
+rs72558186(A;A) is associated with: CYP2C19*7 homozygote
+rs72558186(A;T) is associated with: carrier of one CYP2C19*7 allele
+rs72558186(T;T) is associated with: normal
+
+427
+-----------
+My genotype at rs3758581: GG or (G;G)
+rs3758581(A;A) is associated with: CYP2C19 V331I homozygote
+rs3758581(A;G) is associated with: carrier of one CYP2C19 V331I allele
+rs3758581(G;G) is associated with: normal
+
+428
+-----------
+My genotype at rs17879685: CC or (C;C)
+rs17879685(C;C) is associated with: normal
+rs17879685(C;T) is associated with: carrier of one CYP2C19*13 allele
+rs17879685(T;T) is associated with: CYP2C19*13 homozygote
+
+429
+-----------
+My genotype at rs55640102: AA or (A;A)
+rs55640102(A;A) is associated with: normal
+rs55640102(A;C) is associated with: carrier of one CYP2C19*12 allele
+rs55640102(C;C) is associated with: CYP2C19*12 homozygote
+
+430
+-----------
+My genotype at rs1799853: CC or (C;C)
+rs1799853(C;C) is associated with: normal; no change in warfarin metabolism
+rs1799853(C;T) is associated with: CYP2C9*2 carrier; average 20% reduction in warfarin metabolism
+rs1799853(T;T) is associated with: CYP2C9*2 homozygote; average 40% reduction in warfarin metabolism
+
+431
+-----------
+My genotype at rs7900194: GG or (G;G)
+rs7900194(A;A) is associated with: CYP2C9*8 homozygote
+rs7900194(A;G) is associated with: carrier of one CYP2C9*8 allele
+rs7900194(G;G) is associated with: normal
+
+432
+-----------
+My genotype at rs72558190: CC or (C;C)
+rs72558190(A;A) is associated with: CYP2C9*15 homozygote
+rs72558190(A;C) is associated with: carrier of one CYP2C9*15 allele
+rs72558190(C;C) is associated with: normal
+
+433
+-----------
+My genotype at rs2256871: AA or (T;T)
+rs2256871(C;C) is associated with: CYP2C9*9 homozygote
+rs2256871(C;T) is associated with: carrier of one CYP2C9*9 allele
+rs2256871(T;T) is associated with: normal
+
+434
+-----------
+My genotype at rs9332130: AA or (A;A)
+rs9332130(A;A) is associated with: normal
+rs9332130(A;G) is associated with: carrier of one CYP2C9*10 allele
+rs9332130(G;G) is associated with: CYP2C9*10 homozygote
+
+435
+-----------
+My genotype at rs28371685: CC or (C;C)
+rs28371685(C;C) is associated with: normal
+rs28371685(C;T) is associated with: carrier of one CYP2C9*11 allele
+rs28371685(T;T) is associated with: CYP2C9*11 homozygote
+
+436
+-----------
+My genotype at rs1057909: AA or (A;A)
+rs1057909(A;A) is associated with: normal
+rs1057909(A;G) is associated with: carrier of one CYP2C9_42612A>G allele
+rs1057909(G;G) is associated with: CYP2C9_42612A>G homozygote
+
+437
+-----------
+My genotype at rs1057910: AA or (A;A)
+rs1057910(A;A) is associated with: normal; no effect on warfarin metabolism
+rs1057910(A;C) is associated with: CYP2C9*3 carrier; average 40% reduction in warfarin metabolism
+rs1057910(C;C) is associated with: CYP2C9*3 homozygote; average 80% reduction in warfarin metabolism
+
+438
+-----------
+My genotype at rs28371686: CC or (C;C)
+rs28371686(G;G) is associated with: CYP2C9*5 homozygote
+rs28371686(C;G) is associated with: carrier of one CYP2C9*5 allele
+rs28371686(C;C) is associated with: normal
+
+439
+-----------
+My genotype at rs1057911: AA or (T;T)
+rs1057911(A;A) is associated with: CYP2C9_50298A>T homozygote
+rs1057911(A;T) is associated with: carrier of one CYP2C9_50298A>T allele
+rs1057911(T;T) is associated with: normal
+
+440
+-----------
+My genotype at rs9332239: CC or (C;C)
+rs9332239(C;C) is associated with: normal
+rs9332239(C;T) is associated with: carrier of one CYP2C9*12 allele
+rs9332239(T;T) is associated with: CYP2C9*12 homozygote
+
+441
+-----------
+My genotype at rs2273697: GG or (G;G)
+rs2273697(A;A) is associated with: Adverse reaction more likely to carbamazepine in epileptic patients
+rs2273697(A;G) is associated with: Adverse reaction more likely to carbamazepine in epileptic patients
+rs2273697(G;G) is associated with: normal/common
+
+442
+-----------
+My genotype at rs2986017: AA or (T;T)
+rs2986017(C;C) is associated with: normal
+rs2986017(C;T) is associated with: no clear risk
+rs2986017(T;T) is associated with: no clear risk
+
+443
+-----------
+My genotype at rs4506565: AA or (T;T)
+rs4506565(A;A) is associated with: 1.9x increased risk for type-2 diabetes
+rs4506565(A;T) is associated with: 1.4x increased risk for type-2 diabetes
+rs4506565(T;T) is associated with: normal
+
+444
+-----------
+My genotype at rs7903146: CC or (C;C)
+rs7903146(C;C) is associated with: normal form
+rs7903146(C;T) is associated with: 1.4x increased risk for diabetes (and perhaps colon cancer)
+rs7903146(T;T) is associated with: 2x increased risk for Type-2 diabetes
+
+445
+-----------
+My genotype at rs12255372: GG or (G;G)
+rs12255372(G;T) is associated with: 1.3x increased type-2 diabetes risk
+rs12255372(T;T) is associated with: increased breast cancer, type-2 diabetes, and aggressive prostate cancer risk
+
+446
+-----------
+My genotype at rs1801252: AA or (A;A)
+rs1801252(A;A) is associated with: None
+rs1801252(A;G) is associated with: 
+rs1801252(G;G) is associated with: 
+
+447
+-----------
+My genotype at rs11200014: GG or (G;G)
+rs11200014(A;A) is associated with: 1.64x risk for breast cancer
+rs11200014(A;G) is associated with: 1.20x risk for breast cancer
+rs11200014(G;G) is associated with: common
+
+448
+-----------
+My genotype at rs2981579: GG or (C;C)
+rs2981579(C;C) is associated with: common
+rs2981579(C;T) is associated with: 1.20x risk for breast cancer
+rs2981579(T;T) is associated with: 1.64x risk for breast cancer
+
+449
+-----------
+My genotype at rs1219648: AA or (A;A)
+rs1219648(A;A) is associated with: 1.64x risk for breast cancer
+rs1219648(A;G) is associated with: 1.20x risk for breast cancer
+rs1219648(G;G) is associated with: common
+
+450
+-----------
+My genotype at rs2420946: CC or (C;C)
+rs2420946(C;C) is associated with: common
+rs2420946(C;T) is associated with: 1.20x risk for breast cancer
+rs2420946(T;T) is associated with: 1.64x risk for breast cancer
+
+451
+-----------
+My genotype at rs2981582: GG or (C;C)
+rs2981582(C;C) is associated with: normal
+rs2981582(C;T) is associated with: 1.3x higher risk of ER+ breast cancer
+rs2981582(T;T) is associated with: 1.7x higher risk of ER+ breast cancer
+
+452
+-----------
+My genotype at rs10490924: GG or (G;G)
+rs10490924(G;T) is associated with: 2.7x risk for age related macular degeneration
+rs10490924(T;T) is associated with: 8.2x risk for age related macular degeneration
+
+453
+-----------
+My genotype at rs2981745: TT or (T;T)
+rs2981745(C;C) is associated with: normal
+rs2981745(C;T) is associated with: 1.6x increased risk for breast cancer in females over 60
+rs2981745(T;T) is associated with: >1.6x increased risk for breast cancer in females over 60
+
+454
+-----------
+My genotype at rs11523871: CC or (C;C)
+rs11523871(A;A) is associated with: normal
+rs11523871(A;C) is associated with: 1.6x increased breast cancer risk for women over 60
+rs11523871(C;C) is associated with: >1.6x increased breast cancer risk for women over 60
+
+455
+-----------
+My genotype at rs2308327: AA or (A;A)
+rs2308327(A;A) is associated with: normal
+rs2308327(A;G) is associated with: 0.67x decreased risk for lung cancer
+rs2308327(G;G) is associated with: 0.10x decreased risk for lung cancer
+
+456
+-----------
+My genotype at rs3813867: GG or (G;G)
+rs3813867(C;C) is associated with: CYP2E1_-1295G>C homozygote
+rs3813867(C;G) is associated with: carrier of one CYP2E1_-1295G>C allele
+rs3813867(G;G) is associated with: normal
+
+457
+-----------
+My genotype at rs2031920: CC or (C;C)
+rs2031920(C;C) is associated with: normal
+rs2031920(C;T) is associated with: carrier of one CYP2E1_-1055C>T allele
+rs2031920(T;T) is associated with: CYP2E1_-1055C>T homozygote
+
+458
+-----------
+My genotype at rs2070672: AA or (A;A)
+rs2070672(A;A) is associated with: CYP2E1*7_-352A>G homozygote
+rs2070672(A;G) is associated with: carrier of one CYP2E1*7_-352A>G allele
+rs2070672(G;G) is associated with: normal
+
+459
+-----------
+My genotype at rs2070673: TT or (T;T)
+rs2070673(A;A) is associated with: CYP2E1*7_-333T>A  homozygote
+rs2070673(A;T) is associated with: carrier of one CYP2E1*7_-333T>A  allele
+rs2070673(T;T) is associated with: normal
+
+460
+-----------
+My genotype at rs6413420: GG or (G;G)
+rs6413420(G;G) is associated with: normal
+rs6413420(G;T) is associated with: carrier of one CYP2E1*7_-71G>T allele
+rs6413420(T;T) is associated with: CYP2E1*7_-71G>T homozygote
+
+461
+-----------
+My genotype at rs6413419: GG or (G;G)
+rs6413419(A;A) is associated with: CYP2E1*4 homozygote
+rs6413419(A;G) is associated with: carrier of one CYP2E1*4 allele
+rs6413419(G;G) is associated with: normal
+
+462
+-----------
+My genotype at rs915909: CC or (C;C)
+rs915909(C;C) is associated with: normal
+rs915909(C;T) is associated with: carrier of one CYP2E1_6498C>T(I321I) allele
+rs915909(T;T) is associated with: CYP2E1_6498C>T(I321I) homozygote
+
+463
+-----------
+My genotype at rs4646976: AA or (A;A)
+rs4646976(A;A) is associated with: normal
+rs4646976(A;G) is associated with: carrier of one CYP2E1_marker8 allele
+rs4646976(G;G) is associated with: CYP2E1_marker8 homozygote
+
+464
+-----------
+My genotype at rs2070676: CC or (G;G)
+rs2070676(C;C) is associated with: CYP2E1*1B homozygote
+rs2070676(C;G) is associated with: carrier of one CYP2E1*1B allele
+rs2070676(G;G) is associated with: normal
+
+465
+-----------
+My genotype at rs55897648: GG or (G;G)
+rs55897648(A;A) is associated with: CYP2E1*3 homozygote
+rs55897648(A;G) is associated with: carrier of one CYP2E1*3 allele
+rs55897648(G;G) is associated with: normal
+
+466
+-----------
+My genotype at rs2515641: CC or (C;C)
+rs2515641(C;C) is associated with: CYP2E1_10463T>C(F421F) homozygote
+rs2515641(C;T) is associated with: carrier of one CYP2E1_10463T>C(F421F) allele
+rs2515641(T;T) is associated with: normal
+
+467
+-----------
+My genotype at rs17571: GG or (C;C)
+rs17571(T;T) is associated with: rare and doesn't seem helpful
+
+468
+-----------
+My genotype at rs4320932: TT or (A;A)
+rs4320932(A;A) is associated with: normal
+rs4320932(A;G) is associated with: 0.87x decreased risk for ovarian cancer
+rs4320932(G;G) is associated with: 0.74x decreased risk for ovarian cancer
+
+469
+-----------
+My genotype at rs2237897: CC or (C;C)
+rs2237897(C;C) is associated with: common
+rs2237897(C;T) is associated with: 1.2x increased risk for diabetic nephropathy in some populations
+rs2237897(T;T) is associated with: 1.4x increased risk for diabetic nephropathy in some populations
+
+470
+-----------
+My genotype at rs34139813: CC or (G;G)
+rs34139813(C;C) is associated with: Normal hemoglobin
+rs34139813(C;G) is associated with: Heterozygous Hb Crete
+rs34139813(G;G) is associated with: homozygous Hb Crete
+
+471
+-----------
+My genotype at rs3781719: AA or (T;T)
+rs3781719(C;C) is associated with: 2x increased hypertension risk
+rs3781719(C;T) is associated with: 2x increased hypertension risk
+rs3781719(T;T) is associated with: normal
+
+472
+-----------
+My genotype at rs1793004: CC or (G;G)
+rs1793004(C;C) is associated with: increased risk for Crohn's disease
+rs1793004(C;G) is associated with: ?
+rs1793004(G;G) is associated with: 0.89x decreased risk for Crohn's disease
+
+473
+-----------
+My genotype at rs8192466: GG or (C;C)
+rs8192466(C;C) is associated with: common
+rs8192466(C;T) is associated with: None
+rs8192466(T;T) is associated with: None
+
+474
+-----------
+My genotype at rs10835638: GG or (G;G)
+rs10835638(G;G) is associated with: common
+rs10835638(G;T) is associated with: intermediate serum FSH level among males
+rs10835638(T;T) is associated with: lower serum FSH level among males
+
+475
+-----------
+My genotype at rs9300039: CC or (C;C)
+rs9300039(A;A) is associated with: normal risk
+rs9300039(A;C) is associated with: 1.5x risk for T2D
+rs9300039(C;C) is associated with: >1.5x risk for T2D
+
+476
+-----------
+My genotype at rs10897346: CC or (C;C)
+rs10897346(C;C) is associated with: if depressed, 2.6x more likely to not respond to antidepressants
+rs10897346(C;T) is associated with: if depressed, 2.6x more likely to not respond to antidepressants
+rs10897346(T;T) is associated with: normal
+
+477
+-----------
+My genotype at rs569108: AA or (T;T)
+rs569108(C;C) is associated with: ?
+rs569108(C;T) is associated with: 3x risk
+rs569108(T;T) is associated with: normal
+
+478
+-----------
+My genotype at rs931127: AA or (A;A)
+rs931127(A;A) is associated with: 2.15x more likely positive lymph node
+rs931127(G;G) is associated with: more favorable
+
+479
+-----------
+My genotype at rs2448490: GG or (G;G)
+rs2448490(A;A) is associated with: 0.57x (reduced) risk for metastasis in LN-/ER+ breast cancer patients
+rs2448490(A;G) is associated with: normal
+rs2448490(G;G) is associated with: normal
+
+480
+-----------
+My genotype at rs1695: GG or (G;G)
+rs1695(A;A) is associated with: normal asthma risk in certain populations
+rs1695(A;G) is associated with: ?
+rs1695(G;G) is associated with: 3.5x asthma risk in certain populations
+
+481
+-----------
+My genotype at rs3736228: CC or (C;C)
+rs3736228(C;C) is associated with: normal
+rs3736228(C;T) is associated with: increased risk for osteoporosis
+rs3736228(T;T) is associated with: increased risk for osteoporosis
+
+482
+-----------
+My genotype at rs603965: GG or (G;G)
+rs603965(A;A) is associated with: normal
+rs603965(A;G) is associated with: ?
+rs603965(G;G) is associated with: increased breast cancer risk
+
+483
+-----------
+My genotype at rs7101429: AA or (A;A)
+rs7101429(A;A) is associated with: higher Alzheimer's risk if ApoE4 also present
+rs7101429(A;G) is associated with: 0.70x reduced risk for Alzheimer's risk
+rs7101429(G;G) is associated with: 0.70x reduced risk for Alzheimer's risk
+
+484
+-----------
+My genotype at rs2373115: CC or (G;G)
+rs2373115(G;T) is associated with: normal
+rs2373115(T;T) is associated with: normal
+
+485
+-----------
+My genotype at rs1126809: GG or (G;G)
+rs1126809(A;A) is associated with: slight increase in skin cancer risk
+rs1126809(A;G) is associated with: slight increase in skin cancer risk
+rs1126809(G;G) is associated with: normal
+
+486
+-----------
+My genotype at rs10830963: CC or (G;G)
+rs10830963(C;C) is associated with: normal
+rs10830963(C;G) is associated with: increased type-2 diabetes risk
+rs10830963(G;G) is associated with: increased type-2 diabetes risk
+
+487
+-----------
+My genotype at rs1042838: CC or (G;G)
+rs1042838(G;G) is associated with: normal risk
+rs1042838(G;T) is associated with: 1.26x risk for ovarian cancer
+rs1042838(T;T) is associated with: 3.2x risk for ovarian cancer
+
+488
+-----------
+My genotype at rs12184413: CC or (C;C)
+rs12184413(C;C) is associated with: normal
+rs12184413(C;T) is associated with: normal
+rs12184413(T;T) is associated with: 0.7x decreased risk for breast cancer
+
+489
+-----------
+My genotype at rs1800054: CC or (G;G)
+rs1800054(C;G) is associated with: very slightly  increased risk (1.05) for breast cancer
+rs1800054(G;G) is associated with: 1.5x increased risk for breast cancer
+
+490
+-----------
+My genotype at rs4986761: TT or (T;T)
+rs4986761(C;C) is associated with: 1.5x increased risk for breast cancer
+rs4986761(C;T) is associated with: very slightly  increased risk (1.05) for breast cancer
+rs4986761(T;T) is associated with: normal
+
+491
+-----------
+My genotype at rs1800056: TT or (T;T)
+rs1800056(C;C) is associated with: 1.5x increased risk for breast cancer
+rs1800056(C;T) is associated with: very slightly  increased risk (1.05) for breast cancer
+rs1800056(T;T) is associated with: normal
+
+492
+-----------
+My genotype at rs1800057: CC or (G;G)
+rs1800057(C;G) is associated with: very slightly  increased risk (1.05) for breast cancer
+rs1800057(G;G) is associated with: 1.5x increased risk for breast cancer
+
+493
+-----------
+My genotype at rs1800058: CC or (C;C)
+rs1800058(C;T) is associated with: very slightly  increased risk (1.05) for breast cancer
+rs1800058(T;T) is associated with: 1.5x increased risk for breast cancer
+
+494
+-----------
+My genotype at rs1801516: GG or (G;G)
+rs1801516(A;A) is associated with: 2.76x odds of pancreatic cancer
+rs1801516(A;G) is associated with: normal
+rs1801516(G;G) is associated with: normal
+
+495
+-----------
+My genotype at rs664143: GG or (C;C)
+rs664143(C;C) is associated with: normal
+rs664143(C;T) is associated with: 1.6x increased risk of lung cancer
+rs664143(T;T) is associated with: 1.6x increased risk of lung cancer
+
+496
+-----------
+My genotype at rs187238: CC or (G;G)
+rs187238(C;C) is associated with: hypertension not a risk factor for sudden cardiac death
+rs187238(C;G) is associated with: hypertension not a risk factor for sudden cardiac death
+rs187238(G;G) is associated with: hypertension increases risk 3.75x for sudden cardiac death
+
+497
+-----------
+My genotype at rs6277: AA or (T;T)
+rs6277(C;C) is associated with: 1.6x higher schizophrenia risk
+rs6277(C;T) is associated with: 1.4x higher schizophrenia risk
+rs6277(T;T) is associated with: learns NoGo faster
+
+498
+-----------
+My genotype at rs1801028: GG or (C;C)
+rs1801028(G;G) is associated with: normal risk
+rs1801028(C;G) is associated with: 1.4x risk for schizophrenia
+rs1801028(C;C) is associated with: normal risk
+
+499
+-----------
+My genotype at rs1076560: CC or (C;C)
+rs1076560(A;A) is associated with: influences working memory
+rs1076560(A;C) is associated with: 1.3x increased risk for alcoholism
+rs1076560(C;C) is associated with: normal
+
+500
+-----------
+My genotype at rs4648317: GG or (C;C)
+rs4648317(C;C) is associated with: normal
+rs4648317(C;T) is associated with: prone to higher nicotine dependence?
+rs4648317(T;T) is associated with: prone to higher nicotine dependence?
+
+501
+-----------
+My genotype at rs2075291: CC or (C;C)
+rs2075291(A;A) is associated with: >4x higher risk for high triglyceride levels in Asians
+rs2075291(A;C) is associated with: 4x higher risk for high triglyceride levels in Asians
+rs2075291(C;C) is associated with: normal
+
+502
+-----------
+My genotype at rs662799: AA or (A;A)
+rs662799(A;A) is associated with: normal
+rs662799(A;G) is associated with: less weight gain on high fat diets
+rs662799(G;G) is associated with: less weight gain on high fat diets
+
+503
+-----------
+My genotype at rs5092: TT or (A;A)
+rs5092(A;A) is associated with: less likely to gain weight if taking olanzapine
+rs5092(A;G) is associated with: less likely to gain weight if taking olanzapine
+rs5092(G;G) is associated with: normal
+
+504
+-----------
+My genotype at rs28931573: GG or (C;C)
+rs28931573(C;T) is associated with: positive for the APOA1 Milano variant
+rs28931573(T;T) is associated with: homozygous for the APOA1 Milano variant
+
+505
+-----------
+My genotype at rs1954787: TT or (T;T)
+rs1954787(C;C) is associated with: ~10% more likely to respond to citalopram
+rs1954787(C;T) is associated with: normal risk
+rs1954787(T;T) is associated with: ~10% less likely to respond to citalopram
+
+506
+-----------
+My genotype at rs1699103: CC or (G;G)
+rs1699103(A;A) is associated with: normal
+rs1699103(A;G) is associated with: normal
+rs1699103(G;G) is associated with: 0.85x risk for Alzheimers
+
+507
+-----------
+My genotype at rs11218350: TT or (T;T)
+rs11218350(A;A) is associated with: normal
+rs11218350(A;T) is associated with: normal
+rs11218350(T;T) is associated with: 0.83x risk for Alzheimers
+
+508
+-----------
+My genotype at rs10892759: GG or (G;G)
+rs10892759(A;A) is associated with: 0.83x risk for Alzheimers
+rs10892759(A;G) is associated with: normal
+rs10892759(G;G) is associated with: normal
+
+509
+-----------
+My genotype at rs1792113: GG or (G;G)
+rs1792113(A;A) is associated with: normal
+rs1792113(A;G) is associated with: normal
+rs1792113(G;G) is associated with: 0.90x risk for Alzheimers
+
+510
+-----------
+My genotype at rs726601: CC or (C;C)
+rs726601(C;C) is associated with: normal
+rs726601(C;T) is associated with: normal
+rs726601(T;T) is associated with: 0.86x risk for Alzheimers
+
+511
+-----------
+My genotype at rs1784931: AA or (A;A)
+rs1784931(A;A) is associated with: normal
+rs1784931(A;C) is associated with: normal
+rs1784931(C;C) is associated with: 0.86x risk for Alzheimers
+
+512
+-----------
+My genotype at rs10893081: TT or (T;T)
+rs10893081(C;C) is associated with: 2x increased risk for severe atherosclerosis; 1.2x increased risk for ischemic heart disease
+rs10893081(C;T) is associated with: normal
+rs10893081(T;T) is associated with: normal
+
+513
+-----------
+My genotype at rs521102: GG or (C;C)
+rs521102(C;C) is associated with: normal
+rs521102(C;T) is associated with: normal
+rs521102(T;T) is associated with: pancreatic cancer patients respond poorer to combined therapy
+
+514
+-----------
+My genotype at rs2298566: CC or (C;C)
+rs2298566(A;A) is associated with: normal
+rs2298566(A;C) is associated with: increased risk of coronary heart disease; better response to statins
+rs2298566(C;C) is associated with: increased risk of coronary heart disease; better response to statins
+
+515
+-----------
+My genotype at rs12425791: GG or (G;G)
+rs12425791(A;A) is associated with: possibly increased risk of stroke
+rs12425791(A;G) is associated with: mixed evidence of increased risk for stroke
+rs12425791(G;G) is associated with: normal
+
+516
+-----------
+My genotype at rs5443: TT or (T;T)
+rs5443(C;C) is associated with: higher risk for several conditions
+rs5443(C;T) is associated with: (some risk; see details)
+rs5443(T;T) is associated with: sibutramine has no effect
+
+517
+-----------
+My genotype at rs1805762: CC or (G;G)
+rs1805762(C;C) is associated with: >1.23x risk for hypertension
+rs1805762(C;G) is associated with: 1.23x risk for hypertension
+rs1805762(G;G) is associated with: average
+
+518
+-----------
+My genotype at rs669: TT or (A;A)
+rs669(A;A) is associated with: normal
+rs669(A;G) is associated with: possibly increased risk for Alzheimers
+rs669(G;G) is associated with: 3.8x or higher increased risk for Alzheimers
+
+519
+-----------
+My genotype at rs11052552: GG or (G;G)
+rs11052552(G;G) is associated with: 1.4x risk
+rs11052552(G;T) is associated with: 1.5x risk
+rs11052552(T;T) is associated with: normal
+
+520
+-----------
+My genotype at rs11045585: AA or (A;A)
+rs11045585(A;A) is associated with: 24% chance (lower than average) of docetaxel-induced leukopenia/neutropenia
+rs11045585(A;G) is associated with: 63% chance (higher than average) of docetaxel-induced leukopenia/neutropenia
+rs11045585(G;G) is associated with: (no data; implied high chance of docetaxel-induced leukopenia/neutropenia)
+
+521
+-----------
+My genotype at rs4149056: TT or (T;T)
+rs4149056(C;C) is associated with: 17x myopathy risk for statin users
+rs4149056(C;T) is associated with: reduced breakdown of some drugs; 5x increased myopathy risk for statin users
+rs4149056(T;T) is associated with: normal
+
+522
+-----------
+My genotype at rs4363657: TT or (T;T)
+rs4363657(C;C) is associated with: 17x increased myopathy risk for statin users
+rs4363657(C;T) is associated with: 4.5x increased myopathy risk for statin users
+rs4363657(T;T) is associated with: normal
+
+523
+-----------
+My genotype at rs7961152: CC or (C;C)
+rs7961152(A;A) is associated with: 1.5x higher risk for hypertension
+rs7961152(A;C) is associated with: 1.2x higher risk for hypertension
+rs7961152(C;C) is associated with: normal
+
+524
+-----------
+My genotype at rs33949390: GG or (G;G)
+rs33949390(C;C) is associated with: 3.3x increased risk for Parkinson's disease
+rs33949390(C;G) is associated with: 3.3x increased risk for Parkinson's disease
+rs33949390(G;G) is associated with: normal
+
+525
+-----------
+My genotype at rs34637584: GG or (G;G)
+rs34637584(A;A) is associated with: 15 to 30% chance of Parkinson's disease, depending on age, family history, and ethnicity
+rs34637584(A;G) is associated with: 15 to 30% chance of Parkinson's disease, depending on age, family history, and ethnicity
+rs34637584(G;G) is associated with: normal
+
+526
+-----------
+My genotype at rs34778348: GG or (G;G)
+rs34778348(A;A) is associated with: 2.1x increased risk for Parkinson's disease
+rs34778348(A;G) is associated with: 2.1x increased risk for Parkinson's disease
+rs34778348(G;G) is associated with: normal
+
+527
+-----------
+My genotype at rs2107301: GG or (C;C)
+rs2107301(C;C) is associated with: normal risk
+rs2107301(C;T) is associated with: ?
+rs2107301(T;T) is associated with: 2.5x higher risk for prostate cancer
+
+528
+-----------
+My genotype at rs4516035: TT or (T;T)
+rs4516035(C;C) is associated with: if less milk in teenage females, less bone?
+rs4516035(C;T) is associated with: if less milk in teenage females, less bone?
+rs4516035(T;T) is associated with: normal
+
+529
+-----------
+My genotype at rs3736309: AA or (A;A)
+rs3736309(A;A) is associated with: normal
+rs3736309(A;G) is associated with: 0.44x decreased risk for chronic obstructive pulmonary lung disease
+rs3736309(G;G) is associated with: 0.44x decreased risk for chronic obstructive pulmonary lung disease
+
+530
+-----------
+My genotype at rs12304921: AA or (A;A)
+rs12304921(A;A) is associated with: normal
+rs12304921(A;G) is associated with: 2.5x risk
+rs12304921(G;G) is associated with: 1.9x risk
+
+531
+-----------
+My genotype at rs60554162: CC or (G;G)
+rs60554162(A;A) is associated with: homozygote for pachyonyitia congenita Type I mutation
+rs60554162(A;G) is associated with: heterozygote for pachyonychia congenita Type I mutation
+rs60554162(G;G) is associated with: normal
+
+532
+-----------
+My genotype at rs57052654: AA or (T;T)
+rs57052654(G;G) is associated with: homozygote for pachyonychia congenita Type I mutation
+rs57052654(G;T) is associated with: heterozygote for pachyonychia congenita Type I mutation
+rs57052654(T;T) is associated with: normal
+
+533
+-----------
+My genotype at rs28933087: AA or (T;T)
+rs28933087(G;G) is associated with: homozygote for pachyonychia congenita Type I mutation
+rs28933087(G;T) is associated with: heterozygote for pachyonychia congenita Type I mutation
+rs28933087(T;T) is associated with: normal
+
+534
+-----------
+My genotype at rs11614913: CC or (C;C)
+rs11614913(C;C) is associated with: increased risk of various types of cancer
+rs11614913(C;T) is associated with: normal
+rs11614913(T;T) is associated with: normal
+
+535
+-----------
+My genotype at rs4570625: GG or (G;G)
+rs4570625(G;G) is associated with: higher scores on anxiety-related personality traits; greater placebo response
+rs4570625(G;T) is associated with: normal
+rs4570625(T;T) is associated with: normal
+
+536
+-----------
+My genotype at rs4565946: CC or (C;C)
+rs4565946(C;C) is associated with: Risk of early-onset OCD
+rs4565946(T;T) is associated with: None
+
+537
+-----------
+My genotype at rs7305115: AA or (A;A)
+rs7305115(A;A) is associated with: Individuals showed a significantly lower risk of suicide behavior than those with the A/G or G/G genotype
+rs7305115(A;G) is associated with: risk of suicide behavior
+rs7305115(G;G) is associated with: risk of suicide behavior
+
+538
+-----------
+My genotype at rs1545843: AA or (A;A)
+rs1545843(A;A) is associated with: 1.4x increased risk for depression (for those under 55)
+rs1545843(G;G) is associated with: normal
+
+539
+-----------
+My genotype at rs3782179: TT or (T;T)
+rs3782179(C;T) is associated with: 3x increased testicular cancer risk for men
+
+540
+-----------
+My genotype at rs4474514: AA or (A;A)
+rs4474514(A;A) is associated with: >3x increased testicular cancer risk for men
+rs4474514(A;G) is associated with: 3x increased testicular cancer risk for men
+rs4474514(G;G) is associated with: normal
+
+541
+-----------
+My genotype at rs11110912: CC or (G;G)
+rs11110912(C;C) is associated with: 1.3x risk
+rs11110912(C;G) is associated with: 1.3x risk
+rs11110912(G;G) is associated with: normal
+
+542
+-----------
+My genotype at rs28934899: CC or (G;G)
+rs28934899(G;G) is associated with: normal
+
+543
+-----------
+My genotype at rs5030849: CC or (G;G)
+rs5030849(A;A) is associated with: PHENYLKETONURIA, MILD
+rs5030849(A;G) is associated with: PHENYLKETONURIA, MILD
+
+544
+-----------
+My genotype at rs1522305: GG or (G;G)
+rs1522305(C;C) is associated with: normal
+rs1522305(C;G) is associated with: normal
+rs1522305(G;G) is associated with: slightly increased risk for schizophrenia
+
+545
+-----------
+My genotype at rs6539137: TT or (T;T)
+rs6539137(A;A) is associated with: increased risk for and earlier onset in males of familial ALS
+rs6539137(A;T) is associated with: 
+rs6539137(T;T) is associated with: normal
+
+546
+-----------
+My genotype at rs3794260: GG or (G;G)
+rs3794260(A;A) is associated with: >1.26x risk for hypertension
+rs3794260(A;G) is associated with: 1.26x risk for hypertension
+rs3794260(G;G) is associated with: average
+
+547
+-----------
+My genotype at rs3184504: TT or (T;T)
+rs3184504(C;C) is associated with: normal
+rs3184504(C;T) is associated with: increased risk for celiac disease
+rs3184504(T;T) is associated with: increased risk for celiac disease
+
+548
+-----------
+My genotype at rs671: GG or (G;G)
+rs671(A;A) is associated with: Flusher, increased risk of esophageal cancer
+rs671(A;G) is associated with: experiences asian flush
+rs671(G;G) is associated with: normal
+
+549
+-----------
+My genotype at rs5888: AA or (T;T)
+rs5888(C;C) is associated with: normal
+rs5888(C;T) is associated with: 3x higher risk for age-related macular degeneration
+rs5888(T;T) is associated with: 1.6x higher risk for age-related macular degeneration
+
+550
+-----------
+My genotype at rs1027557: TT or (A;A)
+rs1027557(A;G) is associated with: heterozygosity seems common
+
+551
+-----------
+My genotype at rs2306536: CC or (C;C)
+rs2306536(C;C) is associated with: average
+rs2306536(C;T) is associated with: ?
+rs2306536(T;T) is associated with: 0.5x lower risk of colorectal cancer
+
+552
+-----------
+My genotype at rs9550642: GG or (G;G)
+rs9550642(A;A) is associated with: 2.2x risk
+rs9550642(A;G) is associated with: 1.3x risk
+rs9550642(G;G) is associated with: normal
+
+553
+-----------
+My genotype at rs4076128: AA or (A;A)
+rs4076128(A;A) is associated with: 1.8x increased breast cancer risk for women having high linoleic acid diets
+rs4076128(A;G) is associated with: normal
+rs4076128(G;G) is associated with: normal
+
+554
+-----------
+My genotype at rs10507391: TT or (T;T)
+rs10507391(A;A) is associated with: normal
+rs10507391(A;T) is associated with: 1.24x increased stroke risk for males
+rs10507391(T;T) is associated with: 1.24x increased stroke risk for males
+
+555
+-----------
+My genotype at rs144848: AA or (T;T)
+rs144848(G;G) is associated with: 1.3x increased risk for breast cancer
+rs144848(G;T) is associated with: possible increased risk for breast cancer
+rs144848(T;T) is associated with: normal
+
+556
+-----------
+My genotype at rs28897756: GG or (G;G)
+rs28897756(A;A) is associated with: possible link to breast cancer in some families
+rs28897756(A;G) is associated with: possible link to breast cancer in some families
+rs28897756(G;G) is associated with: normal
+
+557
+-----------
+My genotype at rs211239: GG or (C;C)
+rs211239(C;C) is associated with: 1.7x risk for priapism in SCA patients
+rs211239(C;T) is associated with: 1.7x risk for priapism in SCA patients
+rs211239(T;T) is associated with: normal risk for priapism in SCA patients
+
+558
+-----------
+My genotype at rs6314: GG or (C;C)
+rs6314(C;C) is associated with: higher risk for RA
+rs6314(C;T) is associated with: higher risk for RA; better response to paroxetine as treatment for depression
+rs6314(T;T) is associated with: average
+
+559
+-----------
+My genotype at rs7997012: AA or (A;A)
+rs7997012(A;A) is associated with: ~18% more likely to respond to citalopram
+rs7997012(A;G) is associated with: normal risk
+rs7997012(G;G) is associated with: ~18% less likely to respond to citalopram
+
+560
+-----------
+My genotype at rs1328674: CC or (G;G)
+rs1328674(A;A) is associated with: higher risk for RA
+rs1328674(A;G) is associated with: higher risk for RA
+rs1328674(G;G) is associated with: average
+
+561
+-----------
+My genotype at rs2854344: GG or (G;G)
+rs2854344(A;A) is associated with: normal risk
+rs2854344(A;G) is associated with: 
+rs2854344(G;G) is associated with: 1.25x risk of developing ovarian cancer
+
+562
+-----------
+My genotype at rs10492519: AA or (A;A)
+rs10492519(A;A) is associated with: normal risk
+rs10492519(A;G) is associated with: somewhat higher risk for prostate cancer
+rs10492519(G;G) is associated with: somewhat higher risk for prostate cancer
+
+563
+-----------
+My genotype at rs5352: CC or (G;G)
+rs5352(A;A) is associated with: probably [[Hirschsprung disease]]
+rs5352(A;G) is associated with: probably [[Hirschsprung disease]] carrier
+rs5352(G;G) is associated with: common
+
+564
+-----------
+My genotype at rs7326018: AA or (T;T)
+rs7326018(A;A) is associated with: normal
+rs7326018(A;T) is associated with: normal
+rs7326018(T;T) is associated with: 1.8x increased risk for multiple sclerosis
+
+565
+-----------
+My genotype at rs1327328: AA or (T;T)
+rs1327328(C;C) is associated with: normal
+rs1327328(C;T) is associated with: normal
+rs1327328(T;T) is associated with: 1.7x increased risk for multiple sclerosis
+
+566
+-----------
+My genotype at rs9589207: GG or (G;G)
+rs9589207(A;A) is associated with: None
+rs9589207(A;G) is associated with: None
+rs9589207(G;G) is associated with: common
+
+567
+-----------
+My genotype at rs1805097: TT or (A;A)
+rs1805097(A;A) is associated with: twice as likely to reach extreme old age?
+rs1805097(A;G) is associated with: normal
+rs1805097(G;G) is associated with: normal
+
+568
+-----------
+My genotype at rs1154155: TT or (T;T)
+rs1154155(G;G) is associated with: 2.5x increased risk for narcolepsy
+rs1154155(G;T) is associated with: 1.94x increased risk for narcolepsy
+rs1154155(T;T) is associated with: normal
+
+569
+-----------
+My genotype at rs1048990: CC or (G;G)
+rs1048990(C;C) is associated with: > 1.48x risk
+rs1048990(C;G) is associated with: 1.48x risk
+rs1048990(G;G) is associated with: common
+
+570
+-----------
+My genotype at rs10498345: TT or (T;T)
+rs10498345(A;A) is associated with: <0.5x decreased risk for coronary spasm
+rs10498345(A;T) is associated with: 0.5x decreased risk for coronary spasm
+rs10498345(T;T) is associated with: normal
+
+571
+-----------
+My genotype at rs10134944: CC or (C;C)
+rs10134944(C;C) is associated with: normal
+rs10134944(C;T) is associated with: 1.4x risk
+rs10134944(T;T) is associated with: 1.3x risk
+
+572
+-----------
+My genotype at rs767603: CC or (C;C)
+rs767603(C;C) is associated with: 0.63x reduced risk for intracranial aneurysm
+rs767603(C;T) is associated with: normal
+rs767603(T;T) is associated with: normal
+
+573
+-----------
+My genotype at rs3783799: CC or (G;G)
+rs3783799(A;A) is associated with: 1.4x increased risk for stroke
+rs3783799(A;G) is associated with: 1.4x increased risk for stroke
+rs3783799(G;G) is associated with: normal risk
+
+574
+-----------
+My genotype at rs2230500: GG or (G;G)
+rs2230500(A;A) is associated with: 1.4x increased risk for stroke
+rs2230500(A;G) is associated with: 1.4x increased risk for stroke
+rs2230500(G;G) is associated with: normal risk
+
+575
+-----------
+My genotype at rs3025786: TT or (T;T)
+rs3025786(C;C) is associated with: slightly decreased Alzheimer's disease risk among ApoE4 carriers
+rs3025786(C;T) is associated with: slightly decreased Alzheimer's disease risk among ApoE4 carriers
+rs3025786(T;T) is associated with: normal
+
+576
+-----------
+My genotype at rs910316: AA or (T;T)
+rs910316(G;G) is associated with: 0.68cm taller on average
+rs910316(G;T) is associated with: 0.34cm taller on average
+rs910316(T;T) is associated with: normal
+
+577
+-----------
+My genotype at rs28929474: CC or (G;G)
+rs28929474(A;A) is associated with: Alpha-1 Antitrypsin Deficiency
+rs28929474(A;G) is associated with: carrier for Alpha-1 Antitrypsin Deficiency
+
+578
+-----------
+My genotype at rs28931568: CC or (G;G)
+rs28931568(A;A) is associated with: high risk of emphysema
+
+579
+-----------
+My genotype at rs28931569: AA or (T;T)
+rs28931569(C;C) is associated with: high risk of emphysema
+
+580
+-----------
+My genotype at rs7158782: AA or (A;A)
+rs7158782(A;A) is associated with: normal
+rs7158782(A;G) is associated with: 2x higher risk of adverse side-effect if taking aromatase inhibitor
+rs7158782(G;G) is associated with: 4x higher risk of adverse side-effect if taking aromatase inhibitor
+
+581
+-----------
+My genotype at rs8702: GG or (G;G)
+rs8702(C;C) is associated with: average
+rs8702(C;G) is associated with: ?
+rs8702(G;G) is associated with: 0.2x risk for MS
+
+582
+-----------
+My genotype at rs1800407: CC or (G;G)
+rs1800407(A;A) is associated with: green/hazel/brown/black eyes more likely
+rs1800407(A;G) is associated with: green/hazel/brown/black eyes more likely
+rs1800407(G;G) is associated with: blue/gray eyes more possible
+
+583
+-----------
+My genotype at rs1800401: GG or (C;C)
+rs1800401(C;C) is associated with: blue/gray eyes possible
+rs1800401(C;T) is associated with: brown/black eyes more likely
+rs1800401(T;T) is associated with: brown/black eyes more likely
+
+584
+-----------
+My genotype at rs4778138: AA or (A;A)
+rs4778138(A;A) is associated with: freckles more likely
+
+585
+-----------
+My genotype at rs4778241: CC or (C;C)
+rs4778241(A;A) is associated with: usually brown eye color
+rs4778241(A;C) is associated with: usually brown eye color
+rs4778241(C;C) is associated with: blue eye color if part of blue eye color haplotype
+
+586
+-----------
+My genotype at rs7495174: AA or (A;A)
+rs7495174(A;A) is associated with: blue/gray eyes more likely
+rs7495174(A;G) is associated with: blue/gray eyes less likely
+rs7495174(G;G) is associated with: blue/gray eyes less likely
+
+587
+-----------
+My genotype at rs1129038: TT or (A;A)
+rs1129038(A;A) is associated with: brown eye color
+rs1129038(A;G) is associated with: brown eye color
+rs1129038(G;G) is associated with: blue eye color
+
+588
+-----------
+My genotype at rs12593929: AA or (A;A)
+rs12593929(A;A) is associated with: brown eye color
+rs12593929(A;G) is associated with: brown eye color
+rs12593929(G;G) is associated with: blue eye color if part of blue eye color haplotype
+
+589
+-----------
+My genotype at rs12913832: GG or (G;G)
+rs12913832(A;A) is associated with: brown eye color, 80% of the time
+rs12913832(A;G) is associated with: brown eye color
+rs12913832(G;G) is associated with: blue eye color, 99% of the time
+
+590
+-----------
+My genotype at rs7183877: CC or (C;C)
+rs7183877(A;A) is associated with: usually brown eye color
+rs7183877(A;C) is associated with: usually brown eye color
+rs7183877(C;C) is associated with: blue eye color if part of blue eye color haplotype
+
+591
+-----------
+My genotype at rs3935591: CC or (G;G)
+rs3935591(A;A) is associated with: usually brown eye color
+rs3935591(A;G) is associated with: usually brown eye color
+rs3935591(G;G) is associated with: blue eye color if part of blue eye color haplotype
+
+592
+-----------
+My genotype at rs8028689: TT or (T;T)
+rs8028689(C;C) is associated with: usually brown eye color
+rs8028689(C;T) is associated with: usually brown eye color
+rs8028689(T;T) is associated with: blue eye color if part of blue eye color haplotype
+
+593
+-----------
+My genotype at rs2240203: TT or (A;A)
+rs2240203(A;A) is associated with: usually brown eye color
+rs2240203(A;G) is associated with: usually brown eye color
+rs2240203(G;G) is associated with: blue eye color if part of blue eye color haplotype
+
+594
+-----------
+My genotype at rs916977: CC or (G;G)
+rs916977(A;A) is associated with: usually brown eye color
+rs916977(A;G) is associated with: usually brown eye color
+rs916977(G;G) is associated with: blue eye color if part of blue eye color haplotype
+
+595
+-----------
+My genotype at rs4779584: CC or (C;C)
+rs4779584(C;C) is associated with: average
+rs4779584(C;T) is associated with: 1.23x risk for colorectal cancer
+rs4779584(T;T) is associated with: 1.70x risk for colorectal cancer
+
+596
+-----------
+My genotype at rs11073328: CC or (C;C)
+rs11073328(C;C) is associated with: normal
+rs11073328(T;T) is associated with: increased longevity?
+
+597
+-----------
+My genotype at rs748404: CC or (C;C)
+rs748404(C;T) is associated with: very slightly  increased risk (1.15) for lung cancer
+rs748404(T;T) is associated with: slightly  increased risk (1.25) for lung cancer
+
+598
+-----------
+My genotype at rs1426654: AA or (A;A)
+rs1426654(A;A) is associated with: probably light-skinned, European ancestry
+rs1426654(A;G) is associated with: mixed African/European ancestry possible
+rs1426654(G;G) is associated with: probably darker-skinned, Asian or African ancestry
+
+599
+-----------
+My genotype at rs4775041: GG or (G;G)
+rs4775041(C;C) is associated with: lowest phosphatidylethanolamine values
+rs4775041(C;G) is associated with: intermediate phosphatidylethanolamine values
+rs4775041(G;G) is associated with: highest phosphatidylethanolamine values
+
+600
+-----------
+My genotype at rs10468017: CC or (C;C)
+rs10468017(C;T) is associated with: associated with higher HDL cholesterol
+rs10468017(T;T) is associated with: associated with higher HDL cholesterol
+
+601
+-----------
+My genotype at rs3825776: TT or (A;A)
+rs3825776(A;A) is associated with: average
+rs3825776(A;G) is associated with: 1.3x risk for ALS
+rs3825776(G;G) is associated with: >1.3x risk for ALS
+
+602
+-----------
+My genotype at rs2073711: GG or (C;C)
+rs2073711(C;C) is associated with: higher risk of LDD
+rs2073711(C;T) is associated with: higher risk of LDD
+rs2073711(T;T) is associated with: average
+
+603
+-----------
+My genotype at rs17228212: TT or (T;T)
+rs17228212(C;C) is associated with: >1.26x increased risk for heart disease
+rs17228212(C;T) is associated with: 1.26x increased risk for heart disease
+rs17228212(T;T) is associated with: normal
+
+604
+-----------
+My genotype at rs8038652: GG or (G;G)
+rs8038652(A;A) is associated with: shorter adult height, at least among Mongolians
+rs8038652(A;G) is associated with: normal
+rs8038652(G;G) is associated with: normal
+
+605
+-----------
+My genotype at rs28940871: GG or (G;G)
+rs28940871(C;G) is associated with: Tay-Sachs carrier
+rs28940871(G;G) is associated with: Tay-Sachs disease likely; see details
+
+606
+-----------
+My genotype at rs3825942: GG or (C;C)
+rs3825942(C;C) is associated with: common but 10x higher glaucoma risk
+rs3825942(C;T) is associated with: possibly higher glaucoma risk?
+rs3825942(T;T) is associated with: average
+
+607
+-----------
+My genotype at rs2930291: GG or (C;C)
+rs2930291(C;C) is associated with: 1.5x risk
+rs2930291(C;T) is associated with: 1.3x risk
+rs2930291(T;T) is associated with: normal
+
+608
+-----------
+My genotype at rs2069526: TT or (T;T)
+rs2069526(G;G) is associated with: CYP1A2*1K_-739T>G homozygote
+rs2069526(G;T) is associated with: carrier of one CYP1A2*1K_-739T>G allele
+rs2069526(T;T) is associated with: normal
+
+609
+-----------
+My genotype at rs12720461: CC or (C;C)
+rs12720461(C;C) is associated with: normal
+rs12720461(C;T) is associated with: carrier of one CYP1A2*1K_-729C>T allele
+rs12720461(T;T) is associated with: CYP1A2*1K_-729C>T homozygote
+
+610
+-----------
+My genotype at rs762551: AA or (A;A)
+rs762551(A;A) is associated with: CYP1A2*1F homozygote; Fast metabolizer
+rs762551(A;C) is associated with: carrier of one CYP1A2*1F allele; slow metabolizer
+rs762551(C;C) is associated with: CYP1A2 slow metabolizer
+
+611
+-----------
+My genotype at rs72547513: AA or (A;A)
+rs72547513(A;A) is associated with: CYP1A2*11 homozygote
+rs72547513(A;C) is associated with: carrier of one CYP1A2*11 allele
+rs72547513(C;C) is associated with: normal
+
+612
+-----------
+My genotype at rs56276455: GG or (G;G)
+rs56276455(A;A) is associated with: CYP1A2*3 homozygote
+rs56276455(A;G) is associated with: carrier of one CYP1A2*3 allele
+rs56276455(G;G) is associated with: normal
+
+613
+-----------
+My genotype at rs72547515: GG or (C;C)
+rs72547515(T;T) is associated with: CYP1A2*16 homozygote
+rs72547515(C;T) is associated with: carrier of one CYP1A2*16 allele
+rs72547515(C;C) is associated with: normal
+
+614
+-----------
+My genotype at rs72547516: AA or (A;A)
+rs72547516(T;T) is associated with: CYP1A2*4 homozygote
+rs72547516(A;T) is associated with: carrier of one CYP1A2*4 allele
+rs72547516(A;A) is associated with: normal
+
+615
+-----------
+My genotype at rs55889066: GG or (G;G)
+rs55889066(A;A) is associated with: CYP1A2*5 homozygote
+rs55889066(A;G) is associated with: carrier of one CYP1A2*5 allele
+rs55889066(G;G) is associated with: normal
+
+616
+-----------
+My genotype at rs28399424: CC or (C;C)
+rs28399424(C;C) is associated with: normal
+rs28399424(C;T) is associated with: carrier of one CYP1A2*6 allele
+rs28399424(T;T) is associated with: CYP1A2*6 homozygote
+
+617
+-----------
+My genotype at rs72547517: GG or (G;G)
+rs72547517(A;A) is associated with: CYP1A2*8 homozygote
+rs72547517(A;G) is associated with: carrier of one CYP1A2*8 allele
+rs72547517(G;G) is associated with: normal
+
+618
+-----------
+My genotype at rs2470890: TT or (T;T)
+rs2470890(C;C) is associated with: CYP1A2_1545T>C homozygote
+rs2470890(C;T) is associated with: carrier of one CYP1A2_1545T>C allele
+rs2470890(T;T) is associated with: normal
+
+619
+-----------
+My genotype at rs9652490: GG or (G;G)
+rs9652490(A;A) is associated with: ~2x increased risk for Parkinson's disease, and, essential tremor
+rs9652490(A;G) is associated with: likely (slight?) increased risk for Parkinson's disease
+rs9652490(G;G) is associated with: normal
+
+620
+-----------
+My genotype at rs2398162: AA or (A;A)
+rs2398162(A;A) is associated with: 1.3x risk
+rs2398162(A;G) is associated with: normal
+rs2398162(G;G) is associated with: normal
+
+621
+-----------
+My genotype at rs34516635: GG or (G;G)
+rs34516635(G;G) is associated with: normal
+rs34516635(A;G) is associated with: longevity effect?
+rs34516635(A;A) is associated with: longevity effect?
+
+622
+-----------
+My genotype at rs28940577: TT or (A;A)
+rs28940577(A;G) is associated with: FAMILIAL MEDITERRANEAN FEVER carrier
+rs28940577(G;G) is associated with: FAMILIAL MEDITERRANEAN FEVER
+
+623
+-----------
+My genotype at rs725613: TT or (A;A)
+rs725613(A;A) is associated with: 1.2x increased type-1 diabetes risk; 1.2x increased multiple sclerosis risk
+rs725613(A;C) is associated with: 1.2x increased type-1 diabetes risk; 1.2x increased multiple sclerosis risk
+rs725613(C;C) is associated with: normal
+
+624
+-----------
+My genotype at rs12708716: AA or (A;A)
+rs12708716(A;A) is associated with: 1.6x risk
+rs12708716(A;G) is associated with: 1.2x risk
+rs12708716(G;G) is associated with: normal
+
+625
+-----------
+My genotype at rs6498169: GG or (G;G)
+rs6498169(A;A) is associated with: >1.14x risk
+rs6498169(A;G) is associated with: 1.14x risk
+rs6498169(G;G) is associated with: common
+
+626
+-----------
+My genotype at rs13333226: AA or (A;A)
+rs13333226(A;A) is associated with: common but slightly higher risk for hypertension
+rs13333226(A;G) is associated with: slightly lower risk for hypertension
+rs13333226(G;G) is associated with: ~15-20% lower risk for hypertension or cardiovascular events
+
+627
+-----------
+My genotype at rs420259: AA or (T;T)
+rs420259(C;C) is associated with: normal
+rs420259(C;T) is associated with: 2x risk
+rs420259(T;T) is associated with: 2x risk
+
+628
+-----------
+My genotype at rs8050894: CC or (G;G)
+rs8050894(C;C) is associated with: warfarin sensitivity (~2.5 mg/day)
+rs8050894(G;G) is associated with: warfarin resistance (~6.5 mg/day)
+
+629
+-----------
+My genotype at rs9923231: CC or (C;C)
+rs9923231(C;C) is associated with: normal
+rs9923231(C;T) is associated with: reduced warfarin dose if treated for VTE
+rs9923231(T;T) is associated with: reduced warfarin dose if treated for VTE
+
+630
+-----------
+My genotype at rs12597511: CC or (C;C)
+rs12597511(C;C) is associated with: normal
+rs12597511(C;T) is associated with: slightly higher blood pressure
+rs12597511(T;T) is associated with: slightly higher blood pressure
+
+631
+-----------
+My genotype at rs1143679: GG or (G;G)
+rs1143679(A;A) is associated with: >1.78x increased risk for SLE
+rs1143679(A;G) is associated with: 1.78x increased risk for SLE
+rs1143679(G;G) is associated with: normal
+
+632
+-----------
+My genotype at rs17822931: CC or (C;C)
+rs17822931(C;C) is associated with: wet earwax
+rs17822931(C;T) is associated with: wet earwax
+rs17822931(T;T) is associated with: dry earwax
+
+633
+-----------
+My genotype at rs17221417: GG or (G;G)
+rs17221417(C;C) is associated with: normal
+rs17221417(C;G) is associated with: 1.3x risk
+rs17221417(G;G) is associated with: 1.9x risk
+
+634
+-----------
+My genotype at rs2076756: GG or (G;G)
+rs2076756(A;A) is associated with: normal
+rs2076756(A;G) is associated with: ?
+rs2076756(G;G) is associated with: 1.7x increased risk for Crohn's disease
+
+635
+-----------
+My genotype at rs3803662: GG or (C;C)
+rs3803662(C;C) is associated with: normal
+rs3803662(C;T) is associated with: ?
+rs3803662(T;T) is associated with: 1.6x increased risk for breast cancer
+
+636
+-----------
+My genotype at rs3785143: CC or (C;C)
+rs3785143(C;C) is associated with: normal risk of ADHD
+rs3785143(C;T) is associated with: may be associated with ADHD
+rs3785143(T;T) is associated with: may be associated with ADHD
+
+637
+-----------
+My genotype at rs5558: TT or (T;T)
+rs5558(G;G) is associated with: None
+rs5558(T;T) is associated with: normal
+
+638
+-----------
+My genotype at rs183130: CC or (C;C)
+rs183130(C;C) is associated with: lower HDL cholesterol
+rs183130(C;T) is associated with: lower HDL cholesterol
+rs183130(T;T) is associated with: normal risk
+
+639
+-----------
+My genotype at rs3764261: CC or (G;G)
+rs3764261(G;T) is associated with: associated with higher HDL cholesterol
+rs3764261(T;T) is associated with: associated with higher HDL cholesterol
+
+640
+-----------
+My genotype at rs1864163: AA or (A;A)
+rs1864163(A;G) is associated with: associated with higher HDL cholesterol
+rs1864163(G;G) is associated with: associated with higher HDL cholesterol
+
+641
+-----------
+My genotype at rs5882: AA or (A;A)
+rs5882(A;G) is associated with: lower risk of dementia and Alzheimer's disease
+rs5882(G;G) is associated with: longer lifespan, 0.28x lower risk of dementia, 0.31x lower risk of Alzheimer's.
+
+642
+-----------
+My genotype at rs16260: CC or (C;C)
+rs16260(A;A) is associated with: 2.6x increased risk of prostate cancer
+rs16260(A;C) is associated with: 1.5-1.7x increased risk of prostate cancer
+rs16260(C;C) is associated with: normal
+
+643
+-----------
+My genotype at rs1061646: GG or (C;C)
+rs1061646(C;C) is associated with: 1.16x increased risk for breast cancer
+rs1061646(C;T) is associated with: 1.08x increased risk for breast cancer
+rs1061646(T;T) is associated with: normal risk
+
+644
+-----------
+My genotype at rs1805007: CC or (C;C)
+rs1805007(C;C) is associated with: normal risk
+rs1805007(C;T) is associated with: increased response to anesthetics
+rs1805007(T;T) is associated with: increased response to anesthetics; 13-20x higher likelihood of red hair
+
+645
+-----------
+My genotype at rs1805008: CC or (C;C)
+rs1805008(C;T) is associated with: None
+rs1805008(T;T) is associated with: ~7-10x higher likelihood of red hair
+
+646
+-----------
+My genotype at rs28940279: AA or (A;A)
+rs28940279(A;C) is associated with: carrier for Canavan disease
+rs28940279(C;C) is associated with: Canavan disease
+
+647
+-----------
+My genotype at rs28940574: CC or (C;C)
+rs28940574(A;A) is associated with: Canavan disease
+rs28940574(A;C) is associated with: carrier for Canavan disease
+
+648
+-----------
+My genotype at rs34210653: GG or (C;C)
+rs34210653(T;T) is associated with: normal risk
+rs34210653(C;T) is associated with: 1.6x increased risk for heart disease
+rs34210653(C;C) is associated with: normal risk
+
+649
+-----------
+My genotype at rs12150220: TT or (T;T)
+rs12150220(A;A) is associated with: slightly increased risk for several autoimmune diseases
+rs12150220(A;T) is associated with: slightly increased risk for several autoimmune diseases
+rs12150220(T;T) is associated with: normal
+
+650
+-----------
+My genotype at rs2670660: GG or (G;G)
+rs2670660(A;A) is associated with: normal
+rs2670660(A;G) is associated with: 2.96x
+rs2670660(G;G) is associated with: 2.74x
+
+651
+-----------
+My genotype at rs6259: GG or (G;G)
+rs6259(A;A) is associated with: normal
+rs6259(A;G) is associated with: normal
+rs6259(G;G) is associated with: best inverse correlation between tea-drinking, soy-consuming premenopausal women and risk of endometrial cancer
+
+652
+-----------
+My genotype at rs1042522: CC or (G;G)
+rs1042522(C;C) is associated with: longer lifespan?
+rs1042522(C;G) is associated with: None
+
+653
+-----------
+My genotype at rs4792311: GG or (G;G)
+rs4792311(A;A) is associated with: increased risk of prostate cancer
+rs4792311(A;G) is associated with: increased risk
+rs4792311(G;G) is associated with: normal
+
+654
+-----------
+My genotype at rs1889018: AA or (T;T)
+rs1889018(C;C) is associated with: normal
+rs1889018(C;T) is associated with: 1.12x increased risk for T2D
+rs1889018(T;T) is associated with: 1.12x increased risk for T2D
+
+655
+-----------
+My genotype at rs25532: GG or (C;C)
+rs25532(C;C) is associated with: may be part of a haplotype associated with OCD
+rs25532(C;T) is associated with: may be part of a haplotype associated with OCD
+rs25532(T;T) is associated with: normal
+
+656
+-----------
+My genotype at rs25531: CC or (G;G)
+rs25531(A;A) is associated with: less happy
+rs25531(G;G) is associated with: happier
+
+657
+-----------
+My genotype at rs1050565: CC or (G;G)
+rs1050565(A;A) is associated with: normal
+rs1050565(A;G) is associated with: normal
+rs1050565(G;G) is associated with: if testicular cancer patient, 5x poorer response to bleomycin chemotherapy
+
+658
+-----------
+My genotype at rs4430796: AA or (A;A)
+rs4430796(A;A) is associated with: 1.38x increased risk for prostate cancer
+rs4430796(A;G) is associated with: normal risk
+rs4430796(G;G) is associated with: normal risk
+
+659
+-----------
+My genotype at rs8069176: GG or (G;G)
+rs8069176(A;A) is associated with: normal
+rs8069176(A;G) is associated with: normal
+rs8069176(G;G) is associated with: if 4 years old or younger, ~3x increased asthma risk if exposed to smoke
+
+660
+-----------
+My genotype at rs2305480: GG or (C;C)
+rs2305480(C;C) is associated with: normal
+rs2305480(C;T) is associated with: normal
+rs2305480(T;T) is associated with: if 4 years old or younger, ~3x increased asthma risk if exposed to smoke
+
+661
+-----------
+My genotype at rs4795400: CC or (C;C)
+rs4795400(C;C) is associated with: normal
+rs4795400(C;T) is associated with: normal
+rs4795400(T;T) is associated with: if 4 years old or younger, ~2.5x increased asthma risk if exposed to smoke
+
+662
+-----------
+My genotype at rs7216389: TT or (T;T)
+rs7216389(C;C) is associated with: normal
+rs7216389(C;T) is associated with: 1.5x increased risk for asthma
+rs7216389(T;T) is associated with: 2.1x increased risk for asthma
+
+663
+-----------
+My genotype at rs59328451: TT or (T;T)
+rs59328451(A;A) is associated with: normal
+rs59328451(A;T) is associated with: heterozygote for pachyonychia congenita Type I mutation
+rs59328451(T;T) is associated with: homozygote for pachyonychia congenita Type I mutation
+
+664
+-----------
+My genotype at rs28928895: AA or (T;T)
+rs28928895(A;T) is associated with: heterozygote for pachyonychia congenita Type I mutation
+rs28928895(T;T) is associated with: normal
+
+665
+-----------
+My genotype at rs57424749: CC or (G;G)
+rs57424749(C;C) is associated with: homozygote for pachyonychia congenita Type I mutation
+rs57424749(C;G) is associated with: heterozygote for pachyonychia congenita Type I mutation
+rs57424749(G;G) is associated with: normal
+
+666
+-----------
+My genotype at rs58293603: AA or (T;T)
+rs58293603(G;G) is associated with: homozygote for pachyonychia congenita Type I mutation
+rs58293603(G;T) is associated with: heterozygote for pachyonychia congenita Type I mutation
+rs58293603(T;T) is associated with: normal
+
+667
+-----------
+My genotype at rs59349773: TT or (A;A)
+rs59349773(A;A) is associated with: normal
+rs59349773(A;C) is associated with: heterozygote for pachyonychia congenita Type I mutation
+rs59349773(C;C) is associated with: homozygote for pachyonychia congenita Type I mutation
+
+668
+-----------
+My genotype at rs28928894: AA or (T;T)
+rs28928894(C;C) is associated with: homozygote for pachyonychia congenita Type I mutation
+rs28928894(C;T) is associated with: heterozygote for pachyonychia congenita Type I mutation
+rs28928894(T;T) is associated with: normal
+
+669
+-----------
+My genotype at rs6503691: CC or (C;C)
+rs6503691(C;C) is associated with: common
+rs6503691(C;T) is associated with: None
+rs6503691(T;T) is associated with: None
+
+670
+-----------
+My genotype at rs28897696: GG or (C;C)
+rs28897696(A;A) is associated with: carrier of two copies of BRCA1 variant; likely to be at higher risk for breast/ovarian cancer
+rs28897696(A;C) is associated with: carrier of BRCA1 variant
+rs28897696(C;C) is associated with: normal
+
+671
+-----------
+My genotype at rs55770810: GG or (C;C)
+rs55770810(C;C) is associated with: normal
+rs55770810(C;T) is associated with: carrier of BRCA1 variant
+rs55770810(T;T) is associated with: carrier of two copies of BRCA1 variant; likely to be at higher risk for breast/ovarian cancer
+
+672
+-----------
+My genotype at rs41293455: GG or (C;C)
+rs41293455(C;C) is associated with: normal
+rs41293455(C;T) is associated with: possible predisposition to breast cancer
+rs41293455(T;T) is associated with: predisposition to breast cancer?
+
+673
+-----------
+My genotype at rs4986852: CC or (G;G)
+rs4986852(A;A) is associated with: predisposition to breast cancer?
+rs4986852(A;G) is associated with: possible predisposition to breast cancer
+rs4986852(G;G) is associated with: normal
+
+674
+-----------
+My genotype at rs1800709: GG or (C;C)
+rs1800709(C;C) is associated with: normal
+rs1800709(C;T) is associated with: possible predisposition to breast cancer
+rs1800709(T;T) is associated with: predisposition to breast cancer?
+
+675
+-----------
+My genotype at rs28897672: AA or (T;T)
+rs28897672(G;G) is associated with: predisposition to breast cancer?
+rs28897672(G;T) is associated with: possible predisposition to breast cancer
+rs28897672(T;T) is associated with: normal
+
+676
+-----------
+My genotype at rs242941: CC or (G;G)
+rs242941(G;G) is associated with: better response to inhaled corticosteroid in patients with COPD
+rs242941(G;T) is associated with: normal
+rs242941(T;T) is associated with: normal
+
+677
+-----------
+My genotype at rs5917: GG or (G;G)
+rs5917(A;A) is associated with: None
+rs5917(A;G) is associated with: None
+rs5917(G;G) is associated with: common
+
+678
+-----------
+My genotype at rs4794067: TT or (T;T)
+rs4794067(C;C) is associated with: 2.1x risk for AIA
+rs4794067(C;T) is associated with: 2.1x risk for AIA
+rs4794067(T;T) is associated with: common
+
+679
+-----------
+My genotype at rs2240017: CC or (G;G)
+rs2240017(C;C) is associated with: not observed (too rare)
+rs2240017(C;G) is associated with: respond better to steroids
+rs2240017(G;G) is associated with: common
+
+680
+-----------
+My genotype at rs2074190: AA or (T;T)
+rs2074190(C;C) is associated with: 2.2x risk for AIA
+rs2074190(C;T) is associated with: 2.2x risk for AIA
+rs2074190(T;T) is associated with: common
+
+681
+-----------
+My genotype at rs11650354: CC or (C;C)
+rs11650354(C;C) is associated with: 8x risk for allergic asthma
+rs11650354(C;T) is associated with: possible risk for allergic asthma
+rs11650354(T;T) is associated with: common
+
+682
+-----------
+My genotype at rs16947078: AA or (A;A)
+rs16947078(A;A) is associated with: common
+rs16947078(A;G) is associated with: possible risk for allergic asthma
+rs16947078(G;G) is associated with: 8x risk for allergic asthma
+
+683
+-----------
+My genotype at rs4968451: AA or (A;A)
+rs4968451(A;A) is associated with: 1.5x increased risk for meningioma
+rs4968451(A;C) is associated with: 1.5x increased risk for meningioma
+rs4968451(C;C) is associated with: normal
+
+684
+-----------
+My genotype at rs7213516: GG or (G;G)
+rs7213516(A;A) is associated with: higher cardiovascular risk in African Americans
+rs7213516(A;G) is associated with: higher cardiovascular risk in African Americans
+rs7213516(G;G) is associated with: normal
+
+685
+-----------
+My genotype at rs4290: CC or (C;C)
+rs4290(C;C) is associated with: normal
+rs4290(C;T) is associated with: higher cardiovascular risk in African Americans
+rs4290(T;T) is associated with: higher cardiovascular risk in African Americans
+
+686
+-----------
+My genotype at rs1859962: GG or (G;G)
+rs1859962(G;G) is associated with: 1.28x increased risk for prostate cancer
+rs1859962(G;T) is associated with: normal risk
+rs1859962(T;T) is associated with: normal risk
+
+687
+-----------
+My genotype at rs9951307: GG or (G;G)
+rs9951307(A;A) is associated with: normal
+rs9951307(A;G) is associated with: 0.10 decreased risk for brain edema after a stroke
+rs9951307(G;G) is associated with: 0.10 decreased risk for brain edema after a stroke
+
+688
+-----------
+My genotype at rs4464148: TT or (T;T)
+rs4464148(C;C) is associated with: 1.35x increased risk for colorectal cancer
+rs4464148(C;T) is associated with: 1.10x increased risk for colorectal cancer
+rs4464148(T;T) is associated with: 1x normal risk for colorectal cancer
+
+689
+-----------
+My genotype at rs4939883: CC or (C;C)
+rs4939883(C;C) is associated with: associated with higher HDL cholesterol
+rs4939883(C;T) is associated with: associated with higher HDL cholesterol
+
+690
+-----------
+My genotype at rs9960767: AA or (A;A)
+rs9960767(A;A) is associated with: normal
+rs9960767(A;C) is associated with: 1.2x increased risk for schizophrenia
+rs9960767(C;C) is associated with: 1.4x increased risk for schizophrenia
+
+691
+-----------
+My genotype at rs17782313: TT or (T;T)
+rs17782313(C;C) is associated with: adults likely to be 0.44 BMI units higher
+rs17782313(C;T) is associated with: adults likely to be 0.22 BMI units higher
+rs17782313(T;T) is associated with: normal
+
+692
+-----------
+My genotype at rs10871777: AA or (A;A)
+rs10871777(A;A) is associated with: adults likely to be 0.44 BMI units higher
+rs10871777(A;G) is associated with: adults likely to be 0.22 BMI units higher
+rs10871777(G;G) is associated with: normal
+
+693
+-----------
+My genotype at rs12970134: GG or (G;G)
+rs12970134(A;A) is associated with: adult waist 1.8cm larger on average
+rs12970134(A;G) is associated with: adult waist 0.9cm larger on average
+rs12970134(G;G) is associated with: normal
+
+694
+-----------
+My genotype at rs2229616: CC or (G;G)
+rs2229616(A;A) is associated with: lower risk of metabolic syndrome
+rs2229616(A;G) is associated with: lower risk of metabolic syndrome
+rs2229616(G;G) is associated with: normal
+
+695
+-----------
+My genotype at rs763361: TT or (T;T)
+rs763361(C;C) is associated with: normal
+rs763361(C;T) is associated with: somewhat increased risk for multiple autoimmune diseases
+rs763361(T;T) is associated with: somewhat increased risk for multiple autoimmune diseases
+
+696
+-----------
+My genotype at rs11569562: AA or (T;T)
+rs11569562(C;C) is associated with: increased risk for adult asthma
+rs11569562(C;T) is associated with: ?
+rs11569562(T;T) is associated with: normal
+
+697
+-----------
+My genotype at rs2230199: GG or (G;G)
+rs2230199(C;C) is associated with: 3.2x risk of ARMD
+rs2230199(C;G) is associated with: 1.6x risk of ARMD
+rs2230199(G;G) is associated with: common
+
+698
+-----------
+My genotype at rs2305795: AA or (A;A)
+rs2305795(A;A) is associated with: 1.3x risk of narcolepsy compared to (A;G) genotype
+rs2305795(A;G) is associated with: normal risk of narcolepsy
+rs2305795(G;G) is associated with: 0.75x risk of narcolepsy compared to (A;G) genotype
+
+699
+-----------
+My genotype at rs1799969: GG or (G;G)
+rs1799969(A;A) is associated with: slightly higher breast cancer risk
+rs1799969(A;G) is associated with: slightly higher breast cancer risk
+rs1799969(G;G) is associated with: normal
+
+700
+-----------
+My genotype at rs5496: GG or (G;G)
+rs5496(G;G) is associated with: common for caucasians, despite hapmap
+
+701
+-----------
+My genotype at rs892086: AA or (T;T)
+rs892086(C;C) is associated with: normal
+rs892086(C;T) is associated with: normal
+rs892086(T;T) is associated with: 1.5x increased Alzheimer risk in non-ApoE4 carriers
+
+702
+-----------
+My genotype at rs28942079: GG or (G;G)
+rs28942079(A;A) is associated with: risk of hypercholesterolemia
+rs28942079(A;G) is associated with: None
+
+703
+-----------
+My genotype at rs688: CC or (C;C)
+rs688(C;C) is associated with: normal risk
+rs688(C;T) is associated with: normal risk for Alzheimer's; higher total and LDL cholesterol in females
+rs688(T;T) is associated with: 1.5x higher risk for males of Alzheimer's; higher total and LDL cholesterol in females
+
+704
+-----------
+My genotype at rs1043994: CC or (G;G)
+rs1043994(A;A) is associated with: ?
+rs1043994(A;G) is associated with: ?
+rs1043994(G;G) is associated with: common
+
+705
+-----------
+My genotype at rs2108622: CC or (C;C)
+rs2108622(C;C) is associated with: lower warfarin dosing
+rs2108622(C;T) is associated with: None
+rs2108622(T;T) is associated with: higher warfarin dosing
+
+706
+-----------
+My genotype at rs10411210: CC or (C;C)
+rs10411210(T;T) is associated with: 1.15x increased risk of colorectal cancer
+
+707
+-----------
+My genotype at rs12979860: TT or (T;T)
+rs12979860(C;C) is associated with: ~80% of such hepatitis C patients respond to treatment
+rs12979860(C;T) is associated with: ~20-40% of such hepatitis C patients respond to treatment
+rs12979860(T;T) is associated with: ~20-25% of such hepatitis C patients respond to treatment
+
+708
+-----------
+My genotype at rs11881940: AA or (T;T)
+rs11881940(A;A) is associated with: normal form
+rs11881940(A;T) is associated with: 1.9x risk of MI
+rs11881940(T;T) is associated with: 1.9x risk of MI
+
+709
+-----------
+My genotype at rs1800469: GG or (C;C)
+rs1800469(C;C) is associated with: higher risk for COPD
+rs1800469(C;T) is associated with: higher risk for COPD
+rs1800469(T;T) is associated with: normal risk
+
+710
+-----------
+My genotype at rs25489: CC or (G;G)
+rs25489(A;A) is associated with: 4.68x higher risk for breast cancer
+rs25489(A;G) is associated with: normal risk
+rs25489(G;G) is associated with: normal risk
+
+711
+-----------
+My genotype at rs1799782: GG or (C;C)
+rs1799782(C;C) is associated with: lower risk for skin cancer
+rs1799782(C;T) is associated with: 1.3x increased risk for oral cancer among Asians
+rs1799782(T;T) is associated with: 1.4x increased risk for oral cancer among Asians
+
+712
+-----------
+My genotype at rs2075650: AA or (A;A)
+rs2075650(A;A) is associated with: normal
+rs2075650(A;G) is associated with: 2x higher Alzheimer's risk
+rs2075650(G;G) is associated with: 4x higher Alzheimer's risk
+
+713
+-----------
+My genotype at rs440446: GG or (G;G)
+rs440446(C;C) is associated with: normal
+rs440446(C;G) is associated with: increased risk in men for biliary conditions
+rs440446(G;G) is associated with: increased risk in men for biliary conditions
+
+714
+-----------
+My genotype at rs429358: TT or (T;T)
+rs429358(C;C) is associated with: one of 2 snps relevant to classifying APOE genotype
+rs429358(C;T) is associated with: >3x increased risk for Alzheimer's; 1.4x increased risk for heart disease
+rs429358(T;T) is associated with: common
+
+715
+-----------
+My genotype at rs7412: CC or (C;C)
+rs7412(C;C) is associated with: more likely to gain weight if taking olanzapine
+rs7412(C;T) is associated with: more likely to gain weight if taking olanzapine
+rs7412(T;T) is associated with: normal
+
+716
+-----------
+My genotype at rs1800437: GG or (G;G)
+rs1800437(C;C) is associated with: average
+rs1800437(C;G) is associated with: 0.72x risk for heart disease
+rs1800437(G;G) is associated with: average
+
+717
+-----------
+My genotype at rs1047781: AA or (T;T)
+rs1047781(A;A) is associated with: ABH blood group "Secretor" status if Japanese
+rs1047781(A;T) is associated with: ABH blood group "Secretor" status if Japanese
+rs1047781(T;T) is associated with: ABH blood group "Non-Secretor" status if Japanese
+
+718
+-----------
+My genotype at rs2295490: AA or (A;A)
+rs2295490(A;A) is associated with: normal
+rs2295490(A;G) is associated with: 1.32x increased risk of early-onset type-2 diabetes
+rs2295490(G;G) is associated with: 1.32x increased risk of early-onset type-2 diabetes
+
+719
+-----------
+My genotype at rs543749: TT or (T;T)
+rs543749(G;G) is associated with: if a smoker, somewhat more likely to develop COPD
+
+720
+-----------
+My genotype at rs16991615: GG or (G;G)
+rs16991615(A;A) is associated with: age at menopause increased by avg of 22 months 
+rs16991615(A;G) is associated with: slight increase (11 months) in avg age at menopause
+
+721
+-----------
+My genotype at rs910873: GG or (G;G)
+rs910873(A;A) is associated with: 3x increased risk of melanoma
+rs910873(A;G) is associated with: 1.7x increased risk of melanoma
+rs910873(G;G) is associated with: normal
+
+722
+-----------
+My genotype at rs3746444: AA or (T;T)
+rs3746444(C;C) is associated with: 1.25x increased risk for breast cancer
+rs3746444(C;T) is associated with: 1.25x increased risk for breast cancer
+rs3746444(T;T) is associated with: normal
+
+723
+-----------
+My genotype at rs867186: AA or (A;A)
+rs867186(A;A) is associated with: normal risk for VTE
+rs867186(A;G) is associated with: EPCR H3 haplotype; reduced or increased risk of VTE?
+rs867186(G;G) is associated with: EPCR H3 diplotype; reduced or increased risk of VTE?
+
+724
+-----------
+My genotype at rs6013029: GG or (G;G)
+rs6013029(G;G) is associated with: normal
+rs6013029(G;T) is associated with: None
+rs6013029(T;T) is associated with: None
+
+725
+-----------
+My genotype at rs2250889: CC or (G;G)
+rs2250889(C;C) is associated with: 1.69x higher risk for lung cancer
+rs2250889(C;G) is associated with: 1.46x higher risk for lung cancer
+rs2250889(G;G) is associated with: normal risk
+
+726
+-----------
+My genotype at rs2230782: GG or (G;G)
+rs2230782(C;C) is associated with: 0.45x reduced risk for breast cancer
+
+727
+-----------
+My genotype at rs2834167: GG or (G;G)
+rs2834167(A;A) is associated with: 2.67x increased risk for systemic sclerosis
+rs2834167(A;G) is associated with: normal
+rs2834167(G;G) is associated with: normal
+
+728
+-----------
+My genotype at rs2837960: TT or (T;T)
+rs2837960(G;G) is associated with: 2.3x risk
+rs2837960(G;T) is associated with: normal
+rs2837960(T;T) is associated with: normal
+
+729
+-----------
+My genotype at rs2839471: TT or (T;T)
+rs2839471(C;C) is associated with: normal
+rs2839471(C;T) is associated with: 1.6x increased risk for high myopia
+rs2839471(T;T) is associated with: 1.6x increased risk for high myopia
+
+730
+-----------
+My genotype at rs9306160: CC or (C;C)
+rs9306160(C;C) is associated with: normal
+rs9306160(C;T) is associated with: 0.75x (reduced) risk for metastasis in LN-/ER+ breast cancer patients
+rs9306160(T;T) is associated with: 0.75x (reduced) risk for metastasis in LN-/ER+ breast cancer patients
+
+731
+-----------
+My genotype at rs6267: GG or (G;G)
+rs6267(G;G) is associated with: common
+rs6267(G;T) is associated with: None
+rs6267(T;T) is associated with: None
+
+732
+-----------
+My genotype at rs2267012: GG or (G;G)
+rs2267012(A;A) is associated with: 1.3x increased risk for depression
+rs2267012(A;G) is associated with: 1.3x increased risk for depression
+rs2267012(G;G) is associated with: normal risk
+
+733
+-----------
+My genotype at rs131690: GG or (G;G)
+rs131690(A;A) is associated with: normal risk
+rs131690(A;G) is associated with: 1.5x increased risk for bipolar disorder
+rs131690(G;G) is associated with: 1.5x increased risk for bipolar disorder
+
+734
+-----------
+My genotype at rs131702: GG or (G;G)
+rs131702(G;T) is associated with: 
+rs131702(T;T) is associated with: normal risk
+
+735
+-----------
+My genotype at rs5751876: TT or (T;T)
+rs5751876(C;C) is associated with: None
+rs5751876(C;T) is associated with: None
+rs5751876(T;T) is associated with: significantly higher anxiety levels after moderate caffeine consumption
+
+736
+-----------
+My genotype at rs688034: CC or (C;C)
+rs688034(C;C) is associated with: normal
+rs688034(C;T) is associated with: 1.1x risk
+rs688034(T;T) is associated with: 1.6x risk
+
+737
+-----------
+My genotype at rs663048: GG or (G;G)
+rs663048(G;G) is associated with: None
+rs663048(G;T) is associated with: None
+rs663048(T;T) is associated with: 3x risk of with [[lung cancer]]
+
+738
+-----------
+My genotype at rs2071746: AA or (T;T)
+rs2071746(A;A) is associated with: normal
+rs2071746(A;T) is associated with: normal
+rs2071746(T;T) is associated with: may be part of gs124
+
+739
+-----------
+My genotype at rs743777: AA or (A;A)
+rs743777(A;A) is associated with: 1.7x risk
+rs743777(A;G) is associated with: 1.1x risk
+rs743777(G;G) is associated with: normal
+
+740
+-----------
+My genotype at rs2072797: CC or (C;C)
+rs2072797(C;C) is associated with: normal
+rs2072797(C;T) is associated with: 1.5x increased risk of Non-Hodgkin Lymphoma
+rs2072797(T;T) is associated with: 1.5x increased risk of Non-Hodgkin Lymphoma
+
+741
+-----------
+My genotype at rs1135840: GG or (G;G)
+rs1135840(C;C) is associated with: Homozygous for CYP2D6 variants (non-CYP2D6*1)
+rs1135840(C;G) is associated with: Carrier of at least one CYP2D6 variants (non-CYP2D6*1)
+rs1135840(G;G) is associated with: normal
+
+742
+-----------
+My genotype at rs28371733: CC or (G;G)
+rs28371733(A;A) is associated with: Homozygous for CYP2D6*52 variant.
+rs28371733(A;G) is associated with: Carrier of one CYP2D6*52 variant.
+rs28371733(G;G) is associated with: normal
+
+743
+-----------
+My genotype at i4001467: GG or (G;G)
+i4001467(A;A) is associated with: Homozygous for CYP2D6*4G non-functioning variant
+i4001467(A;G) is associated with: Carrier of one CYP2D6*4G non-functioning variant
+i4001467(G;G) is associated with: normal
+
+744
+-----------
+My genotype at rs5030867: TT or (A;A)
+rs5030867(A;A) is associated with: normal
+rs5030867(A;C) is associated with: carrier of one CYP2D6*7 allele
+rs5030867(C;C) is associated with: CYP2D6*7 homozygote
+
+745
+-----------
+My genotype at i4001456: GG or (G;G)
+i4001456(A;A) is associated with: Homozygous for CYP2D6*4F non-functioning variant
+i4001456(A;G) is associated with: Carrier of one copy of CYP2D6*4F non-functioning variant.
+i4001456(G;G) is associated with: normal
+
+746
+-----------
+My genotype at rs1135824: TT or (A;A)
+rs1135824(A;A) is associated with: normal
+rs1135824(A;G) is associated with: One copy of CYP2D6*3B non-functioning variant.
+rs1135824(G;G) is associated with: Two copies of CYP2D6*3B non-functioning variant
+
+747
+-----------
+My genotype at rs28371706: GG or (C;C)
+rs28371706(C;C) is associated with: normal
+rs28371706(C;T) is associated with: Carrier of one CYP2D6 variant, possibly decreased on non-functioning.
+rs28371706(T;T) is associated with: Homozygous for CYP2D6 variants, possibly decreased or non-functioning.
+
+748
+-----------
+My genotype at i4001460: CC or (C;C)
+i4001460(A;C) is associated with: common
+
+749
+-----------
+My genotype at rs5030862: CC or (G;G)
+rs5030862(A;A) is associated with: CYP2D6*12 homozygote
+rs5030862(A;G) is associated with: carrier of one CYP2D6*12 allele
+rs5030862(G;G) is associated with: normal
+
+750
+-----------
+My genotype at rs4253623: AA or (A;A)
+rs4253623(A;A) is associated with: normal
+rs4253623(A;G) is associated with: 1.25x higher risk of nonfatal myocardial infarction
+rs4253623(G;G) is associated with: 1.25x higher risk of nonfatal myocardial infarction
+
+751
+-----------
+My genotype at rs5770917: TT or (T;T)
+rs5770917(C;C) is associated with: >1.4x increased risk for narcolepsy
+rs5770917(C;T) is associated with: 1.4x increased risk for narcolepsy
+rs5770917(T;T) is associated with: normal
+
+752
+-----------
+My genotype at rs4129148: GG or (G;G)
+rs4129148(C;C) is associated with: >3x risk
+rs4129148(C;G) is associated with: 3x risk
+rs4129148(G;G) is associated with: common
+
+753
+-----------
+My genotype at rs28694718: CC or (G;G)
+rs28694718(A;A) is associated with: >2x risk
+rs28694718(A;G) is associated with: 2x risk
+rs28694718(G;G) is associated with: common
+
