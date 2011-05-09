@@ -108,7 +108,7 @@ def description_getter(genotypes):
 			if wikipage.exists == True:
 				genotype_page = wikipage.getWikiText()
 				if genotype_page.find("summary=") != -1:
-					summary_start = genotype_page.find("summary=") + 6
+					summary_start = genotype_page.find("summary=") + 8
 					summary_stop = genotype_page.find("\n",summary_start)
 					print genotype_page[summary_start:summary_stop]
 					genotype_descriptions[genotype_name] = genotype_page[summary_start:summary_stop]
@@ -119,24 +119,40 @@ def description_getter(genotypes):
 		
 
 
+def genotype_comparer(my_filtered_snps,genotypes,descriptions):
+	counter = 1
+	for single_snp in my_filtered_snps:
+		if genotypes.has_key(single_snp.name) and single_snp.genotype != "--":
+			genotype = genotypes[single_snp.name]
+			output = "-----------\nMy genotype at " + single_snp.name+": "+single_snp.genotype+"\n"
+			for single_genotype in genotype:
+				genotype_name = single_snp.name + single_genotype
+				if descriptions.has_key(genotype_name):
+					output = output + genotype_name +" is associated with: "+ descriptions[genotype_name]+"\n"
+			if output.find("associated") != -1:
+				print counter
+				print output
+				counter += 1
+
 def main():
 	print "Start getting SNPs from snpedia.com"
 	snpedia_snps = snpedia_items()																				# get snps as hash: the snp-names are saved as keys
-	print "Got SNPs from snpedia.com\n"
+	print "Got " +str(len(snpedia_snps)) + " SNPs from snpedia.com\n"
 	print "Start getting SNPs from user"
 	my_snps = snp.reader("genome_Bastian_Greshake_Full_20110503120911.txt")										# get snps of user, saved as a list
-	print "Got SNPs from user\n"
+	print "Got " + str(len(my_snps)) + " SNPs from user\n"
 	print "Start filtering SNPs"
 	my_filtered_snps = snp_compare(snpedia_snps,my_snps)														# get homozygotous snps of user which are in snpedia, saved as list
 	print "Got " +str(len(my_filtered_snps)) + " SNPs that are available on SNPedia & are homozygotous\n"
 	print "Start getting genotypes"
 	genotypes = snpedia_genotypes(my_filtered_snps)																# get different genotypes for each snp, saved as hash. key = snp, value = list of genotypes
-	print "Got " +str(len(genotypes)) + " genotypes from SNPedia which have known genotypes\n"
+	print "Got " +str(len(genotypes)) + " SNPs from SNPedia which have known genotypes\n"
 	print "Start getting genotype descriptions"
-	genotype_descriptions(genotypes) 																			# get different descriptions for each genotype, saved as hash. key = genotype name, value = description
+	descriptions = genotype_descriptions(genotypes) 															# get different descriptions for each genotype, saved as hash. key = genotype name, value = description
+	print "Got "+ str(len(descriptions)) +" genotypes with a sufficient description\n"
+	print "Start getting relevant genotypes\n"
+	genotype_comparer(my_filtered_snps,genotypes,descriptions)
 
-	
-
-#todo: iterate over list of filtered snps, get genotypes out of hash, use genotype-hash to get all descriptions, compare users genotype to heterozygotous variant
+#todo: compare users genotype to heterozygotous variant
 		
 main()
