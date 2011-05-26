@@ -9,8 +9,12 @@ Cheers,
 Bastian Greshake
 May, 3rd 2011
 
+Last Revision of README: May, 26th 2011
+
 == Content == 
+
 * ''genome_Bastian_Greshake_Full_20110503120911.txt'' My genotyping raw data, as provided by 23andme
+* ''genome_Bastian_Greshake_Full_20110503120911.html'' The Promethease-report, generated from my raw data
 * ''snp.py'' A simple parser for the raw data, including a simple SNP-class
 * ''snpedia.py'' A script which screens all homozygotous SNPs in the raw data and gets additional information about their effects from SNPedia 
 * ''pubmed_crawler.py'' A script which crawls PubMed for all papers which concern SNPs which are analyzed by 23andme and publishes it's result as a RSS-feed
@@ -33,7 +37,11 @@ Up to know these candidate SNPs have to be screened by hand, to see if I carry t
 == pubmed_crawler.py ==
 The script crawls the PubMed-database for scientific papers on the SNPs which are analyzed by 23and me. And republishes the results as a RSS-feed. Already crawled papers are stored locally to reduce load on the NCBI-servers. 
 
-The script is written to be run once a month to look for new papers, which are then added to the existing RSS-feed.      
+The script is written to be run once a month (using cron etc.) to look for new papers, which are then added to the existing RSS-feed.
+
+Last-update-time is stored in last.update, old RSS-items are stored in pubmed_rss.backup, the feed is published to 23andme_feed.xml    
+
+Whats missing: An option to split the job into chunks, otherwise a full run on 1 Mio SNPs will take ~4 days to complete.   
 
 === Dependencies ===
 

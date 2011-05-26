@@ -33,10 +33,12 @@ def paper_getter(snps,last_update):
 	else:															#else load time of last update
 		pickle_in = open(last_update,"rb")
 		updated_on = pickle.load(pickle_in)
-		
+	snp_counter = 1	
 	for single_snp in snps:											#iterate over all SNPs
 		handle = Entrez.esearch(db="pubmed", term=single_snp.name)	
 		results = Entrez.read(handle)								#Get all papers for the SNP
+		print snp_counter
+		snp_counter += 1
 		
 		if results["IdList"] != []:									#If papers are found for SNP:
 			for single_paper in results["IdList"]:
