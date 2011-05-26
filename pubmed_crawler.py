@@ -35,32 +35,41 @@ def paper_getter(snps,last_update):
 		updated_on = pickle.load(pickle_in)
 	snp_counter = 1	
 	for single_snp in snps:											#iterate over all SNPs
-		handle = Entrez.esearch(db="pubmed", term=single_snp.name)	
-		results = Entrez.read(handle)								#Get all papers for the SNP
-		print snp_counter
-		snp_counter += 1
+		try:
+			handle = Entrez.esearch(db="pubmed", term=single_snp.name)	
+			results = Entrez.read(handle)								#Get all papers for the SNP
+			print snp_counter
+			snp_counter += 1
 		
-		if results["IdList"] != []:									#If papers are found for SNP:
-			for single_paper in results["IdList"]:
-				summary_handle = Entrez.esummary(db="pubmed", id=single_paper)	 #Get summary
-				summary = Entrez.read(summary_handle)
-				if updated_on == "" or updated_on < datetime.datetime.strptime(summary[0]["PubDate"][:8], "%Y %b"): #If new: Get further information
-					paper = Papers(single_paper)					# Create new paper with basic information about it
-					paper.snp = single_snp.name
-					paper.title = summary[0]["Title"]
-					paper.author = summary[0]["AuthorList"][0]
-					paper.journal = summary[0]["Source"]
-					detail_handle = Entrez.efetch(db="pubmed",id=single_paper,retmode="xml")
-					details = Entrez.read(detail_handle)
+			if results["IdList"] != []:									#If papers are found for SNP:
+				for single_paper in results["IdList"]:
 					try:
-						paper.abstract = str(details[0]["MedlineCitation"]["Article"]["Abstract"]["AbstractText"])
+						summary_handle = Entrez.esummary(db="pubmed", id=single_paper)	 #Get summary
+						summary = Entrez.read(summary_handle)
+						if updated_on == "" or updated_on < datetime.datetime.strptime(summary[0]["PubDate"][:8], "%Y %b"): #If new: Get further information
+							paper = Papers(single_paper)					# Create new paper with basic information about it
+							paper.snp = single_snp.name
+							paper.title = summary[0]["Title"]
+							paper.author = summary[0]["AuthorList"][0]
+							paper.journal = summary[0]["Source"]
+							try:
+								detail_handle = Entrez.efetch(db="pubmed",id=single_paper,retmode="xml")
+								details = Entrez.read(detail_handle)
+								try:
+									paper.abstract = str(details[0]["MedlineCitation"]["Article"]["Abstract"]["AbstractText"])
+								except:
+									paper.abstract = "no abstract available"
+								print paper.snp + ": " + paper.title
+								print "Written by " + paper.author + " et al"
+								print "Published in " + paper.journal
+								print paper.abstract
+								new_hits.append(paper)
+							except:
+								pass
 					except:
-						paper.abstract = "no abstract available"
-					print paper.snp + ": " + paper.title
-					print "Written by " + paper.author + " et al"
-					print "Published in " + paper.journal
-					print paper.abstract
-					new_hits.append(paper)
+						pass
+		except:
+			pass
 	return new_hits
 
 
