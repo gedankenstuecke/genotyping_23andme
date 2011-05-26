@@ -5,117 +5,89 @@ rs7530511 -> normales risiko für morbus basedow
 rs10889677 -> leicht erhöhtes risiko für morbus crohn
 rs12567232 -> leicht erhöhtes risiko für morbus crohn
 rs11209032 -> leicht erhöhtes risiko für Spondylitis
-rs527974
-rs11162922
-rs10735781
-rs6680578
-rs599839
-rs3789604
-rs12044852
-rs10801935
-rs3738414
-rs2814778
-rs1800947
-rs3766379
-rs6682654
-rs1801274
-rs5361
-rs486907
-rs689465
-rs1061170
-rs642961
-rs10192566
-rs520354
-rs9332964
-rs1126497
-rs10865331
-rs12469063
-rs1800587
-rs1375144
-rs4988235
-rs182549
-rs573225
-rs1800255
-rs10181656
-rs10210302
-rs2241880
-rs2228000
-rs334558
-rs710521
-rs4961
-rs8192287
-rs8192288
-rs4864548
-rs2231137
-rs3816873
-rs6837793
-rs6897932
-rs3194051
-rs889312
-rs966221
-rs6596075
-rs1042714
-rs3095870
-rs1800460
-rs7754840
-rs1265181
-rs1800750
-rs3131296
-rs3129934
-rs3817964
-rs9469220
-rs6457617
-rs7757037
-rs4714156
-rs3923809
-rs2275913
-rs2653349
-rs2518224
-rs1800795
-rs10250779
-rs2302009
-rs1057868
-rs1334512
-rs1858830
-rs10260404
-rs326
-rs11136000
-rs13266634
-rs3802177
-rs6983267
-rs7837688
-rs6997709
-rs10811661
-rs4149274
-rs4149268
-rs1571801
-rs17158558
-rs3758391
-rs1049550
-rs4506565
-rs1219648
-rs2981745
-rs11523871
-rs5092
-rs10893081
-rs2298566
-rs1805762
-rs11052552
-rs4474514
-rs11110912
-rs3184504
-rs5888
-rs10507391
-rs6314
-rs2930291
-rs725613
-rs12708716
-rs420259
-rs17221417
-rs183130
-rs2670660
-rs9951307
-rs440446
-rs7412
-rs2250889
-rs131690
+rs527974 -> better response to certain calcium channel blockers
+rs11162922 -> erhöhtes risiko für Rheumatoide Arthritis
+rs10735781 -> leicht erhöhtes risiko für MS
+rs6680578 -> leicht erhöhtes risiko für MS
+rs599839 -> erhöhte LDL-werte, erhöhtes risiko für Herzkrankheiten
+rs3789604 -> leicht erhöhtes risiko für rheumatoide arthritis
+rs12044852 -> leicht erhöhtes risiko für MS
+rs3738414 -> _Kein_ erhöhtes risiko für brustkrebs
+rs3766379 -> leicht erhöhtes risiko für rheumatoide arthritis
+rs6682654 -> leicht erhöhtes risiko für rheumatoide arthritis
+rs1801274 -> complex
+rs5361 -> _Kein_ erhöhtes risiko für venous thromboembolism
+rs486907 -> erhöhtes risiko für prostata krebs
+rs1061170 -> leicht erhöhtes risiko für altersbedingte makuladegeneration
+rs10192566 -> medikament Risoglitazon wirkt bei diabetes besser
+rs9332964 -> kein mikropenis
+rs1126497 -> erhöhtes risiko für brustkrebs
+rs10865331 -> leicht erhöhtes risiko für Spondylitis
+rs12469063 -> erhöhtes risiko für restless leg syndrome
+rs1375144 -> erhöhtes risiko für bipolar disorder
+rs4988235 -> nicht laktose intolerant
+rs182549 -> nicht laktose intolerant
+rs10181656 -> erhöhtes risiko für lupus
+rs10210302 -> erhöhtes risiko für morbus crohn
+rs2241880 -> erhöhtes risiko für morbus crohn
+rs2228000 -> kein erhöhtes risiko für blasenkrebs
+rs710521 -> erhöhtes risiko für blasenkrebs
+rs4961 -> erhöhter blutdruck
+rs2231137 -> leicht erhöhtes risiko für ischämischen schlaganfall
+rs3816873 -> normales diabetes typ2 risiko
+rs6837793 -> mehr gewichtszunahme bei einnahme von risperidon
+rs6897932 -> erhöhtes risiko für MS
+rs889312 -> leicht erhöhtes brustkrebs risiko
+rs966221 -> erhöhtes schlaganfall risiko
+rs6596075 -> erhöhtes risiko für morbus crohn
+rs7754840 -> erhöhtes diabetes typ2 risiko
+rs1265181 -> erhöhtes risiko für schuppenflechte
+rs3131296 -> erhöhtes risiko für schizophrenie
+rs3129934 -> normales risiko für MS
+rs9469220 -> erhöhtes risiko für morbus crohn
+rs6457617 -> erhöhtes risiko für rheumathoide arthritis
+rs7757037 -> erniedrigtes risiko für bipolar disorder
+rs4714156 -> erniedrigtes risiko für restless leg syndrome
+rs3923809 -> erhöhtes risiko für restless leg syndrome
+rs2275913 -> leicht erhöhtes risiko für magenkrebs
+rs2302009 -> normales risiko für eosinophilic esophagitis
+rs1334512 -> geringeres malaria risiko
+rs1858830 -> erhöhtes autismus risiko
+rs10260404 -> erhöhtes risiko für ALS
+rs326 -> niedrigeres HDL
+rs11136000 -> niedrigeres alzheimer risiko
+rs13266634 -> erhöhtes risiko für diabetes typ2
+rs3802177 -> erhöhtes risiko für diabetes typ2
+rs6983267 -> erhöhtes risiko für prostata krebs
+rs7837688 -> erhöhtes risiko für prostata krebs
+rs6997709 -> erhöhter blutdruck
+rs10811661 -> leicht erhöhtes risiko für diabetes typ2
+rs4149274 -> erhöhtes HDL
+rs4149268 -> erhöhtes HDL
+rs1571801 -> erhöhtes risiko für prostata krebs
+rs3758391 -> weniger abnahme der mentalen leistungsfähigkeit im alter
+rs1049550 -> erniedrigtes risiko für sarcoidose
+rs4506565 -> erhöhtes risiko für diabetes typ2
+rs1219648 -> erhöhtes risiko für brustkrebs
+rs2981745 -> erhöhtes risiko für brustkrebs in frauen über 60
+rs11523871 -> erhöhtes risiko für brustkrebs in frauen über 60
+rs5092 -> erniedrigte gewichtszunahme bei einnahme von olanzapin
+rs10893081 -> _kein_ erhöhtes risiko für arteriosklerose
+rs2298566 -> erhöhtes risiko für koronare herzerkranknungen
+rs1805762 -> erhöhter blutdruck
+rs11052552 -> erhöhtes risiko für diabetes typ1
+rs4474514 -> erhöhtes risiko für hodenkrebs
+rs11110912 -> erhöhter blutdruck
+rs5888 -> erhöhtes risiko für altersbedingte makula denegeration
+rs10507391 -> erhöhtes schlaganfall risiko für männer 
+rs6314 -> erhöhtes risiko für Rheumatoide Arthritis
+rs2930291 -> erhöhtes risiko für diabetes typ2
+rs725613 -> erhöhtes risiko für diabetes typ1 und MS
+rs12708716 -> erhöhtes risiko für diabetes
+rs420259 -> erhöhtes risiko für bipolar disorder
+rs17221417 -> erhöhtes risiko für morbus crohn
+rs183130 -> erniedrigtes HDL
+rs440446 -> erhöhtes risiko für gallensteine
+rs7412 -> erhöhte gewichtszunahme bei einnahme von olanzapin
+rs2250889 -> erhöhtes risiko für lungenkrebs
+rs131690 -> erhöhtes risiko für bipolar disorder

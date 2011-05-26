@@ -121,18 +121,28 @@ def description_getter(genotypes):
 
 def genotype_comparer(my_filtered_snps,genotypes,descriptions):
 	counter = 1
-	for single_snp in my_filtered_snps:
-		if genotypes.has_key(single_snp.name) and single_snp.genotype != "--":
+	bases = {'A': "T", "T" : "A", "G" : "C", "C" :"G", "I" : "I", "D" : "D"}
+	
+	for single_snp in my_filtered_snps:																							# iterate over all SNPs from user 
+		my_genotype = ""
+		if genotypes.has_key(single_snp.name) and single_snp.genotype != "--":													# is this SNP called and are there genotypes for this SNP?  
 			genotype = genotypes[single_snp.name]
-			output = "-----------\nMy genotype at " + single_snp.name+": "+single_snp.genotype+"\n"
-			for single_genotype in genotype:
-				genotype_name = single_snp.name + single_genotype
-				if descriptions.has_key(genotype_name):
-					output = output + genotype_name +" is associated with: "+ descriptions[genotype_name]+"\n"
-			if output.find("associated") != -1:
-				print counter
-				print output
-				counter += 1
+			for single_genotype in genotype:																					# iterate over all known genotypes of a SNP
+				if "("+single_snp.genotype[0]+";"+single_snp.genotype[1]+")" == single_genotype:						
+					my_genotype = "("+single_snp.genotype[0]+";"+single_snp.genotype[1]+")"										# check for genotype of user (or its complementary bases)
+				elif "("+bases[single_snp.genotype[0]]+";"+bases[single_snp.genotype[1]]+")" == single_genotype:
+					my_genotype = "("+bases[single_snp.genotype[0]]+";"+bases[single_snp.genotype[1]]+")"
+	
+			if my_genotype != "":																								# if genotype of user is known: go on!
+				output = "-----------\nMy genotype at " + single_snp.name+": "+single_snp.genotype+" or "+my_genotype+"\n"
+				for single_genotype in genotype:	
+					genotype_name = single_snp.name + single_genotype
+					if descriptions.has_key(genotype_name):
+						output = output + genotype_name +" is associated with: "+ descriptions[genotype_name]+"\n"
+				if output.find("associated") != -1:
+					print counter
+					print output
+					counter += 1
 
 def main():
 	print "Start getting SNPs from snpedia.com"

@@ -7,6 +7,7 @@ def reader(infile):
 		if x[0] != "#":
 			single = x.split("\t")
 			data.append(snp(single[0],single[1],single[2],single[3].rstrip()))
+	handle.close()
 	return data
 
 

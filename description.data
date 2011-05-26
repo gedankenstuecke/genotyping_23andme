@@ -1,0 +1,8949 @@
+(dp0
+S'rs2710117(A;A)'
+p1
+S'higher risk of speech development delay and/or impairment'
+p2
+sS'rs2834167(A;A)'
+p3
+S'2.67x increased risk for systemic sclerosis'
+p4
+sS'rs420259(C;T)'
+p5
+S'2x risk'
+p6
+sS'rs2837960(T;T)'
+p7
+S'normal'
+p8
+sS'rs2273697(G;G)'
+p9
+S'normal/common'
+p10
+sS'rs2230288(A;A)'
+p11
+S'Homozygous for E326K variant of GBA gene'
+p12
+sS'rs2395029(G;T)'
+p13
+S'HLA-B*5701 carrier'
+p14
+sS'rs683395(C;C)'
+p15
+S'1.3x risk'
+p16
+sS'rs3095870(A;A)'
+p17
+S'normal risk'
+p18
+sS'rs10192566(G;G)'
+p19
+S'if diabetic, better response to rosiglitazone'
+p20
+sS'rs4779584(C;T)'
+p21
+S'1.23x risk for colorectal cancer'
+p22
+sS'rs2072797(C;T)'
+p23
+S'1.5x increased risk of Non-Hodgkin Lymphoma'
+p24
+sS'rs9960767(A;C)'
+p25
+S'1.2x increased risk for schizophrenia'
+p26
+sS'rs2228063(A;G)'
+p27
+S'None'
+p28
+sS'rs35600288(AT;AT)'
+p29
+S'normal risk'
+p30
+sS'rs6413438(C;C)'
+p31
+S'normal'
+p32
+sS'rs55640102(A;C)'
+p33
+S'carrier of one CYP2C19*12 allele'
+p34
+sS'rs7997012(G;G)'
+p35
+S'~18% less likely to respond to citalopram'
+p36
+sS'rs10239794(T;T)'
+p37
+S'>1.3x risk for ALS'
+p38
+sS'rs28694718(A;G)'
+p39
+S'2x risk'
+p40
+sS'rs5558(T;T)'
+p41
+S'normal'
+p42
+sS'rs20417(C;C)'
+p43
+S'normal risk of diabetes'
+p44
+sS'rs6682654(A;G)'
+p45
+S'1.34x increased risk for rheumatoid arthritis'
+p46
+sS'rs28399424(T;T)'
+p47
+S'CYP1A2*6 homozygote'
+p48
+sS'rs56324128(C;T)'
+p49
+S'carrier of one CYP3A4*7 allele'
+p50
+sS'rs4833103(C;C)'
+p51
+S"0.74x decreased risk for Non-hodgkin's lymphoma"
+p52
+sS'rs4894(C;C)'
+p53
+S'1.78x increased risk for schizophrenia in males'
+p54
+sS'rs12970134(A;A)'
+p55
+S'adult waist 1.8cm larger on average'
+p56
+sS'rs28371686(G;G)'
+p57
+S'CYP2C9*5 homozygote'
+p58
+sS'rs889312(A;C)'
+p59
+S'Very slightly higher risk for breast cancer'
+p60
+sS'rs7900194(A;A)'
+p61
+S'CYP2C9*8 homozygote'
+p62
+sS'rs12720461(C;T)'
+p63
+S'carrier of one CYP1A2*1K_-729C>T allele'
+p64
+sS'rs1800795(C;G)'
+p65
+S'complex; see details'
+p66
+sS'rs17822931(C;C)'
+p67
+S'wet earwax'
+p68
+sS'rs28371759(T;T)'
+p69
+S'normal'
+p70
+sS'rs2230500(A;G)'
+p71
+S'1.4x increased risk for stroke'
+p72
+sS'rs1057868(C;T)'
+p73
+S'normal'
+p74
+sS'rs4968451(A;A)'
+p75
+S'1.5x increased risk for meningioma'
+p76
+sS'rs1799732(-;-)'
+p77
+S'less favorable clinical outcome when on antipsychotics'
+p78
+sS'rs12979860(C;C)'
+p79
+S'~80% of such hepatitis C patients respond to treatment'
+p80
+sS'rs7539542(G;G)'
+p81
+S'normal'
+p82
+sS'rs2200733(C;C)'
+p83
+S'normal'
+p84
+sS'rs198358(A;A)'
+p85
+S'normal'
+p86
+sS'rs1953126(C;T)'
+p87
+S'1.3x increased risk for rheumatoid arthritis'
+p88
+sS'rs9332131(A;A)'
+p89
+S'normal'
+p90
+sS'rs762551(C;C)'
+p91
+S'CYP1A2 slow metabolizer'
+p92
+sS'rs28928894(T;T)'
+p93
+S'normal'
+p94
+sS'rs992037(C;C)'
+p95
+S'lowest lysine values'
+p96
+sS'rs34139813(C;C)'
+p97
+S'Normal hemoglobin'
+p98
+sS'rs10492519(A;G)'
+p99
+S'somewhat higher risk for prostate cancer'
+p100
+sS'rs1800860(A;A)'
+p101
+S'10% smaller kidneys as newborns'
+p102
+sS'rs915909(T;T)'
+p103
+S'CYP2E1_6498C>T(I321I) homozygote'
+p104
+sS'rs2075650(A;A)'
+p105
+S'normal'
+p106
+sS'rs6267(G;G)'
+p107
+S'common'
+p108
+sS'rs4792311(A;A)'
+p109
+S'increased risk of prostate cancer'
+p110
+sS'rs1867277(G;G)'
+p111
+S'normal'
+p112
+sS'rs2420946(T;T)'
+p113
+S'1.64x risk for breast cancer'
+p114
+sS'rs6680578(A;T)'
+p115
+S'1.11x risk'
+p116
+sS'rs187238(C;C)'
+p117
+S'hypertension not a risk factor for sudden cardiac death'
+p118
+sS'rs11523871(A;A)'
+p119
+S'normal'
+p120
+sS'rs57424749(G;G)'
+p121
+S'normal'
+p122
+sS'rs27388(A;G)'
+p123
+S'somewhat increased risk for schizophrenia'
+p124
+sS'rs743777(A;A)'
+p125
+S'1.7x risk'
+p126
+sS'rs2981745(T;T)'
+p127
+S'>1.6x increased risk for breast cancer in females over 60'
+p128
+sS'rs1571801(A;A)'
+p129
+S'>1.36x risk for prostate cancer'
+p130
+sS'rs3918242(T;T)'
+p131
+S'1.33x increased risk for MI; also check haplotype'
+p132
+sS'rs12721634(T;T)'
+p133
+S'normal'
+p134
+sS'rs2074190(C;T)'
+p135
+S'2.2x risk for AIA'
+p136
+sS'rs619203(G;G)'
+p137
+S'None'
+p138
+sS'rs10264272(T;T)'
+p139
+S'CYP3A5*6 homozygote; nonexpressor for CYP3A5'
+p140
+sS'rs2740574(G;G)'
+p141
+S'2.5x increased risk for prostate or ovarian cancer; CYP3A4*1B homozygote'
+p142
+sS'rs6413420(G;T)'
+p143
+S'carrier of one CYP2E1*7_-71G>T allele'
+p144
+sS'rs55752064(T;T)'
+p145
+S'normal'
+p146
+sS'rs1801252(G;G)'
+p147
+S''
+p148
+sS'rs1076560(A;C)'
+p149
+S'1.3x increased risk for alcoholism'
+p150
+sS'rs1801274(C;C)'
+p151
+S'normal'
+p152
+sS'rs72558190(A;C)'
+p153
+S'carrier of one CYP2C9*15 allele'
+p154
+sS'rs419598(C;T)'
+p155
+S'0.29x lower risk for periodontitis'
+p156
+sS'rs3802177(C;C)'
+p157
+S'1.16x increased risk for type-2 diabetes'
+p158
+sS'rs10830963(G;G)'
+p159
+S'increased type-2 diabetes risk'
+p160
+sS'rs3817964(A;T)'
+p161
+S'possibly at 4x higher risk of [[rheumatoid arthritis]]'
+p162
+sS'rs7997012(A;A)'
+p163
+S'~18% more likely to respond to citalopram'
+p164
+sS'rs56411402(C;C)'
+p165
+S'CYP3A5*4 homozygote; nonexpressor for CYP3A5'
+p166
+sS'rs55951658(C;C)'
+p167
+S'CYP3A4*4 homozygote'
+p168
+sS'rs3774426(T;T)'
+p169
+S'normal'
+p170
+sS'rs1922892(T;T)'
+p171
+S'higher risk of speech development delay and/or impairment'
+p172
+sS'rs2241766(T;T)'
+p173
+S'normal'
+p174
+sS'rs6503691(C;T)'
+p175
+S'None'
+p176
+sS'rs3814113(C;C)'
+p177
+S'0.8x decreased risk for ovarian cancer'
+p178
+sS'rs4994(C;T)'
+p179
+S'2x higher risk in certain women for cardiac events'
+p180
+sS'rs7536563(A;G)'
+p181
+S'1.12x risk'
+p182
+sS'rs1131532(C;C)'
+p183
+S'normal'
+p184
+sS'rs2448490(A;A)'
+p185
+S'0.57x (reduced) risk for metastasis in LN-/ER+ breast cancer patients'
+p186
+sS'rs72552791(G;G)'
+p187
+S'CYP3A5*11 homozygote; nonexpressor for CYP3A5'
+p188
+sS'rs1554483(G;G)'
+p189
+S'1.8x higher risk for obesity if in haplotype'
+p190
+sS'rs27388(G;G)'
+p191
+S'normal risk'
+p192
+sS'rs793862(A;A)'
+p193
+S'3-5x dyslexia risk'
+p194
+sS'rs13149290(T;T)'
+p195
+S'normal risk'
+p196
+sS'rs2278206(C;C)'
+p197
+S'1.16x increased risk for asthma'
+p198
+sS'rs11162922(G;G)'
+p199
+S'normal'
+p200
+sS'rs2074190(T;T)'
+p201
+S'common'
+p202
+sS'rs2108622(T;T)'
+p203
+S'higher warfarin dosing'
+p204
+sS'rs1800562(G;G)'
+p205
+S'Not a C282Y hemochromatosis carrier.'
+p206
+sS'rs1136410(T;T)'
+p207
+S'normal'
+p208
+sS'rs5882(A;G)'
+p209
+S"lower risk of dementia and Alzheimer's disease"
+p210
+sS'rs2066702(C;C)'
+p211
+S'common'
+p212
+sS'rs2070673(A;T)'
+p213
+S'carrier of one CYP2E1*7_-333T>A  allele'
+p214
+sS'rs28399424(C;C)'
+p215
+S'normal'
+p216
+sS'rs2515475(C;T)'
+p217
+S'1.27x increased ARDS risk in critically ill patients'
+p218
+sS'rs10246256(T;T)'
+p219
+S'higher risk of speech development delay and/or impairment'
+p220
+sS'rs4794067(C;T)'
+p221
+S'2.1x risk for AIA'
+p222
+sS'rs10033464(G;G)'
+p223
+S'normal'
+p224
+sS'rs312481(C;T)'
+p225
+S'normal'
+p226
+sS'rs10918594(C;C)'
+p227
+S'Shorter QT interval'
+p228
+sS'rs13376333(C;T)'
+p229
+S'1.5x higher risk of atrial fibrillation'
+p230
+sS'rs910873(A;G)'
+p231
+S'1.7x increased risk of melanoma'
+p232
+sS'rs521102(C;C)'
+p233
+S'normal'
+p234
+sS'rs2670660(G;G)'
+p235
+S'2.74x'
+p236
+sS'rs3184504(C;T)'
+p237
+S'increased risk for celiac disease'
+p238
+sS'rs527974(C;T)'
+p239
+S'better response to certain calcium channel blockers'
+p240
+sS'rs12567232(A;A)'
+p241
+S"Increased risk for Crohn's Disease"
+p242
+sS'rs1570360(A;G)'
+p243
+S'3x risk'
+p244
+sS'rs17482753(G;T)'
+p245
+S'elevated triglycerides'
+p246
+sS'rs6897932(C;T)'
+p247
+S'1.3x increased risk for multiple sclerosis'
+p248
+sS'rs58597806(T;T)'
+p249
+S'likely reduced UGT1A9 glucuronidation'
+p250
+sS'rs12255372(T;T)'
+p251
+S'increased breast cancer, type-2 diabetes, and aggressive prostate cancer risk'
+p252
+sS'rs10513025(T;T)'
+p253
+S'normal'
+p254
+sS'rs28928894(C;C)'
+p255
+S'homozygote for pachyonychia congenita Type I mutation'
+p256
+sS'rs11523871(C;C)'
+p257
+S'>1.6x increased breast cancer risk for women over 60'
+p258
+sS'rs17244841(A;A)'
+p259
+S'more responsive to statin treatment'
+p260
+sS'rs4986790(G;G)'
+p261
+S'complex; numerous associations reported'
+p262
+sS'rs1892534(G;G)'
+p263
+S'normal'
+p264
+sS'rs41279857(T;T)'
+p265
+S'CYP3A5*S100Y homozygote; nonexpressor for CYP3A5'
+p266
+sS'rs1328674(G;G)'
+p267
+S'average'
+p268
+sS'rs28940574(A;A)'
+p269
+S'Canavan disease'
+p270
+sS'rs2108622(C;C)'
+p271
+S'lower warfarin dosing'
+p272
+sS'rs599839(A;G)'
+p273
+S'1.29x increased risk for heart disease'
+p274
+sS'rs12304921(A;G)'
+p275
+S'2.5x risk'
+p276
+sS'rs1676486(A;A)'
+p277
+S'>1.4x risk for LDH'
+p278
+sS'rs4648317(C;T)'
+p279
+S'prone to higher nicotine dependence?'
+p280
+sS'rs55897648(A;A)'
+p281
+S'CYP2E1*3 homozygote'
+p282
+sS'rs1800709(C;C)'
+p283
+S'normal'
+p284
+sS'rs10498345(A;A)'
+p285
+S'<0.5x decreased risk for coronary spasm'
+p286
+sS'rs1501299(C;C)'
+p287
+S'1.8x higher breast cancer risk'
+p288
+sS'rs25532(C;T)'
+p289
+S'may be part of a haplotype associated with OCD'
+p290
+sS'rs10264272(C;C)'
+p291
+S'normal'
+p292
+sS'rs17238540(T;T)'
+p293
+S'common'
+p294
+sS'rs2297480(A;C)'
+p295
+S'normal'
+p296
+sS'rs800292(C;T)'
+p297
+S'increased risk of macular degeneration'
+p298
+sS'rs17376328(A;A)'
+p299
+S'lower blood pressure'
+p300
+sS'rs198358(G;G)'
+p301
+S'lower blood pressure'
+p302
+sS'rs1801282(G;G)'
+p303
+S'watch out for high fat in diet'
+p304
+sS'rs8192466(C;T)'
+p305
+S'None'
+p306
+sS'rs663048(T;T)'
+p307
+S'3x risk of with [[lung cancer]]'
+p308
+sS'rs4464148(C;C)'
+p309
+S'1.35x increased risk for colorectal cancer'
+p310
+sS'rs851715(G;G)'
+p311
+S'None'
+p312
+sS'rs669(G;G)'
+p313
+S'3.8x or higher increased risk for Alzheimers'
+p314
+sS'rs3783799(A;A)'
+p315
+S'1.4x increased risk for stroke'
+p316
+sS'rs4363657(T;T)'
+p317
+S'normal'
+p318
+sS'rs9332239(C;C)'
+p319
+S'normal'
+p320
+sS'rs12469063(A;A)'
+p321
+S'>1.7x risk for restless legs'
+p322
+sS'rs1042522(C;C)'
+p323
+S'longer lifespan?'
+p324
+sS'rs34516635(A;A)'
+p325
+S'longevity effect?'
+p326
+sS'rs3923809(G;G)'
+p327
+S'common'
+p328
+sS'rs1801278(A;G)'
+p329
+S'reduced colorectal risk when combined with INSR SNP'
+p330
+sS'rs5770917(T;T)'
+p331
+S'normal'
+p332
+sS'rs1042838(G;G)'
+p333
+S'normal risk'
+p334
+sS'rs12021720(T;T)'
+p335
+S'rare genotype but harmless'
+p336
+sS'rs56324128(T;T)'
+p337
+S'CYP3A4*7 homozygote'
+p338
+sS'rs1801278(G;G)'
+p339
+S'normal'
+p340
+sS'rs27072(C;C)'
+p341
+S'2x risk of severe alcohol withdrawal'
+p342
+sS'rs1954787(T;T)'
+p343
+S'~10% less likely to respond to citalopram'
+p344
+sS'rs4290(C;T)'
+p345
+S'higher cardiovascular risk in African Americans'
+p346
+sS'rs2143340(T;T)'
+p347
+S'common'
+p348
+sS'rs56276455(G;G)'
+p349
+S'normal'
+p350
+sS'rs2820037(A;T)'
+p351
+S'1.5x risk'
+p352
+sS'rs1867277(A;G)'
+p353
+S'1.5x increased risk for thyroid cancer'
+p354
+sS'rs1799971(A;G)'
+p355
+S'stronger cravings for alcohol. if alcoholic, naltrexone treatment 2x more successful'
+p356
+sS'rs11045585(A;A)'
+p357
+S'24% chance (lower than average) of docetaxel-induced leukopenia/neutropenia'
+p358
+sS'rs1799999(T;T)'
+p359
+S'insulin resistance'
+p360
+sS'rs2305480(C;C)'
+p361
+S'normal'
+p362
+sS'rs1057868(T;T)'
+p363
+S'1.6x higher overall CYP3A activity'
+p364
+sS'rs6910071(G;G)'
+p365
+S'6x higher risk of [[rheumatoid arthritis]]'
+p366
+sS'rs10801935(C;C)'
+p367
+S'0.3x decreased risk of breast cancer'
+p368
+sS'rs10495584(G;G)'
+p369
+S'lower blood pressure'
+p370
+sS'rs4149274(C;T)'
+p371
+S'associated with higher HDL cholesterol'
+p372
+sS'rs908832(A;A)'
+p373
+S'3.8x increased risk for early-onset Alzheimers'
+p374
+sS'rs16901979(A;C)'
+p375
+S'1.5x increased risk for prostate cancer'
+p376
+sS'rs4986790(A;A)'
+p377
+S'normal'
+p378
+sS'rs10468017(T;T)'
+p379
+S'associated with higher HDL cholesterol'
+p380
+sS'rs17001266(-;-)'
+p381
+S'1.58x increased risk for schizophrenia in males'
+p382
+sS'rs1328674(A;A)'
+p383
+S'higher risk for RA'
+p384
+sS'rs1800587(C;T)'
+p385
+S'normal'
+p386
+sS'rs72547517(G;G)'
+p387
+S'normal'
+p388
+sS'rs5065(A;G)'
+p389
+S'normal risk'
+p390
+sS'rs8179183(C;C)'
+p391
+S'normal'
+p392
+sS'rs5496(G;G)'
+p393
+S'common for caucasians, despite hapmap'
+p394
+sS'rs2837960(G;T)'
+p395
+S'normal'
+p396
+sS'rs7639618(C;C)'
+p397
+S'normal'
+p398
+sS'rs17878459(C;C)'
+p399
+S'CYP2C19*2B homozygote'
+p400
+sS'rs9642880(T;T)'
+p401
+S'1.5x increased bladder cancer risk'
+p402
+sS'rs3923809(A;G)'
+p403
+S'1.9x risk for restless legs'
+p404
+sS'rs5065(G;G)'
+p405
+S'0.87x risk on diuretic; if hypertensive, better outcome when treated with diuretic than with calcium channel blocker'
+p406
+sS'rs4076128(G;G)'
+p407
+S'normal'
+p408
+sS'rs1726866(C;C)'
+p409
+S'can taste bitter'
+p410
+sS'rs11162922(A;G)'
+p411
+S'1.3x risk'
+p412
+sS'rs9550642(A;G)'
+p413
+S'1.3x risk'
+p414
+sS'rs13357391(T;T)'
+p415
+S'normal'
+p416
+sS'rs6498169(G;G)'
+p417
+S'common'
+p418
+sS'rs144848(G;G)'
+p419
+S'1.3x increased risk for breast cancer'
+p420
+sS'rs1495965(A;G)'
+p421
+S'1.2x higher risk for spondylitis'
+p422
+sS'rs683395(T;T)'
+p423
+S'normal'
+p424
+sS'rs10134944(T;T)'
+p425
+S'1.3x risk'
+p426
+sS'rs9886784(A;A)'
+p427
+S'>3.2x risk for AD'
+p428
+sS'rs10455872(A;G)'
+p429
+S'increased Coronary Heart disease risk'
+p430
+sS'rs34815109(-;-)'
+p431
+S'normal'
+p432
+sS'rs55752064(C;T)'
+p433
+S'carrier of one CYP2C19*14 allele'
+p434
+sS'rs2070744(C;C)'
+p435
+S'increased prostate cancer risk'
+p436
+sS'rs72547517(A;G)'
+p437
+S'carrier of one CYP1A2*8 allele'
+p438
+sS'rs10754339(G;G)'
+p439
+S'1.45x increased risk of breast cancer'
+p440
+sS'rs705381(C;C)'
+p441
+S'normal'
+p442
+sS'rs1793004(G;G)'
+p443
+S"0.89x decreased risk for Crohn's disease"
+p444
+sS'rs28371706(C;C)'
+p445
+S'normal'
+p446
+sS'rs7213516(A;A)'
+p447
+S'higher cardiovascular risk in African Americans'
+p448
+sS'rs4778241(A;C)'
+p449
+S'usually brown eye color'
+p450
+sS'rs872071(G;G)'
+p451
+S'~1.5x increased risk for chronic lymphocytic leukemia'
+p452
+sS'rs7014851(T;T)'
+p453
+S'common'
+p454
+sS'rs10485057(A;G)'
+p455
+S'normal?'
+p456
+sS'rs7757037(A;A)'
+p457
+S'0.63x decreased risk for bipolar disorder'
+p458
+sS'rs4775041(G;G)'
+p459
+S'highest phosphatidylethanolamine values'
+p460
+sS'rs1052133(C;C)'
+p461
+S'normal'
+p462
+sS'rs1570360(G;G)'
+p463
+S'normal'
+p464
+sS'rs55951658(C;T)'
+p465
+S'carrier of one CYP3A4*4 allele'
+p466
+sS'rs8028689(C;T)'
+p467
+S'usually brown eye color'
+p468
+sS'rs2308327(G;G)'
+p469
+S'0.10x decreased risk for lung cancer'
+p470
+sS'rs1800454(A;A)'
+p471
+S'affected'
+p472
+sS'rs10871777(G;G)'
+p473
+S'normal'
+p474
+sS'rs6675281(C;C)'
+p475
+S'common'
+p476
+sS'rs34983651(AT;AT)'
+p477
+S'normal risk'
+p478
+sS'rs3817964(T;T)'
+p479
+S'6x higher risk of [[rheumatoid arthritis]]'
+p480
+sS'rs10871777(A;G)'
+p481
+S'adults likely to be 0.22 BMI units higher'
+p482
+sS'rs2231142(A;C)'
+p483
+S'1.74x increased gout risk; gefinitib takers 4x more susceptible to diarrhea'
+p484
+sS'rs1057911(A;A)'
+p485
+S'CYP2C9_50298A>T homozygote'
+p486
+sS'rs9332739(G;G)'
+p487
+S'normal'
+p488
+sS'rs5275(T;T)'
+p489
+S'normal'
+p490
+sS'rs9332130(A;G)'
+p491
+S'carrier of one CYP2C9*10 allele'
+p492
+sS'rs17234657(G;G)'
+p493
+S'2.3x risk'
+p494
+sS'rs1154155(T;T)'
+p495
+S'normal'
+p496
+sS'rs725613(A;A)'
+p497
+S'1.2x increased type-1 diabetes risk; 1.2x increased multiple sclerosis risk'
+p498
+sS'rs12487066(C;T)'
+p499
+S'1.09x increased risk for multiple sclerosis'
+p500
+sS'rs721048(A;A)'
+p501
+S'slightly increased prostate cancer risk'
+p502
+sS'rs27048(C;T)'
+p503
+S'normal'
+p504
+sS'rs688034(T;T)'
+p505
+S'1.6x risk'
+p506
+sS'rs2639703(C;T)'
+p507
+S'1.1x risk'
+p508
+sS'rs4648317(C;C)'
+p509
+S'normal'
+p510
+sS'rs2279420(C;C)'
+p511
+S'0.79x decreased risk for LOAD'
+p512
+sS'rs2476601(A;A)'
+p513
+S'rare genotype'
+p514
+sS'rs2227852(G;G)'
+p515
+S'common for caucasians, despite hapmap'
+p516
+sS'rs1800437(C;C)'
+p517
+S'average'
+p518
+sS'rs3781719(C;T)'
+p519
+S'2x increased hypertension risk'
+p520
+sS'rs1334512(T;T)'
+p521
+S'normal'
+p522
+sS'rs3184504(C;C)'
+p523
+S'normal'
+p524
+sS'rs2295490(G;G)'
+p525
+S'1.32x increased risk of early-onset type-2 diabetes'
+p526
+sS'i4001479(-;-)'
+p527
+S'normal'
+p528
+sS'rs17001266(-;C)'
+p529
+S'1.58x increased risk for schizophrenia in males'
+p530
+sS'rs1801270(A;C)'
+p531
+S'increased risk for lung cancer'
+p532
+sS'rs28897756(A;A)'
+p533
+S'possible link to breast cancer in some families'
+p534
+sS'rs3020314(C;T)'
+p535
+S'0.64x reduced lymphoma risk'
+p536
+sS'rs828907(G;G)'
+p537
+S'normal'
+p538
+sS'rs2275913(A;G)'
+p539
+S'1.4x increased gastric cancer risk'
+p540
+sS'rs9332964(A;A)'
+p541
+S'micropenis'
+p542
+sS'rs743777(G;G)'
+p543
+S'normal'
+p544
+sS'rs1131532(C;T)'
+p545
+S'normal'
+p546
+sS'rs6498169(A;A)'
+p547
+S'>1.14x risk'
+p548
+sS'rs2256871(C;C)'
+p549
+S'CYP2C9*9 homozygote'
+p550
+sS'rs1135824(G;G)'
+p551
+S'Two copies of CYP2D6*3B non-functioning variant'
+p552
+sS'rs7961152(A;A)'
+p553
+S'1.5x higher risk for hypertension'
+p554
+sS'rs6922269(A;G)'
+p555
+S'1.2x risk'
+p556
+sS'rs10246939(C;C)'
+p557
+S'can taste bitter'
+p558
+sS'rs3803662(T;T)'
+p559
+S'1.6x increased risk for breast cancer'
+p560
+sS'rs713598(G;G)'
+p561
+S'possibly unable to taste bitter'
+p562
+sS'rs7213516(G;G)'
+p563
+S'normal'
+p564
+sS'rs13149290(C;T)'
+p565
+S'normal risk'
+p566
+sS'rs2070672(A;A)'
+p567
+S'CYP2E1*7_-352A>G homozygote'
+p568
+sS'rs1799853(C;C)'
+p569
+S'normal; no change in warfarin metabolism'
+p570
+sS'rs4276227(C;T)'
+p571
+S'1.2x risk'
+p572
+sS'rs12593929(G;G)'
+p573
+S'blue eye color if part of blue eye color haplotype'
+p574
+sS'rs2179922(A;A)'
+p575
+S'males 1-2cm shorter on average'
+p576
+sS'rs2231137(A;A)'
+p577
+S'normal'
+p578
+sS'rs6604026(C;C)'
+p579
+S'>1.15x risk'
+p580
+sS'rs3135388(C;T)'
+p581
+S'3x higher risk of multiple sclerosis'
+p582
+sS'rs1800562(A;G)'
+p583
+S'One copy of C282Y, carrier of hemochromatosis, likely unaffected unless also H63D carrier.'
+p584
+sS'rs892086(T;T)'
+p585
+S'1.5x increased Alzheimer risk in non-ApoE4 carriers'
+p586
+sS'rs3131296(G;G)'
+p587
+S'1.4x increased risk for schizophrenia'
+p588
+sS'rs7530511(C;C)'
+p589
+S'normal'
+p590
+sS'rs1801252(A;A)'
+p591
+S'None'
+p592
+sS'rs4253623(A;G)'
+p593
+S'1.25x higher risk of nonfatal myocardial infarction'
+p594
+sS'rs1800058(T;T)'
+p595
+S'1.5x increased risk for breast cancer'
+p596
+sS'rs2930291(T;T)'
+p597
+S'normal'
+p598
+sS'rs28371733(A;G)'
+p599
+S'Carrier of one CYP2D6*52 variant.'
+p600
+sS'rs520354(A;G)'
+p601
+S'increased risk in men for biliary conditions'
+p602
+sS'rs7543472(C;T)'
+p603
+S'weakly associated with increased cataract risk'
+p604
+sS'rs3825776(G;G)'
+p605
+S'>1.3x risk for ALS'
+p606
+sS'rs8192678(A;A)'
+p607
+S'higher blood pressure if <50'
+p608
+sS'rs28940871(C;G)'
+p609
+S'Tay-Sachs carrier'
+p610
+sS'rs1522305(C;G)'
+p611
+S'normal'
+p612
+sS'rs10134944(C;C)'
+p613
+S'normal'
+p614
+sS'rs3825776(A;G)'
+p615
+S'1.3x risk for ALS'
+p616
+sS'rs55640102(A;A)'
+p617
+S'normal'
+p618
+sS'rs10495584(A;G)'
+p619
+S'lower blood pressure'
+p620
+sS'rs9923231(C;C)'
+p621
+S'normal'
+p622
+sS'rs2031920(C;T)'
+p623
+S'carrier of one CYP2E1_-1055C>T allele'
+p624
+sS'rs12593929(A;G)'
+p625
+S'brown eye color'
+p626
+sS'rs10181656(C;G)'
+p627
+S'1.7x increased SLE risk'
+p628
+sS'rs2237897(C;C)'
+p629
+S'common'
+p630
+sS'rs2230199(C;G)'
+p631
+S'1.6x risk of ARMD'
+p632
+sS'rs7753394(T;T)'
+p633
+S'normal'
+p634
+sS'rs851715(A;A)'
+p635
+S'risk of speech development delay and/or impairment'
+p636
+sS'rs1800709(T;T)'
+p637
+S'predisposition to breast cancer?'
+p638
+sS'rs619203(C;C)'
+p639
+g148
+sS'rs12255372(G;T)'
+p640
+S'1.3x increased type-2 diabetes risk'
+p641
+sS'rs3091339(G;G)'
+p642
+S'CYP3A4*_11460A>G(K96E) homozygote'
+p643
+sS'rs1799732(-;C)'
+p644
+S'1.3x increased adenoma recurrence risk'
+p645
+sS'rs3095870(A;G)'
+p646
+S'1.7x increased risk for SLE (lupus)'
+p647
+sS'rs11200014(A;G)'
+p648
+S'1.20x risk for breast cancer'
+p649
+sS'rs660895(A;A)'
+p650
+S'normal'
+p651
+sS'rs1800255(A;A)'
+p652
+S'increased risk for pelvic organ prolapse'
+p653
+sS'rs2308327(A;A)'
+p654
+S'normal'
+p655
+sS'rs4149268(A;G)'
+p656
+S'associated with higher HDL cholesterol'
+p657
+sS'rs7539542(C;C)'
+p658
+S'0.51x decreased breast cancer risk'
+p659
+sS'rs915909(C;C)'
+p660
+S'normal'
+p661
+sS'rs10759932(C;T)'
+p662
+S'increased risk for chorionic plate inflammation'
+p663
+sS'rs6025(A;G)'
+p664
+S'Prone to thrombosis'
+p665
+sS'rs2070676(G;G)'
+p666
+S'normal'
+p667
+sS'rs2305795(G;G)'
+p668
+S'0.75x risk of narcolepsy compared to (A;G) genotype'
+p669
+sS'rs464049(C;T)'
+p670
+S'increased risk of schizophrenia in limited study'
+p671
+sS'rs7017300(C;C)'
+p672
+S'1.7x increased risk for prostate cancer'
+p673
+sS'rs5030867(C;C)'
+p674
+S'CYP2D6*7 homozygote'
+p675
+sS'rs3736228(T;T)'
+p676
+S'increased risk for osteoporosis'
+p677
+sS'rs72547513(C;C)'
+p678
+S'normal'
+p679
+sS'rs8192288(T;T)'
+p680
+S'possibly reduced lung function, see details'
+p681
+sS'rs2240340(G;G)'
+p682
+S'average'
+p683
+sS'rs700651(A;G)'
+p684
+S'~1.18x increased risk of aneurysm'
+p685
+sS'rs2073711(C;C)'
+p686
+S'higher risk of LDD'
+p687
+sS'rs1545843(G;G)'
+p688
+S'normal'
+p689
+sS'rs1344706(T;T)'
+p690
+S'1.2x increased risk for schizophrenia'
+p691
+sS'rs1129038(A;A)'
+p692
+S'brown eye color'
+p693
+sS'rs4076128(A;G)'
+p694
+S'normal'
+p695
+sS'rs3754777(G;G)'
+p696
+S'normal'
+p697
+sS'rs7158782(A;A)'
+p698
+S'normal'
+p699
+sS'rs8179183(G;G)'
+p700
+S'less likely to gain weight if taking risperidone'
+p701
+sS'rs4399848(G;G)'
+p702
+S'normal'
+p703
+sS'rs3212236(A;A)'
+p704
+S'higher risk for dyslexia'
+p705
+sS'rs1142345(G;G)'
+p706
+S'possibly incapable of detoxifying'
+p707
+sS'rs3212227(C;C)'
+p708
+S'normal'
+p709
+sS'rs10754339(A;G)'
+p710
+S'1.3x increased risk of breast cancer'
+p711
+sS'rs9923231(C;T)'
+p712
+S'reduced warfarin dose if treated for VTE'
+p713
+sS'rs34983651(-;-)'
+p714
+S'effects of higher bilirubin; irinotecan toxicity'
+p715
+sS'rs17602729(A;G)'
+p716
+S'AMPD1 heterozygote'
+p717
+sS'rs2820037(A;A)'
+p718
+S'normal'
+p719
+sS'rs4968451(A;C)'
+p720
+S'1.5x increased risk for meningioma'
+p721
+sS'rs3208363(G;T)'
+p722
+S'carrier of one CYP3A4*_16907T>G(S252A) allele'
+p723
+sS'rs2250889(C;G)'
+p724
+S'1.46x higher risk for lung cancer'
+p725
+sS'rs11136000(C;T)'
+p726
+S"0.84x decreased risk for Alzheimer's disease"
+p727
+sS'rs8192288(G;G)'
+p728
+S'normal'
+p729
+sS'rs5742904(A;G)'
+p730
+S'Hypercholesterolemia, Type B; heterozygote'
+p731
+sS'rs2420946(C;C)'
+p732
+S'common'
+p733
+sS'rs6439886(A;A)'
+p734
+S'normal form'
+p735
+sS'rs1922892(C;C)'
+p736
+S'None'
+p737
+sS'rs7017300(A;C)'
+p738
+S'1.7x increased risk for prostate cancer'
+p739
+sS'rs2981582(T;T)'
+p740
+S'1.7x higher risk of ER+ breast cancer'
+p741
+sS'rs183130(C;T)'
+p742
+S'lower HDL cholesterol'
+p743
+sS'rs1229984(A;A)'
+p744
+S'0.56x decreased risk of oral/throat cancers'
+p745
+sS'rs1000113(C;C)'
+p746
+S'normal'
+p747
+sS'rs131690(A;A)'
+p748
+S'normal risk'
+p749
+sS'rs2228000(C;T)'
+p750
+S'normal'
+p751
+sS'rs762551(A;C)'
+p752
+S'carrier of one CYP1A2*1F allele; slow metabolizer'
+p753
+sS'rs16260(C;C)'
+p754
+S'normal'
+p755
+sS'rs4646976(A;A)'
+p756
+S'normal'
+p757
+sS'rs198358(A;G)'
+p758
+S'lower blood pressure'
+p759
+sS'rs2295190(G;T)'
+p760
+S'Slightly increased risk for ovarian cancer in women'
+p761
+sS'rs17879685(C;C)'
+p762
+S'normal'
+p763
+sS'rs2670660(A;A)'
+p764
+S'normal'
+p765
+sS'rs1447295(C;C)'
+p766
+S'normal'
+p767
+sS'rs6596075(G;G)'
+p768
+S'normal'
+p769
+sS'rs356219(A;A)'
+p770
+S'normal'
+p771
+sS'rs1047552(G;T)'
+p772
+S'1.6x higher atherosclerosis risk only in males'
+p773
+sS'rs28897696(C;C)'
+p774
+S'normal'
+p775
+sS'rs3129934(C;T)'
+p776
+S'normal'
+p777
+sS'rs486907(A;G)'
+p778
+S'1.5x increased prostate cancer risk'
+p779
+sS'rs1801274(T;T)'
+p780
+S'complex; generally greater risk for cancer progression'
+p781
+sS'rs1571801(A;C)'
+p782
+S'1.36x risk for prostate cancer'
+p783
+sS'rs1800401(T;T)'
+p784
+S'brown/black eyes more likely'
+p785
+sS'rs1726866(C;T)'
+p786
+S'can taste bitter'
+p787
+sS'rs1801028(G;G)'
+p788
+S'normal risk'
+p789
+sS'rs11465804(T;T)'
+p790
+S'normal risk'
+p791
+sS'rs2278206(T;T)'
+p792
+S'possibly less susceptible to asthma'
+p793
+sS'rs662799(G;G)'
+p794
+S'less weight gain on high fat diets'
+p795
+sS'rs6675281(T;T)'
+p796
+S'None'
+p797
+sS'rs1426654(A;A)'
+p798
+S'probably light-skinned, European ancestry'
+p799
+sS'rs6330(C;C)'
+p800
+S'more anxious females, less anxious males'
+p801
+sS'rs9357271(T;T)'
+p802
+S'common'
+p803
+sS'rs28399504(A;G)'
+p804
+S'carrier'
+p805
+sS'rs3814113(T;T)'
+p806
+S'normal'
+p807
+sS'rs6997709(G;T)'
+p808
+S'1.2x higher risk for hypertension'
+p809
+sS'rs4986791(C;C)'
+p810
+S'normal'
+p811
+sS'rs28933087(T;T)'
+p812
+S'normal'
+p813
+sS'rs10468017(C;T)'
+p814
+S'associated with higher HDL cholesterol'
+p815
+sS'rs6458307(C;T)'
+p816
+S'0.8x risk'
+p817
+sS'rs8028689(C;C)'
+p818
+S'usually brown eye color'
+p819
+sS'rs761100(G;T)'
+p820
+S'normal risk'
+p821
+sS'rs2448490(A;G)'
+p822
+S'normal'
+p823
+sS'rs34612342(A;G)'
+p824
+S'increased risk for certain cancers?'
+p825
+sS'rs72547513(A;A)'
+p826
+S'CYP1A2*11 homozygote'
+p827
+sS'i4001460(A;C)'
+p828
+S'common'
+p829
+sS'rs3736228(C;C)'
+p830
+S'normal'
+p831
+sS'rs72558190(A;A)'
+p832
+S'CYP2C9*15 homozygote'
+p833
+sS'rs3807153(T;T)'
+p834
+S'normal'
+p835
+sS'rs1800469(T;T)'
+p836
+S'normal risk'
+p837
+sS'rs2070600(G;G)'
+p838
+S'normal'
+p839
+sS'rs3731239(C;C)'
+p840
+S'0.9x lower risk for breast cancer'
+p841
+sS'rs2305795(A;A)'
+p842
+S'1.3x risk of narcolepsy compared to (A;G) genotype'
+p843
+sS'rs2230782(C;C)'
+p844
+S'0.45x reduced risk for breast cancer'
+p845
+sS'rs8702(C;C)'
+p846
+S'average'
+p847
+sS'rs3732379(T;T)'
+p848
+S'increased susceptibility'
+p849
+sS'rs10865331(A;A)'
+p850
+S'1.4x higher risk for ankylosing spondylitis'
+p851
+sS'rs13208776(A;A)'
+p852
+S'normal'
+p853
+sS'rs1327328(C;T)'
+p854
+S'normal'
+p855
+sS'rs419788(G;G)'
+p856
+S'average'
+p857
+sS'rs12721627(G;G)'
+p858
+S'CYP3A4*16 homozygote'
+p859
+sS'rs5352(G;G)'
+p860
+S'common'
+p861
+sS'rs211239(T;T)'
+p862
+S'normal risk for priapism in SCA patients'
+p863
+sS'rs2107301(C;T)'
+p864
+S'?'
+p865
+sS'rs2251746(C;T)'
+p866
+S'lower IgE levels'
+p867
+sS'rs3135391(C;T)'
+p868
+S'HLA-DRB1*1501 carrier; higher multiple sclerosis risk'
+p869
+sS'rs3890745(A;G)'
+p870
+g148
+sS'rs2470890(T;T)'
+p871
+S'normal'
+p872
+sS'rs1375144(T;T)'
+p873
+S'normal'
+p874
+sS'rs10947262(C;C)'
+p875
+S'1.3x increased risk for osteoarthritis'
+p876
+sS'rs27072(T;T)'
+p877
+S'normal'
+p878
+sS'rs6684865(A;G)'
+p879
+S'1.2x risk'
+p880
+sS'rs10507391(A;T)'
+p881
+S'1.24x increased stroke risk for males'
+p882
+sS'rs2267012(A;G)'
+p883
+S'1.3x increased risk for depression'
+p884
+sS'rs7326018(A;A)'
+p885
+S'normal'
+p886
+sS'rs2238289(C;C)'
+p887
+S'usually brown eye color'
+p888
+sS'rs9642880(G;G)'
+p889
+S'normal'
+p890
+sS'rs11614913(C;C)'
+p891
+S'increased risk of various types of cancer'
+p892
+sS'rs1699103(A;A)'
+p893
+S'normal'
+p894
+sS'rs10735781(C;C)'
+p895
+S'>1.11x risk'
+p896
+sS'rs72552267(G;G)'
+p897
+S'normal'
+p898
+sS'rs3218005(G;G)'
+p899
+S'normal risk'
+p900
+sS'rs726601(T;T)'
+p901
+S'0.86x risk for Alzheimers'
+p902
+sS'rs1042714(C;G)'
+p903
+S'complex; see details for increased risks'
+p904
+sS'rs41279854(G;G)'
+p905
+S'CYP3A5*10 homozygote; nonexpressor for CYP3A5'
+p906
+sS'rs17228212(C;T)'
+p907
+S'1.26x increased risk for heart disease'
+p908
+sS'rs5917(A;G)'
+p909
+S'None'
+p910
+sS'rs7771980(C;C)'
+p911
+S'lower bone mineral density in postmenopausal Korean women'
+p912
+sS'rs27048(T;T)'
+p913
+S'normal'
+p914
+sS'rs17036314(C;C)'
+p915
+S'risk of progressing from IGT to T2D; reduced by exercise'
+p916
+sS'rs2302009(T;T)'
+p917
+S'normal'
+p918
+sS'rs364897(G;G)'
+p919
+S'Homozygous for N188S variant of GBA gene'
+p920
+sS'rs58293603(T;T)'
+p921
+S'normal'
+p922
+sS'rs6837793(A;G)'
+p923
+S'more likely to gain weight if taking risperidone'
+p924
+sS'rs662799(A;A)'
+p925
+S'normal'
+p926
+sS'rs55889066(A;G)'
+p927
+S'carrier of one CYP1A2*5 allele'
+p928
+sS'rs4795400(C;T)'
+p929
+S'normal'
+p930
+sS'rs1799732(C;C)'
+p931
+S'normal'
+p932
+sS'rs4290(T;T)'
+p933
+S'higher cardiovascular risk in African Americans'
+p934
+sS'rs7961152(C;C)'
+p935
+S'normal'
+p936
+sS'rs1799999(G;G)'
+p937
+S'normal risk'
+p938
+sS'rs3890745(G;G)'
+p939
+S'normal'
+p940
+sS'rs599839(A;A)'
+p941
+S'1.29x increased risk for heart disease'
+p942
+sS'rs1047781(A;T)'
+p943
+S'ABH blood group "Secretor" status if Japanese'
+p944
+sS'rs4149268(G;G)'
+p945
+S'associated with higher HDL cholesterol'
+p946
+sS'rs2232165(T;T)'
+p947
+S'increased risk for heavy alcohol consumption'
+p948
+sS'rs2270641(G;T)'
+p949
+g865
+sS'rs57424749(C;G)'
+p950
+S'heterozygote for pachyonychia congenita Type I mutation'
+p951
+sS'rs11052552(G;T)'
+p952
+S'1.5x risk'
+p953
+sS'rs1800401(C;C)'
+p954
+S'blue/gray eyes possible'
+p955
+sS'rs669(A;A)'
+p956
+S'normal'
+p957
+sS'rs2303067(G;G)'
+p958
+S'normal'
+p959
+sS'rs7412(C;T)'
+p960
+S'more likely to gain weight if taking olanzapine'
+p961
+sS'rs3758581(G;G)'
+p962
+S'normal'
+p963
+sS'rs7495174(A;G)'
+p964
+S'blue/gray eyes less likely'
+p965
+sS'rs2297480(A;A)'
+p966
+S'normal'
+p967
+sS'rs11045585(G;G)'
+p968
+S'(no data; implied high chance of docetaxel-induced leukopenia/neutropenia)'
+p969
+sS'rs1892534(A;A)'
+p970
+S'1.2x increased risk overall for cancers'
+p971
+sS'rs2302009(G;T)'
+p972
+S'normal'
+p973
+sS'rs58973490(A;G)'
+p974
+S'carrier of one CYP2C19*11 allele'
+p975
+sS'rs6680578(T;T)'
+p976
+S'common'
+p977
+sS'rs800292(T;T)'
+p978
+S'increased risk of macular degeneration'
+p979
+sS'rs828907(G;T)'
+p980
+S'slightly increased risk of bladder cancer'
+p981
+sS'rs2275913(G;G)'
+p982
+S'normal'
+p983
+sS'rs2069912(C;T)'
+p984
+S'sepsis risk in East Asians'
+p985
+sS'rs6413419(A;A)'
+p986
+S'CYP2E1*4 homozygote'
+p987
+sS'rs9550642(G;G)'
+p988
+S'normal'
+p989
+sS'rs3208363(G;G)'
+p990
+S'CYP3A4*_16907T>G(S252A) homozygote'
+p991
+sS'rs2240017(G;G)'
+p992
+S'common'
+p993
+sS'rs748404(T;T)'
+p994
+S'slightly  increased risk (1.25) for lung cancer'
+p995
+sS'rs72558188(AGAAATGGAA;AGAAATGGAA)'
+p996
+S'normal'
+p997
+sS'rs4986913(C;T)'
+p998
+S'carrier of one CYP3A4*19 allele'
+p999
+sS'rs1061646(T;T)'
+p1000
+S'normal risk'
+p1001
+sS'rs1265159(T;T)'
+p1002
+S'psoriasis risk for Chinese?'
+p1003
+sS'rs1128503(C;C)'
+p1004
+S'normal'
+p1005
+sS'rs1805007(C;T)'
+p1006
+S'increased response to anesthetics'
+p1007
+sS'rs1057910(A;A)'
+p1008
+S'normal; no effect on warfarin metabolism'
+p1009
+sS'rs2227692(C;T)'
+p1010
+S'1.6x higher risk for diffuse gastric cancer'
+p1011
+sS'rs1799971(A;A)'
+p1012
+S'normal'
+p1013
+sS'rs2187668(A;A)'
+p1014
+S'Autoimmune disorder risk (lupus, celiac disease) due to 2 HLA-DRB1*0301 alleles'
+p1015
+sS'rs2820037(T;T)'
+p1016
+S'1.1x risk'
+p1017
+sS'rs12044852(A;A)'
+p1018
+S'common'
+p1019
+sS'rs28371759(C;T)'
+p1020
+S'carrier of one CYP3A4*18 allele'
+p1021
+sS'rs569108(T;T)'
+p1022
+S'normal'
+p1023
+sS'rs440446(G;G)'
+p1024
+S'increased risk in men for biliary conditions'
+p1025
+sS'rs6997709(G;G)'
+p1026
+S'1.5x higher risk for hypertension'
+p1027
+sS'rs1047781(T;T)'
+p1028
+S'ABH blood group "Non-Secretor" status if Japanese'
+p1029
+sS'rs1426654(G;G)'
+p1030
+S'probably darker-skinned, Asian or African ancestry'
+p1031
+sS'rs1695(G;G)'
+p1032
+S'3.5x asthma risk in certain populations'
+p1033
+sS'rs1800587(T;T)'
+p1034
+S'increased waist circumference and risk of disk disease'
+p1035
+sS'rs664143(C;C)'
+p1036
+S'normal'
+p1037
+sS'rs2295490(A;A)'
+p1038
+S'normal'
+p1039
+sS'rs2267012(G;G)'
+p1040
+S'normal risk'
+p1041
+sS'rs10090154(T;T)'
+p1042
+S'1.4x increased risk for prostate cancer'
+p1043
+sS'rs3025786(C;C)'
+p1044
+S"slightly decreased Alzheimer's disease risk among ApoE4 carriers"
+p1045
+sS'rs67784355(A;A)'
+p1046
+S'CYP3A4*11 homozygote'
+p1047
+sS'rs2070676(C;C)'
+p1048
+S'CYP2E1*1B homozygote'
+p1049
+sS'rs17166496(G;G)'
+p1050
+S'normal'
+p1051
+sS'rs11761231(T;T)'
+p1052
+S'normal'
+p1053
+sS'rs1799945(C;C)'
+p1054
+S'Not a H63D hemochromatosis carrier.'
+p1055
+sS'rs8192288(G;T)'
+p1056
+S'normal'
+p1057
+sS'rs6013029(G;T)'
+p1058
+S'None'
+p1059
+sS'rs3794260(A;G)'
+p1060
+S'1.26x risk for hypertension'
+p1061
+sS'rs10306114(A;A)'
+p1062
+S'normal'
+p1063
+sS'rs2107301(T;T)'
+p1064
+S'2.5x higher risk for prostate cancer'
+p1065
+sS'rs4987161(C;C)'
+p1066
+S'CYP3A4*17 homozygote'
+p1067
+sS'rs72547515(T;T)'
+p1068
+S'CYP1A2*16 homozygote'
+p1069
+sS'rs688(C;T)'
+p1070
+S"normal risk for Alzheimer's; higher total and LDL cholesterol in females"
+p1071
+sS'rs3923809(A;A)'
+p1072
+S'>1.9x risk for restless legs'
+p1073
+sS'rs1858830(C;G)'
+p1074
+S'1.6x increased autism risk'
+p1075
+sS'rs1344706(G;T)'
+p1076
+S'1.1x increased risk for schizophrenia'
+p1077
+sS'rs987525(A;A)'
+p1078
+S'6x increased risk for cleft lip'
+p1079
+sS'rs2515641(C;C)'
+p1080
+S'CYP2E1_10463T>C(F421F) homozygote'
+p1081
+sS'rs1799807(G;G)'
+p1082
+S'Homozygous for "atypical" BuChE'
+p1083
+sS'rs28897672(T;T)'
+p1084
+S'normal'
+p1085
+sS'rs3825942(C;T)'
+p1086
+S'possibly higher glaucoma risk?'
+p1087
+sS'rs28399444(-;AA)'
+p1088
+S'Reduced CYP2A6 metabolism; impaired nicotine metabolism?'
+p1089
+sS'rs3003609(T;T)'
+p1090
+S'associated with heavier smoking in Caucasians'
+p1091
+sS'rs72547517(A;A)'
+p1092
+S'CYP1A2*8 homozygote'
+p1093
+sS'rs1800888(C;T)'
+p1094
+S'increased risk of coronary artery disease'
+p1095
+sS'rs28940279(A;C)'
+p1096
+S'carrier for Canavan disease'
+p1097
+sS'rs12913832(G;G)'
+p1098
+S'blue eye color, 99% of the time'
+p1099
+sS'rs4778241(A;A)'
+p1100
+S'usually brown eye color'
+p1101
+sS'rs1219648(A;G)'
+p1102
+S'1.20x risk for breast cancer'
+p1103
+sS'rs2228063(G;G)'
+p1104
+S'None'
+p1105
+sS'rs2297480(C;C)'
+p1106
+S'reduced response to anti-osteoporosis drugs'
+p1107
+sS'rs1859962(G;T)'
+p1108
+S'normal risk'
+p1109
+sS'rs1265181(C;C)'
+p1110
+S'normal'
+p1111
+sS'rs486907(G;G)'
+p1112
+S'normal'
+p1113
+sS'rs9357271(C;C)'
+p1114
+S'<0.63x risk for restless legs'
+p1115
+sS'rs4253208(G;G)'
+p1116
+S'possible COCKAYNE SYNDROME, TYPE B'
+p1117
+sS'rs1805097(G;G)'
+p1118
+S'normal'
+p1119
+sS'rs4986791(C;T)'
+p1120
+S'complex; see details'
+p1121
+sS'rs56411402(C;T)'
+p1122
+S'carrier of one CYP3A5*4 allele'
+p1123
+sS'rs4714156(T;T)'
+p1124
+S'common'
+p1125
+sS'rs11218350(T;T)'
+p1126
+S'0.83x risk for Alzheimers'
+p1127
+sS'rs2238289(C;T)'
+p1128
+S'usually brown eye color'
+p1129
+sS'rs4656461(G;G)'
+p1130
+S'2.2x increased risk for open angle glaucoma'
+p1131
+sS'rs2274223(G;G)'
+p1132
+S'1.9x increased risk for stomach & esophageal cancer (seen in Han Chinese)'
+p1133
+sS'rs828907(T;T)'
+p1134
+S'slightly increased risk of bladder cancer'
+p1135
+sS'rs1545843(A;A)'
+p1136
+S'1.4x increased risk for depression (for those under 55)'
+p1137
+sS'rs1801282(C;G)'
+p1138
+S'watch out for high fat in diet'
+p1139
+sS'rs6869366(T;T)'
+p1140
+S'normal'
+p1141
+sS'rs3731239(C;T)'
+p1142
+g865
+sS'rs17158558(T;T)'
+p1143
+S'associated in just 1 case with Hirschsprung disease'
+p1144
+sS'rs1695(A;A)'
+p1145
+S'normal asthma risk in certain populations'
+p1146
+sS'rs1805097(A;G)'
+p1147
+S'normal'
+p1148
+sS'rs2278206(C;T)'
+p1149
+S'normal'
+p1150
+sS'rs6684439(C;T)'
+p1151
+S'1.7x increased melanoma risk'
+p1152
+sS'rs17602729(A;A)'
+p1153
+S'AMPD1 deficiency'
+p1154
+sS'rs10239794(C;C)'
+p1155
+S'average'
+p1156
+sS'rs5917(G;G)'
+p1157
+S'common'
+p1158
+sS'rs3804100(C;C)'
+p1159
+S'somwhat increased risk for type-1 diabetes and allergic asthma'
+p1160
+sS'rs6601764(T;T)'
+p1161
+S'normal'
+p1162
+sS'rs10897346(C;C)'
+p1163
+S'if depressed, 2.6x more likely to not respond to antidepressants'
+p1164
+sS'rs7003908(A;A)'
+p1165
+S'normal'
+p1166
+sS'rs34516635(A;G)'
+p1167
+S'longevity effect?'
+p1168
+sS'rs527974(C;C)'
+p1169
+S'better response to certain calcium channel blockers'
+p1170
+sS'rs11803731(A;A)'
+p1171
+S'straighter hair'
+p1172
+sS'rs10507391(A;A)'
+p1173
+S'normal'
+p1174
+sS'rs2538976(A;A)'
+p1175
+S'None'
+p1176
+sS'rs11209032(G;G)'
+p1177
+S'normal risk'
+p1178
+sS'rs13266634(C;T)'
+p1179
+S'increased risk for type-2 diabetes'
+p1180
+sS'rs1801270(A;A)'
+p1181
+S'increased risk for lung cancer'
+p1182
+sS'rs10893081(C;C)'
+p1183
+S'2x increased risk for severe atherosclerosis; 1.2x increased risk for ischemic heart disease'
+p1184
+sS'rs3774426(C;C)'
+p1185
+S'better response to certain calcium channel blockers'
+p1186
+sS'rs1057909(A;G)'
+p1187
+S'carrier of one CYP2C9_42612A>G allele'
+p1188
+sS'rs4656461(A;G)'
+p1189
+S'1.5x increased risk for open angle glaucoma'
+p1190
+sS'rs28399504(G;G)'
+p1191
+S'poor metabolizer'
+p1192
+sS'rs763361(C;T)'
+p1193
+S'somewhat increased risk for multiple autoimmune diseases'
+p1194
+sS'rs7570682(A;G)'
+p1195
+S'1.2x risk'
+p1196
+sS'rs1805762(C;C)'
+p1197
+S'>1.23x risk for hypertension'
+p1198
+sS'rs5030862(G;G)'
+p1199
+S'normal'
+p1200
+sS'rs2427837(G;G)'
+p1201
+S'normal but highest IgE levels'
+p1202
+sS'rs2270641(T;T)'
+p1203
+S'normal'
+p1204
+sS'rs1805007(C;C)'
+p1205
+S'normal risk'
+p1206
+sS'rs5030656(-;AAG)'
+p1207
+S'carrier of one CYP2D6*9 allele'
+p1208
+sS'rs34637584(G;G)'
+p1209
+S'normal'
+p1210
+sS'rs4149056(C;T)'
+p1211
+S'reduced breakdown of some drugs; 5x increased myopathy risk for statin users'
+p1212
+sS'rs10192566(C;G)'
+p1213
+S'if diabetic, better response to rosiglitazone'
+p1214
+sS'rs3736309(G;G)'
+p1215
+S'0.44x decreased risk for chronic obstructive pulmonary lung disease'
+p1216
+sS'rs2251746(C;C)'
+p1217
+S'lowest IgE levels'
+p1218
+sS'rs10498345(T;T)'
+p1219
+S'normal'
+p1220
+sS'rs2283123(C;T)'
+p1221
+S'decreased risk of schizophrenia in limited study'
+p1222
+sS'rs520354(A;A)'
+p1223
+S'increased risk in men for biliary conditions'
+p1224
+sS'rs11052552(G;G)'
+p1225
+S'1.4x risk'
+p1226
+sS'rs3813867(G;G)'
+p1227
+S'normal'
+p1228
+sS'rs3825776(A;A)'
+p1229
+S'average'
+p1230
+sS'rs1800462(C;C)'
+p1231
+S'incapable of detoxifying'
+p1232
+sS'rs5030862(A;G)'
+p1233
+S'carrier of one CYP2D6*12 allele'
+p1234
+sS'rs25531(A;A)'
+p1235
+S'less happy'
+p1236
+sS'rs13333226(G;G)'
+p1237
+S'~15-20% lower risk for hypertension or cardiovascular events'
+p1238
+sS'rs705379(A;G)'
+p1239
+S'intermediate arylesterase activity'
+p1240
+sS'rs12593929(A;A)'
+p1241
+S'brown eye color'
+p1242
+sS'rs4474514(A;G)'
+p1243
+S'3x increased testicular cancer risk for men'
+p1244
+sS'rs726601(C;T)'
+p1245
+S'normal'
+p1246
+sS'rs28371733(G;G)'
+p1247
+S'normal'
+p1248
+sS'rs7101429(A;G)'
+p1249
+S"0.70x reduced risk for Alzheimer's risk"
+p1250
+sS'rs30187(T;T)'
+p1251
+S'1.4x higher risk for spondylitis'
+p1252
+sS'rs1800795(G;G)'
+p1253
+S'more IL6; certain risks, see details'
+p1254
+sS'rs10513025(C;C)'
+p1255
+S'>0.55x reduced risk for autism'
+p1256
+sS'rs1800255(A;G)'
+p1257
+S'normal'
+p1258
+sS'rs1889018(C;T)'
+p1259
+S'1.12x increased risk for T2D'
+p1260
+sS'rs660895(A;G)'
+p1261
+S'possibly at 4x higher risk of [[rheumatoid arthritis]]'
+p1262
+sS'rs4402960(T;T)'
+p1263
+S'1.2x increased risk for type-2 diabetes'
+p1264
+sS'rs6025(A;A)'
+p1265
+S'Prone to thrombosis'
+p1266
+sS'rs7837688(G;T)'
+p1267
+S'1.7x increased risk for prostate cancer'
+p1268
+sS'rs2069514(G;G)'
+p1269
+S'normal'
+p1270
+sS'rs2241766(G;G)'
+p1271
+S'normal'
+p1272
+sS'rs41293455(C;T)'
+p1273
+S'possible predisposition to breast cancer'
+p1274
+sS'rs41279857(G;T)'
+p1275
+S'carrier of one CYP3A5*S100Y allele'
+p1276
+sS'rs1799969(G;G)'
+p1277
+S'normal'
+p1278
+sS'rs7183877(C;C)'
+p1279
+S'blue eye color if part of blue eye color haplotype'
+p1280
+sS'rs28694718(G;G)'
+p1281
+S'common'
+p1282
+sS'rs1061170(T;T)'
+p1283
+S'common/normal'
+p1284
+sS'rs9923231(T;T)'
+p1285
+S'reduced warfarin dose if treated for VTE'
+p1286
+sS'rs700651(A;A)'
+p1287
+S'normal'
+p1288
+sS'rs2274223(A;G)'
+p1289
+S'1.5x increased risk for stomach & esophageal cancer (seen in Han Chinese)'
+p1290
+sS'rs34637584(A;G)'
+p1291
+S"15 to 30% chance of Parkinson's disease, depending on age, family history, and ethnicity"
+p1292
+sS'rs464049(T;T)'
+p1293
+S'increased risk of schizophrenia in limited study'
+p1294
+sS'rs6922269(G;G)'
+p1295
+S'normal'
+p1296
+sS'rs6918698(G;G)'
+p1297
+S'2.2x higher systemic sclerosis risk'
+p1298
+sS'rs4076128(A;A)'
+p1299
+S'1.8x increased breast cancer risk for women having high linoleic acid diets'
+p1300
+sS'rs1799969(A;A)'
+p1301
+S'slightly higher breast cancer risk'
+p1302
+sS'rs237025(C;C)'
+p1303
+S'VAL/VAL reduced [[diabetes]] susceptibility'
+p1304
+sS'rs6439886(A;G)'
+p1305
+g865
+sS'rs10830963(C;G)'
+p1306
+S'increased type-2 diabetes risk'
+p1307
+sS'rs689465(A;G)'
+p1308
+S'slight increased risk for mild asthma'
+p1309
+sS'rs3736309(A;A)'
+p1310
+S'normal'
+p1311
+sS'rs5030656(-;-)'
+p1312
+S'CYP2D6*9 homozygote'
+p1313
+sS'rs6836703(G;G)'
+p1314
+S'normal'
+p1315
+sS'rs2295190(G;G)'
+p1316
+S'common'
+p1317
+sS'rs3754777(A;G)'
+p1318
+S'slightly higher blood pressure if Caucasian'
+p1319
+sS'rs2398162(G;G)'
+p1320
+S'normal'
+p1321
+sS'rs2448490(G;G)'
+p1322
+S'normal'
+p1323
+sS'rs6682654(G;G)'
+p1324
+S'1.8x increased risk for rheumatoid arthritis'
+p1325
+sS'rs2300478(T;T)'
+p1326
+S'common'
+p1327
+sS'rs7903146(C;C)'
+p1328
+S'normal form'
+p1329
+sS'rs7017300(A;A)'
+p1330
+S'normal risk'
+p1331
+sS'rs2373115(T;T)'
+p1332
+S'normal'
+p1333
+sS'rs10260404(C;T)'
+p1334
+S'1.2x risk for ALS'
+p1335
+sS'rs8192287(G;T)'
+p1336
+S'normal'
+p1337
+sS'rs2143340(C;C)'
+p1338
+S'> 2x risk of dyslexia and poor reading performance'
+p1339
+sS'rs6983267(G;T)'
+p1340
+S'1.2x risk of prostate cancer'
+p1341
+sS'rs1800750(G;G)'
+p1342
+S'normal risk'
+p1343
+sS'rs748404(C;T)'
+p1344
+S'very slightly  increased risk (1.15) for lung cancer'
+p1345
+sS'rs689465(G;G)'
+p1346
+S'normal'
+p1347
+sS'rs9272346(A;G)'
+p1348
+S'5.5x risk type-1 diabetes'
+p1349
+sS'rs6897932(T;T)'
+p1350
+S'normal'
+p1351
+sS'rs72547515(C;T)'
+p1352
+S'carrier of one CYP1A2*16 allele'
+p1353
+sS'rs3816873(T;T)'
+p1354
+S'None'
+p1355
+sS'rs1126497(T;T)'
+p1356
+S'1.4x increased risk for breast cancer'
+p1357
+sS'rs3026785(C;T)'
+p1358
+S'may be protective against Hirschsprung disease'
+p1359
+sS'rs1803274(A;G)'
+p1360
+S"possible increased Alzheimer's risk"
+p1361
+sS'rs268(A;G)'
+p1362
+S'3X increased risk for venous thromboembolism'
+p1363
+sS'rs3825942(C;C)'
+p1364
+S'common but 10x higher glaucoma risk'
+p1365
+sS'rs2515475(T;T)'
+p1366
+S'1.27x increased ARDS risk in critically ill patients'
+p1367
+sS'rs358806(C;C)'
+p1368
+S'1.8x risk of type-2 diabetes'
+p1369
+sS'rs1344706(G;G)'
+p1370
+S'normal'
+p1371
+sS'rs2515641(C;T)'
+p1372
+S'carrier of one CYP2E1_10463T>C(F421F) allele'
+p1373
+sS'rs2200733(T;T)'
+p1374
+S'1.4x increased risk of atrial fibrillation and ischemic stroke'
+p1375
+sS'rs1041988(C;C)'
+p1376
+S'CYP3A4*_23139T>C(I431T) homozygote'
+p1377
+sS'rs17036314(G;G)'
+p1378
+S'normal'
+p1379
+sS'rs2230288(A;G)'
+p1380
+S'E326K variant in GBA gene'
+p1381
+sS'rs3804100(C;T)'
+p1382
+S'somewhat increased risk for type-1 diabetes and allergic asthma'
+p1383
+sS'rs2229616(A;A)'
+p1384
+S'lower risk of metabolic syndrome'
+p1385
+sS'rs3789604(G;T)'
+p1386
+S'1.5x increased RA risk; 1.4x increased GD risk'
+p1387
+sS'rs2076756(G;G)'
+p1388
+S"1.7x increased risk for Crohn's disease"
+p1389
+sS'rs2538991(T;T)'
+p1390
+S'None'
+p1391
+sS'rs2981579(T;T)'
+p1392
+S'1.64x risk for breast cancer'
+p1393
+sS'rs1800584(A;A)'
+p1394
+S'TPMT*4A homozygote; likely issues detoxifying certain drugs'
+p1395
+sS'rs383830(T;T)'
+p1396
+S'normal'
+p1397
+sS'rs7014851(C;T)'
+p1398
+S'None'
+p1399
+sS'rs725613(C;C)'
+p1400
+S'normal'
+p1401
+sS'rs2609653(C;C)'
+p1402
+S'3.6x risk'
+p1403
+sS'rs7216389(C;T)'
+p1404
+S'1.5x increased risk for asthma'
+p1405
+sS'rs1676486(A;G)'
+p1406
+S'1.4x risk for LDH'
+p1407
+sS'rs590787(I;I)'
+p1408
+S'Rh+ (Rhesus factor positive)'
+p1409
+sS'rs6457617(C;C)'
+p1410
+S'normal'
+p1411
+sS'rs5443(C;C)'
+p1412
+S'higher risk for several conditions'
+p1413
+sS'rs34612342(A;A)'
+p1414
+S'normal'
+p1415
+sS'rs2072797(C;C)'
+p1416
+S'normal'
+p1417
+sS'rs72547513(A;C)'
+p1418
+S'carrier of one CYP1A2*11 allele'
+p1419
+sS'rs6457617(C;T)'
+p1420
+S'2.3x risk of rheumatoid arthritis'
+p1421
+sS'rs1800054(C;G)'
+p1422
+S'very slightly  increased risk (1.05) for breast cancer'
+p1423
+sS'rs10759932(T;T)'
+p1424
+S'normal'
+p1425
+sS'rs629242(C;T)'
+p1426
+S'somewhat higher risk for prostate cancer'
+p1427
+sS'rs1426654(A;G)'
+p1428
+S'mixed African/European ancestry possible'
+p1429
+sS'rs3758581(A;A)'
+p1430
+S'CYP2C19 V331I homozygote'
+p1431
+sS'rs664143(C;T)'
+p1432
+S'1.6x increased risk of lung cancer'
+p1433
+sS'rs12037606(G;G)'
+p1434
+S'normal'
+p1435
+sS'rs20417(G;G)'
+p1436
+g865
+sS'rs17173608(G;T)'
+p1437
+S'lower visceral adipose tissue'
+p1438
+sS'rs35859249(C;T)'
+p1439
+S'associated with familial obesity'
+p1440
+sS'rs12487066(C;C)'
+p1441
+S'>1.09x increased risk for multiple sclerosis'
+p1442
+sS'rs55785340(A;A)'
+p1443
+S'normal'
+p1444
+sS'rs4506565(A;A)'
+p1445
+S'1.9x increased risk for type-2 diabetes'
+p1446
+sS'rs28371685(C;C)'
+p1447
+S'normal'
+p1448
+sS'rs131702(G;T)'
+p1449
+g148
+sS'rs13208776(A;G)'
+p1450
+S'normal'
+p1451
+sS'rs5839491(-;AT)'
+p1452
+S'some effects of higher bilirubin'
+p1453
+sS'rs710521(A;G)'
+p1454
+S'1.2x increased bladder cancer risk'
+p1455
+sS'rs3802177(T;T)'
+p1456
+S'normal'
+p1457
+sS'rs1585215(G;G)'
+p1458
+S'3.5x increased risk for Hodgkin lymphoma'
+p1459
+sS'rs8050894(G;G)'
+p1460
+S'warfarin resistance (~6.5 mg/day)'
+p1461
+sS'rs2283123(C;C)'
+p1462
+S'normal risk of schizophrenia in limited study'
+p1463
+sS'rs3766379(C;T)'
+p1464
+S'1.37x increased risk for rheumatoid arthritis'
+p1465
+sS'rs27044(C;G)'
+p1466
+S'1.4x higher risk for spondylitis'
+p1467
+sS'rs1805008(C;T)'
+p1468
+S'None'
+p1469
+sS'rs1343151(T;T)'
+p1470
+S'0.8x lower risk for spondylitis'
+p1471
+sS'rs55752064(C;C)'
+p1472
+S'CYP2C19*14 homozygote'
+p1473
+sS'rs5030656(AAG;AAG)'
+p1474
+S'normal'
+p1475
+sS'rs11110912(G;G)'
+p1476
+S'normal'
+p1477
+sS'rs9652490(A;G)'
+p1478
+S"likely (slight?) increased risk for Parkinson's disease"
+p1479
+sS'rs4987161(T;T)'
+p1480
+S'normal'
+p1481
+sS'rs3935591(A;G)'
+p1482
+S'usually brown eye color'
+p1483
+sS'rs2267012(A;A)'
+p1484
+S'1.3x increased risk for depression'
+p1485
+sS'rs17782313(T;T)'
+p1486
+S'normal'
+p1487
+sS'rs1360780(C;T)'
+p1488
+S'1.3x increased risk for depression'
+p1489
+sS'rs11650354(C;T)'
+p1490
+S'possible risk for allergic asthma'
+p1491
+sS'rs10897346(C;T)'
+p1492
+S'if depressed, 2.6x more likely to not respond to antidepressants'
+p1493
+sS'rs55897648(G;G)'
+p1494
+S'normal'
+p1495
+sS'rs3781719(C;C)'
+p1496
+S'2x increased hypertension risk'
+p1497
+sS'rs10090154(C;C)'
+p1498
+S'normal'
+p1499
+sS'rs28940577(G;G)'
+p1500
+S'FAMILIAL MEDITERRANEAN FEVER'
+p1501
+sS'rs3785143(C;C)'
+p1502
+S'normal risk of ADHD'
+p1503
+sS'rs710521(G;G)'
+p1504
+S'normal'
+p1505
+sS'rs56244447(A;A)'
+p1506
+S'normal'
+p1507
+sS'rs807701(C;T)'
+p1508
+S'increased dyslexia risk'
+p1509
+sS'rs6277(T;T)'
+p1510
+S'learns NoGo faster'
+p1511
+sS'rs7101429(A;A)'
+p1512
+S"higher Alzheimer's risk if ApoE4 also present"
+p1513
+sS'rs4129148(C;G)'
+p1514
+S'3x risk'
+p1515
+sS'rs6837793(A;A)'
+p1516
+S'normal'
+p1517
+sS'rs1800750(A;A)'
+p1518
+S'higher acute otitis risk'
+p1519
+sS'rs55889066(A;A)'
+p1520
+S'CYP1A2*5 homozygote'
+p1521
+sS'rs4779584(T;T)'
+p1522
+S'1.70x risk for colorectal cancer'
+p1523
+sS'rs55770810(C;T)'
+p1524
+S'carrier of BRCA1 variant'
+p1525
+sS'rs2073711(C;T)'
+p1526
+S'higher risk of LDD'
+p1527
+sS'rs183130(T;T)'
+p1528
+S'normal risk'
+p1529
+sS'rs56324128(C;C)'
+p1530
+S'normal'
+p1531
+sS'rs3738579(C;T)'
+p1532
+S'0.5x decreased risk for several cancers'
+p1533
+sS'rs916977(G;G)'
+p1534
+S'blue eye color if part of blue eye color haplotype'
+p1535
+sS'rs28383468(C;C)'
+p1536
+S'normal'
+p1537
+sS'rs7895676(T;T)'
+p1538
+S'1.64x increased breast cancer risk'
+p1539
+sS'rs2814778(G;G)'
+p1540
+S'Duffy-negative: increased odds of HIV infection upon exposure, but slowed disease progression if infected'
+p1541
+sS'rs10250779(C;T)'
+p1542
+S'normal'
+p1543
+sS'rs3218005(A;A)'
+p1544
+S'1.55x higher risk for breast cancer'
+p1545
+sS'rs705381(C;T)'
+p1546
+S'less likely to gain weight if taking risperidone'
+p1547
+sS'rs10455872(G;G)'
+p1548
+S'increased Coronary Heart disease risk'
+p1549
+sS'rs669(A;G)'
+p1550
+S'possibly increased risk for Alzheimers'
+p1551
+sS'rs12304921(G;G)'
+p1552
+S'1.9x risk'
+p1553
+sS'rs9306160(T;T)'
+p1554
+S'0.75x (reduced) risk for metastasis in LN-/ER+ breast cancer patients'
+p1555
+sS'rs6277(C;T)'
+p1556
+S'1.4x higher schizophrenia risk'
+p1557
+sS'rs1048990(C;G)'
+p1558
+S'1.48x risk'
+p1559
+sS'rs11218350(A;T)'
+p1560
+S'normal'
+p1561
+sS'rs58973490(A;A)'
+p1562
+S'CYP2C19*11 homozygote'
+p1563
+sS'rs419598(T;T)'
+p1564
+S'normal'
+p1565
+sS'rs1049550(C;C)'
+p1566
+S'normal'
+p1567
+sS'rs4504469(C;C)'
+p1568
+S'common'
+p1569
+sS'rs7903146(T;T)'
+p1570
+S'2x increased risk for Type-2 diabetes'
+p1571
+sS'rs2241766(G;T)'
+p1572
+S'0.6x decreased risk for breast cancer'
+p1573
+sS'rs1050565(A;G)'
+p1574
+S'normal'
+p1575
+sS'rs28931573(T;T)'
+p1576
+S'homozygous for the APOA1 Milano variant'
+p1577
+sS'rs5361(C;C)'
+p1578
+S'4x increased risk for recurrent venous thromboembolism.'
+p1579
+sS'i4001479(-;CC)'
+p1580
+S'Carrier of one CYP2D6*20 non-functioning variant.'
+p1581
+sS'rs1585215(A;A)'
+p1582
+S'normal'
+p1583
+sS'rs6920220(G;G)'
+p1584
+S'normal'
+p1585
+sS'rs55951658(T;T)'
+p1586
+S'normal'
+p1587
+sS'rs6413419(A;G)'
+p1588
+S'carrier of one CYP2E1*4 allele'
+p1589
+sS'rs4986907(A;G)'
+p1590
+S'carrier of one CYP3A4*15A allele'
+p1591
+sS'rs3025786(T;T)'
+p1592
+S'normal'
+p1593
+sS'rs7577363(A;A)'
+p1594
+S'>1.37x risk'
+p1595
+sS'rs4958847(G;G)'
+p1596
+S'normal'
+p1597
+sS'rs2953145(C;C)'
+p1598
+S'normal'
+p1599
+sS'rs17173608(T;T)'
+p1600
+S'normal'
+p1601
+sS'rs759178(G;T)'
+p1602
+S'None'
+p1603
+sS'rs10210302(C;C)'
+p1604
+S'normal'
+p1605
+sS'rs55785340(G;G)'
+p1606
+S'CYP3A4*2 homozygote'
+p1607
+sS'rs72558186(A;T)'
+p1608
+S'carrier of one CYP2C19*7 allele'
+p1609
+sS'rs2839471(C;C)'
+p1610
+S'normal'
+p1611
+sS'rs2031920(C;C)'
+p1612
+S'normal'
+p1613
+sS'rs1057910(A;C)'
+p1614
+S'CYP2C9*3 carrier; average 40% reduction in warfarin metabolism'
+p1615
+sS'rs1041988(T;T)'
+p1616
+S'normal'
+p1617
+sS'rs17300539(G;G)'
+p1618
+S'normal'
+p1619
+sS'rs6997709(T;T)'
+p1620
+S'normal'
+p1621
+sS'rs2710102(C;C)'
+p1622
+S'higher risk of speech development delay and/or impairment'
+p1623
+sS'rs10893081(T;T)'
+p1624
+S'normal'
+p1625
+sS'rs590787(D;I)'
+p1626
+S'usually Rh+ (Rhesus factor positive)'
+p1627
+sS'rs1573496(C;G)'
+p1628
+S'0.68x decreased risk of oral/throat cancers'
+p1629
+sS'rs1859345(C;T)'
+p1630
+S'normal'
+p1631
+sS'rs11881940(T;T)'
+p1632
+S'1.9x risk of MI'
+p1633
+sS'rs3789604(G;G)'
+p1634
+S'1.7x increased RA risk'
+p1635
+sS'rs7341475(A;G)'
+p1636
+S'normal'
+p1637
+sS'rs3817964(A;A)'
+p1638
+S'normal'
+p1639
+sS'rs2295490(A;G)'
+p1640
+S'1.32x increased risk of early-onset type-2 diabetes'
+p1641
+sS'rs33949390(G;G)'
+p1642
+S'normal'
+p1643
+sS'rs6013029(T;T)'
+p1644
+S'None'
+p1645
+sS'rs7019241(C;C)'
+p1646
+S'average'
+p1647
+sS'rs1042713(A;G)'
+p1648
+S'1.3x increased risk that pediatric inhaler use may make asthma worse'
+p1649
+sS'rs1343151(C;C)'
+p1650
+S'normal risk'
+p1651
+sS'rs3789604(T;T)'
+p1652
+S'normal for RA; 1.4x increased GD risk'
+p1653
+sS'rs6680578(A;A)'
+p1654
+S'>1.11x risk'
+p1655
+sS'rs966221(T;T)'
+p1656
+S'normal'
+p1657
+sS'rs10260404(C;C)'
+p1658
+S'1.6x risk for ALS'
+p1659
+sS'rs312481(T;T)'
+p1660
+S'normal'
+p1661
+sS'rs8089(G;T)'
+p1662
+S'slightly increased heart attack risk'
+p1663
+sS'rs3794260(A;A)'
+p1664
+S'>1.26x risk for hypertension'
+p1665
+sS'rs1355095(G;G)'
+p1666
+S'increase risk of schizophrenia'
+p1667
+sS'rs1793004(C;G)'
+p1668
+g865
+sS'rs629242(C;C)'
+p1669
+S'normal risk'
+p1670
+sS'rs10306114(A;G)'
+p1671
+S'Higher risk of bleeding during coronary angiography'
+p1672
+sS'rs3758391(C;C)'
+p1673
+S'normal'
+p1674
+sS'rs2071746(A;T)'
+p1675
+S'normal'
+p1676
+sS'rs725613(A;C)'
+p1677
+S'1.2x increased type-1 diabetes risk; 1.2x increased multiple sclerosis risk'
+p1678
+sS'rs25489(A;G)'
+p1679
+S'normal risk'
+p1680
+sS'rs41293455(C;C)'
+p1681
+S'normal'
+p1682
+sS'rs17228212(T;T)'
+p1683
+S'normal'
+p1684
+sS'rs55817950(A;A)'
+p1685
+S'CYP3A5*8 homozygote; nonexpressor for CYP3A5'
+p1686
+sS'rs41279857(G;G)'
+p1687
+S'normal'
+p1688
+sS'rs12720461(T;T)'
+p1689
+S'CYP1A2*1K_-729C>T homozygote'
+p1690
+sS'rs421016(T;T)'
+p1691
+S"Gaucher disease, type II or IIIl; Parkinson's disease risk"
+p1692
+sS'rs1042713(G;G)'
+p1693
+S'normal'
+p1694
+sS'rs1784931(A;C)'
+p1695
+S'normal'
+p1696
+sS'rs987525(A;C)'
+p1697
+S'2.5x increased risk for cleft lip'
+p1698
+sS'rs9296249(C;T)'
+p1699
+S'0.62x risk for restless legs'
+p1700
+sS'rs1052133(C;G)'
+p1701
+S'normal for bladder cancer risk; 1.9x increased risk for gallbladder cancer'
+p1702
+sS'rs17221417(G;G)'
+p1703
+S'1.9x risk'
+p1704
+sS'rs10306114(G;G)'
+p1705
+S'Higher risk of bleeding during coronary angiography'
+p1706
+sS'rs3208363(T;T)'
+p1707
+S'normal'
+p1708
+sS'rs3766379(C;C)'
+p1709
+S'normal'
+p1710
+sS'rs4986852(A;G)'
+p1711
+S'possible predisposition to breast cancer'
+p1712
+sS'rs429358(T;T)'
+p1713
+S'common'
+p1714
+sS'rs10892759(G;G)'
+p1715
+S'normal'
+p1716
+sS'rs17878459(C;G)'
+p1717
+S'carrier of one CYP2C19*2B allele'
+p1718
+sS'rs4242382(G;G)'
+p1719
+S'normal risk'
+p1720
+sS'rs2427837(A;A)'
+p1721
+S'lowest IgE levels'
+p1722
+sS'rs241448(T;T)'
+p1723
+S'common'
+p1724
+sS'rs1219648(A;A)'
+p1725
+S'1.64x risk for breast cancer'
+p1726
+sS'rs12567232(G;G)'
+p1727
+S'normal'
+p1728
+sS'rs499697(T;T)'
+p1729
+S'straighter hair'
+p1730
+sS'rs326(A;G)'
+p1731
+S'lower HDL cholesterol'
+p1732
+sS'rs13208776(G;G)'
+p1733
+S'higher risk for generalized vitiligo'
+p1734
+sS'rs2275913(A;A)'
+p1735
+S'3x increased gastric cancer risk'
+p1736
+sS'rs2305480(T;T)'
+p1737
+S'if 4 years old or younger, ~3x increased asthma risk if exposed to smoke'
+p1738
+sS'rs3821236(A;G)'
+p1739
+S'1.4x higher risk of lupus'
+p1740
+sS'rs72558188(-;AGAAATGGAA)'
+p1741
+S'carrier of one CYP2C9*25 allele'
+p1742
+sS'rs213950(A;A)'
+p1743
+S'>1.1x risk'
+p1744
+sS'rs2609653(T;T)'
+p1745
+S'normal'
+p1746
+sS'rs12037606(A;A)'
+p1747
+S"1.5x risk of Crohn's disease"
+p1748
+sS'rs2177369(C;C)'
+p1749
+S"1.5x increased risk for Alzheimer's disease"
+p1750
+sS'rs11465770(C;T)'
+p1751
+S"possibly lower risk of Crohn's Disease (OR=0.30)"
+p1752
+sS'rs2740574(A;G)'
+p1753
+S'carrier of one CYP3A4*1B allele'
+p1754
+sS'rs7454108(C;C)'
+p1755
+S'Homozygous for HLA-DQ8 haplotype'
+p1756
+sS'rs713598(C;C)'
+p1757
+S'can taste bitter'
+p1758
+sS'rs10889677(A;A)'
+p1759
+S'1.5x risk for certain autoimmune diseases'
+p1760
+sS'rs987525(C;C)'
+p1761
+S'normal'
+p1762
+sS'rs28371685(C;T)'
+p1763
+S'carrier of one CYP2C9*11 allele'
+p1764
+sS'rs2107301(C;C)'
+p1765
+S'normal risk'
+p1766
+sS'rs4481887(A;A)'
+p1767
+S'74% of you can smell asparagus metabolites in urine'
+p1768
+sS'rs1800460(A;G)'
+p1769
+S'normal'
+p1770
+sS'rs1329428(G;G)'
+p1771
+S'2x increased risk for macular degeneration'
+p1772
+sS'rs2515475(C;C)'
+p1773
+S'normal'
+p1774
+sS'rs2881766(G;G)'
+p1775
+S'normal'
+p1776
+sS'rs2228001(A;A)'
+p1777
+S'statistically significant, but slight, increase in lung cancer risk'
+p1778
+sS'rs72547516(A;A)'
+p1779
+S'normal'
+p1780
+sS'rs1805097(A;A)'
+p1781
+S'twice as likely to reach extreme old age?'
+p1782
+sS'rs4986852(G;G)'
+p1783
+S'normal'
+p1784
+sS'rs1061170(C;C)'
+p1785
+S'5.9x risk for AMD; higher mortality among nonagenarians'
+p1786
+sS'rs3807153(C;C)'
+p1787
+S'Distal Renal Tubular Acidosis'
+p1788
+sS'rs17158558(C;T)'
+p1789
+S'normal'
+p1790
+sS'rs721048(G;G)'
+p1791
+S'normal'
+p1792
+sS'rs1800056(C;C)'
+p1793
+S'1.5x increased risk for breast cancer'
+p1794
+sS'rs1360780(C;C)'
+p1795
+S'normal'
+p1796
+sS'rs7003908(A;C)'
+p1797
+S'normal'
+p1798
+sS'rs17882687(A;C)'
+p1799
+S'carrier of one CYP2C19*15 allele'
+p1800
+sS'rs1800947(C;C)'
+p1801
+S'lower CRP levels'
+p1802
+sS'rs268(G;G)'
+p1803
+S'3X+ increased risk for venous thromboembolism'
+p1804
+sS'rs10492519(G;G)'
+p1805
+S'somewhat higher risk for prostate cancer'
+p1806
+sS'rs12184413(C;C)'
+p1807
+S'normal'
+p1808
+sS'rs4986761(T;T)'
+p1809
+S'normal'
+p1810
+sS'rs2538976(A;G)'
+p1811
+S'None'
+p1812
+sS'rs12708716(A;A)'
+p1813
+S'1.6x risk'
+p1814
+sS'rs1447295(A;C)'
+p1815
+S'1.4x increased risk of prostate cancer'
+p1816
+sS'rs10490924(T;T)'
+p1817
+S'8.2x risk for age related macular degeneration'
+p1818
+sS'rs4986910(C;T)'
+p1819
+S'carrier of one CYP3A4*3 allele'
+p1820
+sS'rs4775041(C;G)'
+p1821
+S'intermediate phosphatidylethanolamine values'
+p1822
+sS'rs72558185(-;G)'
+p1823
+S'carrier of one CYP2C19 hCV34328665 allele'
+p1824
+sS'rs7570682(A;A)'
+p1825
+S'1.6x risk'
+p1826
+sS'rs4656461(A;A)'
+p1827
+S'normal'
+p1828
+sS'rs429358(C;T)'
+p1829
+S">3x increased risk for Alzheimer's; 1.4x increased risk for heart disease"
+p1830
+sS'rs1522305(G;G)'
+p1831
+S'slightly increased risk for schizophrenia'
+p1832
+sS'rs1334710(A;G)'
+p1833
+S'increased risk'
+p1834
+sS'rs380390(C;C)'
+p1835
+S'increased risk for ARMD'
+p1836
+sS'rs966221(C;C)'
+p1837
+S'1.5x increased stroke risk'
+p1838
+sS'rs11209032(A;G)'
+p1839
+S'1.3x higher risk for spondylitis'
+p1840
+sS'rs4794067(T;T)'
+p1841
+S'common'
+p1842
+sS'rs3746444(T;T)'
+p1843
+S'normal'
+p1844
+sS'rs2302009(G;G)'
+p1845
+S'4.6x risk'
+p1846
+sS'rs2538976(G;G)'
+p1847
+S'higher risk for speech development delay and/or impairment'
+p1848
+sS'rs11761231(C;C)'
+p1849
+g148
+sS'rs13357391(C;T)'
+p1850
+S'normal'
+p1851
+sS'rs2230199(G;G)'
+p1852
+S'common'
+p1853
+sS'rs28928894(C;T)'
+p1854
+S'heterozygote for pachyonychia congenita Type I mutation'
+p1855
+sS'rs2273697(A;A)'
+p1856
+S'Adverse reaction more likely to carbamazepine in epileptic patients'
+p1857
+sS'rs2059693(T;T)'
+p1858
+S'1.6x increased risk for testicular cancer'
+p1859
+sS'rs2241880(C;T)'
+p1860
+S"1.4x increased risk for Crohn's disease in Caucasians"
+p1861
+sS'rs2839471(C;T)'
+p1862
+S'1.6x increased risk for high myopia'
+p1863
+sS'rs965513(A;G)'
+p1864
+S'1.7x increased thyroid cancer risk'
+p1865
+sS'rs5770917(C;T)'
+p1866
+S'1.4x increased risk for narcolepsy'
+p1867
+sS'rs17300539(A;G)'
+p1868
+S'if obese, dieting more effective'
+p1869
+sS'rs1859962(T;T)'
+p1870
+S'normal risk'
+p1871
+sS'rs4464148(T;T)'
+p1872
+S'1x normal risk for colorectal cancer'
+p1873
+sS'rs17884712(A;G)'
+p1874
+S'carrier of one CYP2C19*9 allele'
+p1875
+sS'rs10264272(C;T)'
+p1876
+S'carrier of one CYP3A5*6 allele'
+p1877
+sS'rs72552791(A;A)'
+p1878
+S'normal'
+p1879
+sS'rs6413419(G;G)'
+p1880
+S'normal'
+p1881
+sS'rs4894(A;A)'
+p1882
+S'normal'
+p1883
+sS'rs7539542(C;G)'
+p1884
+S'0.59x decreased breast cancer risk'
+p1885
+sS'rs2070676(C;G)'
+p1886
+S'carrier of one CYP2E1*1B allele'
+p1887
+sS'rs12425791(G;G)'
+p1888
+S'normal'
+p1889
+sS'rs1800437(G;G)'
+p1890
+S'average'
+p1891
+sS'rs429358(C;C)'
+p1892
+S'one of 2 snps relevant to classifying APOE genotype'
+p1893
+sS'rs7543472(C;C)'
+p1894
+S'normal'
+p1895
+sS'rs1042838(G;T)'
+p1896
+S'1.26x risk for ovarian cancer'
+p1897
+sS'rs41309764(C;C)'
+p1898
+S'normal'
+p1899
+sS'rs10210302(T;T)'
+p1900
+S'1.8x risk'
+p1901
+sS'rs5092(A;G)'
+p1902
+S'less likely to gain weight if taking olanzapine'
+p1903
+sS'rs5030862(A;A)'
+p1904
+S'CYP2D6*12 homozygote'
+p1905
+sS'rs28399424(C;T)'
+p1906
+S'carrier of one CYP1A2*6 allele'
+p1907
+sS'rs28365083(A;C)'
+p1908
+S'carrier of one CYP3A5*2 allele'
+p1909
+sS'rs11650354(C;C)'
+p1910
+S'8x risk for allergic asthma'
+p1911
+sS'rs4655595(A;G)'
+p1912
+S'1.4 risk'
+p1913
+sS'rs9550642(A;A)'
+p1914
+S'2.2x risk'
+p1915
+sS'rs3095870(G;G)'
+p1916
+S'1.7x increased risk for SLE (lupus)'
+p1917
+sS'rs5800(G;G)'
+p1918
+S'normal'
+p1919
+sS'rs1954787(C;T)'
+p1920
+S'normal risk'
+p1921
+sS'rs3212236(A;G)'
+p1922
+S'normal risk'
+p1923
+sS'rs13361189(T;T)'
+p1924
+S'normal'
+p1925
+sS'rs26722(C;T)'
+p1926
+S'perhaps darker eye, hair, skin'
+p1927
+sS'rs776746(A;A)'
+p1928
+S'nonfunctional CYP3A5; drug metabolism effects'
+p1929
+sS'rs25531(G;G)'
+p1930
+S'happier'
+p1931
+sS'rs1792113(G;G)'
+p1932
+S'0.90x risk for Alzheimers'
+p1933
+sS'rs9951307(G;G)'
+p1934
+S'0.10 decreased risk for brain edema after a stroke'
+p1935
+sS'rs28940577(A;G)'
+p1936
+S'FAMILIAL MEDITERRANEAN FEVER carrier'
+p1937
+sS'rs619203(C;G)'
+p1938
+S'increases susceptibility to Myocardial Infarction 1.15 times'
+p1939
+sS'rs719725(A;C)'
+p1940
+S'1.5x increased risk for colorectal cancer'
+p1941
+sS'rs660895(G;G)'
+p1942
+S'6x higher risk of rheumatoid arthritis'
+p1943
+sS'rs34637584(A;A)'
+p1944
+S"15 to 30% chance of Parkinson's disease, depending on age, family history, and ethnicity"
+p1945
+sS'rs12970134(A;G)'
+p1946
+S'adult waist 0.9cm larger on average'
+p1947
+sS'rs1859345(C;C)'
+p1948
+S'slightly earlier age at menarche'
+p1949
+sS'rs10492519(A;A)'
+p1950
+S'normal risk'
+p1951
+sS'rs1800947(G;G)'
+p1952
+S'normal'
+p1953
+sS'rs2333227(C;T)'
+p1954
+S'0.8x decreased risk for lung cancer among smokers; increased gastric cancer risk'
+p1955
+sS'rs3804505(C;T)'
+p1956
+g865
+sS'rs2075650(A;G)'
+p1957
+S"2x higher Alzheimer's risk"
+p1958
+sS'rs36053993(A;G)'
+p1959
+S'increased risk for certain cancers?'
+p1960
+sS'rs7639618(C;T)'
+p1961
+S'1.45x increased osteoarthritis risk'
+p1962
+sS'rs1800058(C;T)'
+p1963
+S'very slightly  increased risk (1.05) for breast cancer'
+p1964
+sS'i4001456(A;A)'
+p1965
+S'Homozygous for CYP2D6*4F non-functioning variant'
+p1966
+sS'rs867186(G;G)'
+p1967
+S'EPCR H3 diplotype; reduced or increased risk of VTE?'
+p1968
+sS'rs9589207(A;A)'
+p1969
+S'None'
+p1970
+sS'rs2373115(G;T)'
+p1971
+S'normal'
+p1972
+sS'rs543749(G;G)'
+p1973
+S'if a smoker, somewhat more likely to develop COPD'
+p1974
+sS'rs6413420(G;G)'
+p1975
+S'normal'
+p1976
+sS'rs800292(C;C)'
+p1977
+S'normal'
+p1978
+sS'rs5092(G;G)'
+p1979
+S'normal'
+p1980
+sS'rs8089(G;G)'
+p1981
+S'slightly increased heart attack risk'
+p1982
+sS'rs13376333(T;T)'
+p1983
+S'~2x higher risk of atrial fibrillation'
+p1984
+sS'rs872071(A;A)'
+p1985
+S'normal'
+p1986
+sS'rs10811661(T;T)'
+p1987
+S'1.2x increased risk for type-2 diabetes'
+p1988
+sS'rs3918290(A;A)'
+p1989
+S'5-fluorouracil toxicity'
+p1990
+sS'rs573225(T;T)'
+p1991
+S'higher insulinogenic index in obese children'
+p1992
+sS'rs11650354(T;T)'
+p1993
+S'common'
+p1994
+sS'rs4730751(A;A)'
+p1995
+S'For kidney donors, 2x more likely to result in allograft rejection'
+p1996
+sS'rs28371706(C;T)'
+p1997
+S'Carrier of one CYP2D6 variant, possibly decreased on non-functioning.'
+p1998
+sS'rs3025786(C;T)'
+p1999
+S"slightly decreased Alzheimer's disease risk among ApoE4 carriers"
+p2000
+sS'rs28371686(C;C)'
+p2001
+S'normal'
+p2002
+sS'rs9272346(A;A)'
+p2003
+S'18.5x risk of Type-1 Diabetes'
+p2004
+sS'rs2145418(T;T)'
+p2005
+S'normal'
+p2006
+sS'rs1792113(A;G)'
+p2007
+S'normal'
+p2008
+sS'rs1042838(T;T)'
+p2009
+S'3.2x risk for ovarian cancer'
+p2010
+sS'rs420259(T;T)'
+p2011
+S'2x risk'
+p2012
+sS'rs1126809(A;A)'
+p2013
+S'slight increase in skin cancer risk'
+p2014
+sS'rs6869366(G;G)'
+p2015
+S'>2x increased risk for bladder cancer'
+p2016
+sS'rs763361(T;T)'
+p2017
+S'somewhat increased risk for multiple autoimmune diseases'
+p2018
+sS'rs10246939(T;T)'
+p2019
+S'possibly unable to taste bitterness'
+p2020
+sS'rs1049550(T;T)'
+p2021
+S'0.62x reduced risk for sarcoidosis'
+p2022
+sS'rs4959039(G;G)'
+p2023
+S'1.6x higher risk for multiple sclerosis'
+p2024
+sS'rs4565946(C;C)'
+p2025
+S'Risk of early-onset OCD'
+p2026
+sS'rs72547516(T;T)'
+p2027
+S'CYP1A2*4 homozygote'
+p2028
+sS'rs2930291(C;T)'
+p2029
+S'1.3x risk'
+p2030
+sS'rs2177369(T;T)'
+p2031
+S'normal'
+p2032
+sS'rs11052552(T;T)'
+p2033
+S'normal'
+p2034
+sS'rs5839491(AT;AT)'
+p2035
+S'effects of higher bilirubin; irinotecan toxicity'
+p2036
+sS'rs11803731(T;T)'
+p2037
+S'curlier hair'
+p2038
+sS'rs1050565(G;G)'
+p2039
+S'if testicular cancer patient, 5x poorer response to bleomycin chemotherapy'
+p2040
+sS'rs361525(A;G)'
+p2041
+S'complex; generally higher risk for certain diseases'
+p2042
+sS'rs867186(A;G)'
+p2043
+S'EPCR H3 haplotype; reduced or increased risk of VTE?'
+p2044
+sS'rs5751876(C;C)'
+p2045
+S'None'
+p2046
+sS'rs27388(A;A)'
+p2047
+S'somewhat increased risk for schizophrenia'
+p2048
+sS'rs9332131(-;A)'
+p2049
+S'carrier of one CYP2C9*6 allele'
+p2050
+sS'rs9642880(G;T)'
+p2051
+S'1.2x increased bladder cancer risk'
+p2052
+sS'rs910316(G;T)'
+p2053
+S'0.34cm taller on average'
+p2054
+sS'rs182549(C;C)'
+p2055
+S'possibly lactose intolerant'
+p2056
+sS'rs5067(G;G)'
+p2057
+S'0.5x reduced risk for asthma'
+p2058
+sS'rs25532(T;T)'
+p2059
+S'normal'
+p2060
+sS'rs663048(G;G)'
+p2061
+S'None'
+p2062
+sS'rs4988235(C;C)'
+p2063
+S'possibly lactose intolerant'
+p2064
+sS'rs4570625(T;T)'
+p2065
+S'normal'
+p2066
+sS'rs1726866(T;T)'
+p2067
+S'possible unable to taste bitter'
+p2068
+sS'rs10918594(C;G)'
+p2069
+S'average QT interval'
+p2070
+sS'rs41291556(T;T)'
+p2071
+S'normal'
+p2072
+sS'rs2070673(T;T)'
+p2073
+S'normal'
+p2074
+sS'rs1699103(G;G)'
+p2075
+S'0.85x risk for Alzheimers'
+p2076
+sS'rs2270641(G;G)'
+p2077
+S'3.7x higher risk for schizophrenia'
+p2078
+sS'rs793862(A;G)'
+p2079
+S'increased dyslexia risk'
+p2080
+sS'rs1007371(T;T)'
+p2081
+S'rare genotype.'
+p2082
+sS'rs699947(C;C)'
+p2083
+S'normal'
+p2084
+sS'rs6684865(G;G)'
+p2085
+S'normal'
+p2086
+sS'rs11465770(C;C)'
+p2087
+S"normal Crohn's Disease risk"
+p2088
+sS'rs7794745(A;A)'
+p2089
+S'normal risk'
+p2090
+sS'rs9332739(C;G)'
+p2091
+S'None'
+p2092
+sS'rs6749447(T;T)'
+p2093
+S'normal'
+p2094
+sS'rs1801394(A;A)'
+p2095
+S'normal'
+p2096
+sS'rs421016(C;C)'
+p2097
+S'most common; unaffected'
+p2098
+sS'rs72558188(-;-)'
+p2099
+S'CYP2C9*25 homozygote'
+p2100
+sS'rs1135840(C;C)'
+p2101
+S'Homozygous for CYP2D6 variants (non-CYP2D6*1)'
+p2102
+sS'rs3746444(C;T)'
+p2103
+S'1.25x increased risk for breast cancer'
+p2104
+sS'rs5030882(T;T)'
+p2105
+S'common'
+p2106
+sS'rs2070744(C;T)'
+p2107
+S'None'
+p2108
+sS'rs9652490(A;A)'
+p2109
+S"~2x increased risk for Parkinson's disease, and, essential tremor"
+p2110
+sS'rs2653349(A;G)'
+p2111
+S'~1.5x? increased risk for cluster headaches'
+p2112
+sS'rs4320932(G;G)'
+p2113
+S'0.74x decreased risk for ovarian cancer'
+p2114
+sS'rs3135388(T;T)'
+p2115
+S'3-6x higher risk of multiple sclerosis'
+p2116
+sS'rs6596075(C;C)'
+p2117
+S'2x risk'
+p2118
+sS'rs1076560(C;C)'
+p2119
+S'normal'
+p2120
+sS'rs1143679(A;G)'
+p2121
+S'1.78x increased risk for SLE'
+p2122
+sS'rs12597511(C;C)'
+p2123
+S'normal'
+p2124
+sS'rs1800056(C;T)'
+p2125
+S'very slightly  increased risk (1.05) for breast cancer'
+p2126
+sS'rs3135388(C;C)'
+p2127
+S'normal'
+p2128
+sS'rs56244447(A;C)'
+p2129
+S'carrier of one CYP3A5*3D allele'
+p2130
+sS'rs8038652(G;G)'
+p2131
+S'normal'
+p2132
+sS'rs12567232(A;G)'
+p2133
+S"Increased risk for Crohn's Disease"
+p2134
+sS'rs28929474(A;G)'
+p2135
+S'carrier for Alpha-1 Antitrypsin Deficiency'
+p2136
+sS'rs28933087(G;G)'
+p2137
+S'homozygote for pachyonychia congenita Type I mutation'
+p2138
+sS'rs16260(A;A)'
+p2139
+S'2.6x increased risk of prostate cancer'
+p2140
+sS'rs4994(C;C)'
+p2141
+S'2x higher risk in certain women for cardiac events'
+p2142
+sS'rs2069526(G;G)'
+p2143
+S'CYP1A2*1K_-739T>G homozygote'
+p2144
+sS'rs1136410(C;T)'
+p2145
+S'0.80x reduced risk for glioblastoma'
+p2146
+sS'rs1143634(T;T)'
+p2147
+S'complex; see details'
+p2148
+sS'rs2710102(T;T)'
+p2149
+S'None'
+p2150
+sS'rs4242382(A;A)'
+p2151
+S'1.7x increased risk for prostate cancer'
+p2152
+sS'rs4986910(C;C)'
+p2153
+S'CYP3A4*3 homozygote'
+p2154
+sS'rs57424749(C;C)'
+p2155
+S'homozygote for pachyonychia congenita Type I mutation'
+p2156
+sS'rs2814778(A;A)'
+p2157
+S'Duffy-positive'
+p2158
+sS'rs17884712(A;A)'
+p2159
+S'CYP2C19*9 homozygote'
+p2160
+sS'rs6604026(T;T)'
+p2161
+S'common'
+p2162
+sS'rs4399848(A;A)'
+p2163
+S'rare'
+p2164
+sS'rs6679677(C;C)'
+p2165
+S'normal'
+p2166
+sS'rs6413420(T;T)'
+p2167
+S'CYP2E1*7_-71G>T homozygote'
+p2168
+sS'rs6910071(A;G)'
+p2169
+S'possibly at 4x higher risk of [[rheumatoid arthritis]]'
+p2170
+sS'rs2069514(A;A)'
+p2171
+S'CYP1A2*1C homozygote'
+p2172
+sS'rs10246256(C;T)'
+p2173
+S'None'
+p2174
+sS'rs334558(G;G)'
+p2175
+S'common'
+p2176
+sS'rs3825942(T;T)'
+p2177
+S'average'
+p2178
+sS'rs2881766(G;T)'
+p2179
+S'increased risk for pregnancy-induced hypertension'
+p2180
+sS'rs3218005(A;G)'
+p2181
+g865
+sS'rs12304921(A;A)'
+p2182
+S'normal'
+p2183
+sS'rs10134944(C;T)'
+p2184
+S'1.4x risk'
+p2185
+sS'rs440446(C;C)'
+p2186
+S'normal'
+p2187
+sS'rs55897648(A;G)'
+p2188
+S'carrier of one CYP2E1*3 allele'
+p2189
+sS'rs1126742(T;T)'
+p2190
+S'higher hypertension risk'
+p2191
+sS'rs358806(A;C)'
+p2192
+S'0.9x risk of type-2 diabetes'
+p2193
+sS'rs7771980(C;T)'
+p2194
+S'higher bone mineral density in postmenopausal Spanish women'
+p2195
+sS'rs182549(T;T)'
+p2196
+S'None'
+p2197
+sS'rs10735781(C;G)'
+p2198
+S'1.11x risk'
+p2199
+sS'rs17376328(A;G)'
+p2200
+S'lower blood pressure'
+p2201
+sS'rs4363657(C;T)'
+p2202
+S'4.5x increased myopathy risk for statin users'
+p2203
+sS'rs2250889(G;G)'
+p2204
+S'normal risk'
+p2205
+sS'rs4792311(G;G)'
+p2206
+S'normal'
+p2207
+sS'rs4864548(A;A)'
+p2208
+S'normal'
+p2209
+sS'rs4961(T;T)'
+p2210
+S'1.8x increased risk for high blood pressure'
+p2211
+sS'rs3020314(C;C)'
+p2212
+S'0.42x reduced lymphoma risk'
+p2213
+sS'rs242941(G;G)'
+p2214
+S'better response to inhaled corticosteroid in patients with COPD'
+p2215
+sS'rs334558(A;G)'
+p2216
+S'later onset of BP'
+p2217
+sS'rs17822931(C;T)'
+p2218
+S'wet earwax'
+p2219
+sS'rs4986907(A;A)'
+p2220
+S'CYP3A4*15A homozygote'
+p2221
+sS'rs9951307(A;G)'
+p2222
+S'0.10 decreased risk for brain edema after a stroke'
+p2223
+sS'rs28383479(A;A)'
+p2224
+S'CYP3A5*9 homozygote; nonexpressor for CYP3A5'
+p2225
+sS'rs6679677(A;C)'
+p2226
+S'1.8x risk for T1D; 2x risk for RA'
+p2227
+sS'rs12469063(A;G)'
+p2228
+S'1.7x risk for restless legs'
+p2229
+sS'rs1800407(G;G)'
+p2230
+S'blue/gray eyes more possible'
+p2231
+sS'rs6869366(G;T)'
+p2232
+S'2x increased risk for bladder cancer'
+p2233
+sS'rs7577363(A;G)'
+p2234
+S'1.37x risk'
+p2235
+sS'rs9332130(G;G)'
+p2236
+S'CYP2C9*10 homozygote'
+p2237
+sS'rs3803662(C;T)'
+p2238
+g865
+sS'rs59328451(A;T)'
+p2239
+S'heterozygote for pachyonychia congenita Type I mutation'
+p2240
+sS'rs34210653(C;C)'
+p2241
+S'normal risk'
+p2242
+sS'rs58293603(G;G)'
+p2243
+S'homozygote for pachyonychia congenita Type I mutation'
+p2244
+sS'rs2981745(C;C)'
+p2245
+S'normal'
+p2246
+sS'rs28897756(G;G)'
+p2247
+S'normal'
+p2248
+sS'rs12721634(C;C)'
+p2249
+S'CYP3A4*14 homozygote'
+p2250
+sS'rs3783799(G;G)'
+p2251
+S'normal risk'
+p2252
+sS'rs2076756(A;A)'
+p2253
+S'normal'
+p2254
+sS'rs767603(C;T)'
+p2255
+S'normal'
+p2256
+sS'rs55640102(C;C)'
+p2257
+S'CYP2C19*12 homozygote'
+p2258
+sS'rs3804505(T;T)'
+p2259
+S'rare, related to myoclonic epilepsy'
+p2260
+sS'rs7577363(G;G)'
+p2261
+S'common'
+p2262
+sS'rs2279420(T;T)'
+p2263
+S'normal'
+p2264
+sS'rs4961(G;T)'
+p2265
+S'1.8x increased risk for high blood pressure'
+p2266
+sS'rs16901979(C;C)'
+p2267
+S'normal risk'
+p2268
+sS'rs35600288(-;-)'
+p2269
+S'effects of higher bilirubin; irinotecan toxicity'
+p2270
+sS'rs34210653(T;T)'
+p2271
+S'normal risk'
+p2272
+sS'rs2653349(G;G)'
+p2273
+S'2-6x increased risk for cluster headaches'
+p2274
+sS'rs4958847(A;A)'
+p2275
+S"2.6x increased risk for Crohn's disease"
+p2276
+sS'rs1501299(A;C)'
+p2277
+S'normal'
+p2278
+sS'rs361525(G;G)'
+p2279
+S'complex; generally normal risk'
+p2280
+sS'rs6539137(A;T)'
+p2281
+g148
+sS'rs6013029(G;G)'
+p2282
+S'normal'
+p2283
+sS'rs13266634(T;T)'
+p2284
+S'normal'
+p2285
+sS'rs3218536(A;A)'
+p2286
+S'lower risk for breast, ovarian cancer'
+p2287
+sS'rs1784931(A;A)'
+p2288
+S'normal'
+p2289
+sS'rs910316(T;T)'
+p2290
+S'normal'
+p2291
+sS'rs11809207(A;A)'
+p2292
+S'0.92cm taller on average'
+p2293
+sS'rs1000113(T;T)'
+p2294
+S"1.9x risk of Crohn's disease"
+p2295
+sS'rs1128503(T;T)'
+p2296
+S'likely to require more methadone during heroin withdrawal'
+p2297
+sS'rs3135391(T;T)'
+p2298
+S'3 to 6 fold higher risk for multiple sclerosis'
+p2299
+sS'rs683395(C;T)'
+p2300
+S'1.5x risk'
+p2301
+sS'rs1800407(A;G)'
+p2302
+S'green/hazel/brown/black eyes more likely'
+p2303
+sS'rs5067(A;G)'
+p2304
+S'0.5x reduced risk for asthma'
+p2305
+sS'rs464049(C;C)'
+p2306
+S'decreased risk of schizophrenia in limited study'
+p2307
+sS'rs3025039(C;C)'
+p2308
+S'normal'
+p2309
+sS'rs1858830(C;C)'
+p2310
+S'2x risk of autism'
+p2311
+sS'rs2986017(C;C)'
+p2312
+S'normal'
+p2313
+sS'rs710521(A;A)'
+p2314
+S'1.4x increased bladder cancer risk'
+p2315
+sS'rs28928895(T;T)'
+p2316
+S'normal'
+p2317
+sS'rs7574865(G;T)'
+p2318
+S'1.3x risk for RA; 1.5x for SLE'
+p2319
+sS'rs6503691(C;C)'
+p2320
+S'common'
+p2321
+sS'i4001479(CC;CC)'
+p2322
+S'Homozygous for CYP2D6*20 variant.'
+p2323
+sS'rs4253208(C;G)'
+p2324
+S'carrier'
+p2325
+sS'rs1265181(C;G)'
+p2326
+S'increased risk for psoriasis'
+p2327
+sS'rs3131296(A;G)'
+p2328
+S'1.2x increased risk for schizophrenia'
+p2329
+sS'rs3918242(C;T)'
+p2330
+S'1.14x increased risk for MI; also check haplotype'
+p2331
+sS'rs1801516(A;A)'
+p2332
+S'2.76x odds of pancreatic cancer'
+p2333
+sS'rs9960767(A;A)'
+p2334
+S'normal'
+p2335
+sS'rs7639618(T;T)'
+p2336
+S'1.45x increased osteoarthritis risk'
+p2337
+sS'rs10835638(G;G)'
+p2338
+S'common'
+p2339
+sS'rs8089(T;T)'
+p2340
+S'normal risk'
+p2341
+sS'rs16991615(A;A)'
+p2342
+S'age at menopause increased by avg of 22 months '
+p2343
+sS'rs3025039(T;T)'
+p2344
+S'2.6x increased risk for ARMD'
+p2345
+sS'rs4430796(G;G)'
+p2346
+S'normal risk'
+p2347
+sS'rs4938369(C;C)'
+p2348
+S"1.6x increased risk for Alzheimer's"
+p2349
+sS'rs1864163(A;G)'
+p2350
+S'associated with higher HDL cholesterol'
+p2351
+sS'rs3842787(C;T)'
+p2352
+S'Higher risk of bleeding during coronary angiography'
+p2353
+sS'rs326(A;A)'
+p2354
+S'lower HDL cholesterol'
+p2355
+sS'rs743777(A;G)'
+p2356
+S'1.1x risk'
+p2357
+sS'rs12913832(A;A)'
+p2358
+S'brown eye color, 80% of the time'
+p2359
+sS'rs5742904(G;G)'
+p2360
+S'normal'
+p2361
+sS'rs9332130(A;A)'
+p2362
+S'normal'
+p2363
+sS'rs7014851(C;C)'
+p2364
+S'None'
+p2365
+sS'rs10811661(C;C)'
+p2366
+S'normal'
+p2367
+sS'rs11200014(G;G)'
+p2368
+S'common'
+p2369
+sS'rs17571(T;T)'
+p2370
+S"rare and doesn't seem helpful"
+p2371
+sS'rs13078807(A;A)'
+p2372
+S'common, despite what hapmap says'
+p2373
+sS'rs2070673(A;A)'
+p2374
+S'CYP2E1*7_-333T>A  homozygote'
+p2375
+sS'rs1953126(C;C)'
+p2376
+S'normal'
+p2377
+sS'rs3208361(G;G)'
+p2378
+S'CYP3A4*_15635A>G(I193V)  homozygote'
+p2379
+sS'rs7753394(C;C)'
+p2380
+S'1.5x risk'
+p2381
+sS'rs2143340(C;T)'
+p2382
+S'increased risk of dyslexia and poor reading performance'
+p2383
+sS'rs1043994(G;G)'
+p2384
+S'common'
+p2385
+sS'rs6259(A;G)'
+p2386
+S'normal'
+p2387
+sS'rs10889677(A;C)'
+p2388
+S'1.5x risk for certain autoimmune diseases; 2x risk for Graves disease'
+p2389
+sS'rs916977(A;A)'
+p2390
+S'usually brown eye color'
+p2391
+sS'rs521102(C;T)'
+p2392
+S'normal'
+p2393
+sS'rs28934899(G;G)'
+p2394
+S'normal'
+p2395
+sS'rs6259(G;G)'
+p2396
+S'best inverse correlation between tea-drinking, soy-consuming premenopausal women and risk of endometrial cancer'
+p2397
+sS'rs2240340(A;G)'
+p2398
+S'increased risk for RA'
+p2399
+sS'rs6314(T;T)'
+p2400
+S'average'
+p2401
+sS'rs16891982(C;C)'
+p2402
+S'generally non-European, but if European, 7x more likely to have black hair'
+p2403
+sS'rs16901979(A;A)'
+p2404
+S'1.5x increased risk for prostate cancer'
+p2405
+sS'rs72552267(A;G)'
+p2406
+S'carrier of one CYP2C19*6 allele'
+p2407
+sS'rs1047781(A;A)'
+p2408
+S'ABH blood group "Secretor" status if Japanese'
+p2409
+sS'rs2228000(C;C)'
+p2410
+S'normal'
+p2411
+sS'rs16947078(G;G)'
+p2412
+S'8x risk for allergic asthma'
+p2413
+sS'rs6897932(C;C)'
+p2414
+S'1.5x increased risk for multiple sclerosis'
+p2415
+sS'rs17879685(C;T)'
+p2416
+S'carrier of one CYP2C19*13 allele'
+p2417
+sS'rs5352(A;G)'
+p2418
+S'probably [[Hirschsprung disease]] carrier'
+p2419
+sS'rs11718863(A;A)'
+p2420
+S'normal'
+p2421
+sS'rs1041988(C;T)'
+p2422
+S'carrier of one CYP3A4*_23139T>C(I431T) allele'
+p2423
+sS'rs12721627(C;C)'
+p2424
+S'normal'
+p2425
+sS'rs1043994(A;G)'
+p2426
+g865
+sS'rs4646976(G;G)'
+p2427
+S'CYP2E1_marker8 homozygote'
+p2428
+sS'rs1805762(C;G)'
+p2429
+S'1.23x risk for hypertension'
+p2430
+sS'rs7019241(C;T)'
+p2431
+S'reduced risk for AD?'
+p2432
+sS'rs17882687(A;A)'
+p2433
+S'normal'
+p2434
+sS'rs10801935(A;A)'
+p2435
+S'normal'
+p2436
+sS'rs2231142(C;C)'
+p2437
+S'normal'
+p2438
+sS'rs1447295(A;A)'
+p2439
+S'1.7x increased risk of prostate cancer'
+p2440
+sS'rs1057911(T;T)'
+p2441
+S'normal'
+p2442
+sS'rs6232(A;G)'
+p2443
+S'obesity and insulin'
+p2444
+sS'rs2228001(A;C)'
+p2445
+S'normal'
+p2446
+sS'rs721048(A;G)'
+p2447
+S'None'
+p2448
+sS'rs6457617(T;T)'
+p2449
+S'5.2x risk of rheumatoid arthritis'
+p2450
+sS'rs9300039(C;C)'
+p2451
+S'>1.5x risk for T2D'
+p2452
+sS'rs28399444(-;-)'
+p2453
+S'Reduced CYP2A6 metabolism; impaired nicotine metabolism?'
+p2454
+sS'rs6922269(A;A)'
+p2455
+S'1.6x risk'
+p2456
+sS'rs10889677(C;C)'
+p2457
+S'1x risk for certain autoimmune diseases; 2.3x risk for Graves disease'
+p2458
+sS'rs7900194(A;G)'
+p2459
+S'carrier of one CYP2C9*8 allele'
+p2460
+sS'rs1129038(G;G)'
+p2461
+S'blue eye color'
+p2462
+sS'rs35600288(-;AT)'
+p2463
+S'some effects of higher bilirubin'
+p2464
+sS'rs2710117(T;T)'
+p2465
+S'None'
+p2466
+sS'rs2069526(G;T)'
+p2467
+S'carrier of one CYP1A2*1K_-739T>G allele'
+p2468
+sS'rs2071746(T;T)'
+p2469
+S'may be part of gs124'
+p2470
+sS'rs2986017(T;T)'
+p2471
+S'no clear risk'
+p2472
+sS'rs16891982(C;G)'
+p2473
+S'if European, 7x more likely to have black hair'
+p2474
+sS'rs2240203(A;G)'
+p2475
+S'usually brown eye color'
+p2476
+sS'rs211239(C;T)'
+p2477
+S'1.7x risk for priapism in SCA patients'
+p2478
+sS'rs3782179(C;T)'
+p2479
+S'3x increased testicular cancer risk for men'
+p2480
+sS'rs28897756(A;G)'
+p2481
+S'possible link to breast cancer in some families'
+p2482
+sS'rs72547516(A;T)'
+p2483
+S'carrier of one CYP1A2*4 allele'
+p2484
+sS'rs10735781(G;G)'
+p2485
+S'common'
+p2486
+sS'rs7895676(C;T)'
+p2487
+S'1.20x increased breast cancer risk'
+p2488
+sS'rs17173608(G;G)'
+p2489
+S'lower visceral adipose tissue'
+p2490
+sS'rs1355095(A;A)'
+p2491
+S'normal'
+p2492
+sS'rs3184504(T;T)'
+p2493
+S'increased risk for celiac disease'
+p2494
+sS'rs10192566(C;C)'
+p2495
+S'if diabetic, poorer response to rosiglitazone'
+p2496
+sS'rs10181656(G;G)'
+p2497
+S'1.7x increased SLE risk'
+p2498
+sS'rs1800401(C;T)'
+p2499
+S'brown/black eyes more likely'
+p2500
+sS'rs9332239(C;T)'
+p2501
+S'carrier of one CYP2C9*12 allele'
+p2502
+sS'rs1327328(C;C)'
+p2503
+S'normal'
+p2504
+sS'rs2295190(T;T)'
+p2505
+S'Slightly increased risk for ovarian cancer in women'
+p2506
+sS'rs3218536(G;G)'
+p2507
+S'normal risk'
+p2508
+sS'rs1470579(C;C)'
+p2509
+S'1.2x increased risk for type-2 diabetes'
+p2510
+sS'rs2227692(T;T)'
+p2511
+S'1.6x higher risk for diffuse gastric cancer'
+p2512
+sS'rs1800462(C;G)'
+p2513
+S'detoxifying ability may be diminished'
+p2514
+sS'rs1799807(A;A)'
+p2515
+S'Typical BuChE'
+p2516
+sS'rs2294008(T;T)'
+p2517
+S'increased risk of gastric and bladder cancer'
+p2518
+sS'rs603965(G;G)'
+p2519
+S'increased breast cancer risk'
+p2520
+sS'rs72558185(-;-)'
+p2521
+S'normal'
+p2522
+sS'rs6920220(A;A)'
+p2523
+S'1.7x risk'
+p2524
+sS'rs2910164(G;G)'
+p2525
+S'normal'
+p2526
+sS'rs4778241(C;C)'
+p2527
+S'blue eye color if part of blue eye color haplotype'
+p2528
+sS'rs11209026(G;G)'
+p2529
+S'common'
+p2530
+sS'rs9357271(C;T)'
+p2531
+S'0.63x risk for restless legs'
+p2532
+sS'rs6458307(T;T)'
+p2533
+S'normal'
+p2534
+sS'rs11200014(A;A)'
+p2535
+S'1.64x risk for breast cancer'
+p2536
+sS'rs9332131(-;-)'
+p2537
+S'CYP2C9*6 homozygote'
+p2538
+sS'rs59328451(T;T)'
+p2539
+S'homozygote for pachyonychia congenita Type I mutation'
+p2540
+sS'rs11569562(C;T)'
+p2541
+g865
+sS'rs1805007(T;T)'
+p2542
+S'increased response to anesthetics; 13-20x higher likelihood of red hair'
+p2543
+sS'rs242941(G;T)'
+p2544
+S'normal'
+p2545
+sS'rs2070600(A;G)'
+p2546
+S'1.5x increased risk for gastric cancer'
+p2547
+sS'rs57052654(G;G)'
+p2548
+S'homozygote for pachyonychia congenita Type I mutation'
+p2549
+sS'rs3020314(T;T)'
+p2550
+S'normal'
+p2551
+sS'rs10892759(A;A)'
+p2552
+S'0.83x risk for Alzheimers'
+p2553
+sS'rs5020278(A;A)'
+p2554
+S'"sweet" smeller'
+p2555
+sS'rs4986909(C;T)'
+p2556
+S'carrier of one CYP3A4*13 allele'
+p2557
+sS'rs3194051(A;G)'
+p2558
+S'1.12x risk'
+p2559
+sS'rs719725(A;A)'
+p2560
+S'1.46x increased risk for colorectal cancer'
+p2561
+sS'rs60554162(G;G)'
+p2562
+S'normal'
+p2563
+sS'rs7536563(G;G)'
+p2564
+S'common'
+p2565
+sS'rs705379(G;G)'
+p2566
+S'highest arylesterase activity'
+p2567
+sS'rs699947(A;C)'
+p2568
+S'1.36x increased risk for thyroid cancer in men'
+p2569
+sS'rs767603(C;C)'
+p2570
+S'0.63x reduced risk for intracranial aneurysm'
+p2571
+sS'rs17244841(A;T)'
+p2572
+S'not as responsive to statin treatment'
+p2573
+sS'rs28928895(A;T)'
+p2574
+S'heterozygote for pachyonychia congenita Type I mutation'
+p2575
+sS'rs8192284(C;C)'
+p2576
+S'normal?'
+p2577
+sS'rs58293603(G;T)'
+p2578
+S'heterozygote for pachyonychia congenita Type I mutation'
+p2579
+sS'rs2981745(C;T)'
+p2580
+S'1.6x increased risk for breast cancer in females over 60'
+p2581
+sS'rs10830963(C;C)'
+p2582
+S'normal'
+p2583
+sS'rs1126809(G;G)'
+p2584
+S'normal'
+p2585
+sS'rs6601764(C;T)'
+p2586
+S'1.1x risk'
+p2587
+sS'rs2283123(T;T)'
+p2588
+S'decreased risk of schizophrenia in limited study'
+p2589
+sS'rs6983267(T;T)'
+p2590
+S'average risk'
+p2591
+sS'rs144848(T;T)'
+p2592
+S'normal'
+p2593
+sS'rs57052654(T;T)'
+p2594
+S'normal'
+p2595
+sS'rs7530511(T;T)'
+p2596
+S'9x increased risk for Graves disease'
+p2597
+sS'rs2228063(A;A)'
+p2598
+S'common'
+p2599
+sS'rs11218350(A;A)'
+p2600
+S'normal'
+p2601
+sS'rs9589207(A;G)'
+p2602
+S'None'
+p2603
+sS'rs11614913(T;T)'
+p2604
+S'normal'
+p2605
+sS'rs28897696(A;A)'
+p2606
+S'carrier of two copies of BRCA1 variant; likely to be at higher risk for breast/ovarian cancer'
+p2607
+sS'rs2834167(A;G)'
+p2608
+S'normal'
+p2609
+sS'rs25532(C;C)'
+p2610
+S'may be part of a haplotype associated with OCD'
+p2611
+sS'rs7412(C;C)'
+p2612
+S'more likely to gain weight if taking olanzapine'
+p2613
+sS'rs7582694(G;G)'
+p2614
+S'normal'
+p2615
+sS'rs12979860(T;T)'
+p2616
+S'~20-25% of such hepatitis C patients respond to treatment'
+p2617
+sS'rs12597511(T;T)'
+p2618
+S'slightly higher blood pressure'
+p2619
+sS'rs6539137(A;A)'
+p2620
+S'increased risk for and earlier onset in males of familial ALS'
+p2621
+sS'rs3918290(A;G)'
+p2622
+S'some 5-fluorouracil toxicity '
+p2623
+sS'rs7574865(T;T)'
+p2624
+S'2x risk for RA; 1.6x for SLE; 1.9x increased risk for type-1 diabetes'
+p2625
+sS'rs7753394(C;T)'
+p2626
+S'1.2x risk'
+p2627
+sS'rs1057911(A;T)'
+p2628
+S'carrier of one CYP2C9_50298A>T allele'
+p2629
+sS'rs2298566(A;C)'
+p2630
+S'increased risk of coronary heart disease; better response to statins'
+p2631
+sS'rs419788(A;G)'
+p2632
+S'2.0x risk for lupus'
+p2633
+sS'rs6887695(C;G)'
+p2634
+g148
+sS'rs573225(C;T)'
+p2635
+S'higher insulinogenic index in obese children'
+p2636
+sS'rs2670660(A;G)'
+p2637
+S'2.96x'
+p2638
+sS'rs1792113(A;A)'
+p2639
+S'normal'
+p2640
+sS'rs28694718(A;A)'
+p2641
+S'>2x risk'
+p2642
+sS'rs3827760(C;C)'
+p2643
+S'shovel-Shaped Incisors'
+p2644
+sS'rs4148323(G;G)'
+p2645
+S'normal'
+p2646
+sS'rs3918242(C;C)'
+p2647
+S'normal risk'
+p2648
+sS'rs569108(C;C)'
+p2649
+g865
+sS'rs6749447(G;T)'
+p2650
+S'slightly higher blood pressure if Caucasian'
+p2651
+sS'rs1800584(A;G)'
+p2652
+S'TPMT*4A heterozygote; possible issues detoxifying certain drugs'
+p2653
+sS'rs9296249(T;T)'
+p2654
+S'common'
+p2655
+sS'rs5275(C;C)'
+p2656
+S'0.68x decreased risk for bladder cancer'
+p2657
+sS'rs34815109(-;TA)'
+p2658
+S'some effects of higher bilirubin'
+p2659
+sS'rs4570625(G;T)'
+p2660
+S'normal'
+p2661
+sS'rs1953126(T;T)'
+p2662
+S'1.3x increased risk for rheumatoid arthritis'
+p2663
+sS'rs17158558(C;C)'
+p2664
+S'normal'
+p2665
+sS'rs8192678(G;G)'
+p2666
+S'normal'
+p2667
+sS'rs6675281(C;T)'
+p2668
+S'None'
+p2669
+sS'rs7646054(A;A)'
+p2670
+S'normal'
+p2671
+sS'rs1229984(A;G)'
+p2672
+S'0.56x decreased risk of oral/throat cancers'
+p2673
+sS'rs27072(C;T)'
+p2674
+S'normal'
+p2675
+sS'rs72558190(C;C)'
+p2676
+S'normal'
+p2677
+sS'rs4646976(A;G)'
+p2678
+S'carrier of one CYP2E1_marker8 allele'
+p2679
+sS'rs867186(A;A)'
+p2680
+S'normal risk for VTE'
+p2681
+sS'rs2230500(A;A)'
+p2682
+S'1.4x increased risk for stroke'
+p2683
+sS'rs2229616(G;G)'
+p2684
+S'normal'
+p2685
+sS'rs3212227(A;C)'
+p2686
+S'None'
+p2687
+sS'rs17482753(T;T)'
+p2688
+S'elevated triglycerides'
+p2689
+sS'rs28942079(A;A)'
+p2690
+S'risk of hypercholesterolemia'
+p2691
+sS'rs4938369(C;T)'
+p2692
+g865
+sS'rs55901263(C;C)'
+p2693
+S'CYP3A4*5 homozygote'
+p2694
+sS'rs8069176(G;G)'
+p2695
+S'if 4 years old or younger, ~3x increased asthma risk if exposed to smoke'
+p2696
+sS'rs7997012(A;G)'
+p2697
+S'normal risk'
+p2698
+sS'rs2639703(C;C)'
+p2699
+S'1.6x risk'
+p2700
+sS'rs5787121(-;G)'
+p2701
+S'carrier of one CYP2C19 G439- allele'
+p2702
+sS'rs8176058(C;T)'
+p2703
+S'None'
+p2704
+sS'rs2300478(G;G)'
+p2705
+S'>1.7x risk for restless legs'
+p2706
+sS'rs11465770(T;T)'
+p2707
+S"possibly lower risk of Crohn's Disease (OR=0.30)"
+p2708
+sS'rs1799853(T;T)'
+p2709
+S'CYP2C9*2 homozygote; average 40% reduction in warfarin metabolism'
+p2710
+sS'rs2231137(G;G)'
+p2711
+S'2-3x increased risk for ischemic stroke'
+p2712
+sS'rs2069912(T;T)'
+p2713
+S'normal'
+p2714
+sS'rs5888(C;T)'
+p2715
+S'3x higher risk for age-related macular degeneration'
+p2716
+sS'rs59349773(A;A)'
+p2717
+S'normal'
+p2718
+sS'rs11136000(T;T)'
+p2719
+S"0.84x decreased risk for Alzheimer's disease"
+p2720
+sS'rs1800587(C;C)'
+p2721
+S'normal'
+p2722
+sS'rs34778348(G;G)'
+p2723
+S'normal'
+p2724
+sS'rs6314(C;T)'
+p2725
+S'higher risk for RA; better response to paroxetine as treatment for depression'
+p2726
+sS'rs7454108(C;T)'
+p2727
+S'Single HLA-DQ8 haplotype'
+p2728
+sS'rs13266634(C;C)'
+p2729
+S'increased risk for type-2 diabetes'
+p2730
+sS'rs5030867(A;A)'
+p2731
+S'normal'
+p2732
+sS'rs2305480(C;T)'
+p2733
+S'normal'
+p2734
+sS'rs9306160(C;C)'
+p2735
+S'normal'
+p2736
+sS'rs28931569(C;C)'
+p2737
+S'high risk of emphysema'
+p2738
+sS'rs2256871(C;T)'
+p2739
+S'carrier of one CYP2C9*9 allele'
+p2740
+sS'rs2303067(A;G)'
+p2741
+g865
+sS'rs324420(A;A)'
+p2742
+S'significantly increased risk for substance use disorders'
+p2743
+sS'rs3731239(T;T)'
+p2744
+S'normal risk'
+p2745
+sS'rs10835638(G;T)'
+p2746
+S'intermediate serum FSH level among males'
+p2747
+sS'rs4968451(C;C)'
+p2748
+S'normal'
+p2749
+sS'rs8028689(T;T)'
+p2750
+S'blue eye color if part of blue eye color haplotype'
+p2751
+sS'rs25489(G;G)'
+p2752
+S'normal risk'
+p2753
+sS'rs1129038(A;G)'
+p2754
+S'brown eye color'
+p2755
+sS'rs2653349(A;A)'
+p2756
+S'normal'
+p2757
+sS'rs1571801(C;C)'
+p2758
+S'average'
+p2759
+sS'rs5030655(-;T)'
+p2760
+S'possible CYP2D6 poor metabolizer phenotype'
+p2761
+sS'rs4986893(G;G)'
+p2762
+S'normal'
+p2763
+sS'rs4276227(C;C)'
+p2764
+S'1.5x risk'
+p2765
+sS'rs1126742(C;C)'
+p2766
+S'normal'
+p2767
+sS'rs3807153(C;T)'
+p2768
+S'carrier'
+p2769
+sS'rs1047552(G;G)'
+p2770
+S'1.6x higher atherosclerosis risk only in males'
+p2771
+sS'rs34778348(A;G)'
+p2772
+S"2.1x increased risk for Parkinson's disease"
+p2773
+sS'rs1699103(A;G)'
+p2774
+S'normal'
+p2775
+sS'rs6983267(G;G)'
+p2776
+S'1.58x increased risk for prostate cancer; also other cancers'
+p2777
+sS'rs28929474(A;A)'
+p2778
+S'Alpha-1 Antitrypsin Deficiency'
+p2779
+sS'rs34139813(C;G)'
+p2780
+S'Heterozygous Hb Crete'
+p2781
+sS'rs17001266(C;C)'
+p2782
+S'normal'
+p2783
+sS'rs6918698(C;G)'
+p2784
+S'~normal risk'
+p2785
+sS'rs5882(G;G)'
+p2786
+S"longer lifespan, 0.28x lower risk of dementia, 0.31x lower risk of Alzheimer's."
+p2787
+sS'rs3890745(A;A)'
+p2788
+S'1.12x risk of Rheumatoid arthritis'
+p2789
+sS'rs4986910(T;T)'
+p2790
+S'normal'
+p2791
+sS'rs1801278(A;A)'
+p2792
+S'reduced colorectal risk when combined with INSR SNP'
+p2793
+sS'rs1801028(C;C)'
+p2794
+S'normal risk'
+p2795
+sS'rs10246256(C;C)'
+p2796
+S'None'
+p2797
+sS'rs2251746(T;T)'
+p2798
+S'normal but highest IgE levels'
+p2799
+sS'rs5917(A;A)'
+p2800
+S'None'
+p2801
+sS'rs41279854(A;G)'
+p2802
+S'carrier of one CYP3A5*10 allele'
+p2803
+sS'rs13357391(C;C)'
+p2804
+S'slightly earlier age at menarche'
+p2805
+sS'rs2814778(A;G)'
+p2806
+S'Duffy-positive'
+p2807
+sS'rs383830(A;T)'
+p2808
+S'1.6x risk'
+p2809
+sS'rs1126497(C;T)'
+p2810
+S'1.4x increased risk for breast cancer'
+p2811
+sS'rs3758391(C;T)'
+p2812
+S'less mental decline with age'
+p2813
+sS'rs7900194(G;G)'
+p2814
+S'normal'
+p2815
+sS'rs28371706(T;T)'
+p2816
+S'Homozygous for CYP2D6 variants, possibly decreased or non-functioning.'
+p2817
+sS'rs4986909(C;C)'
+p2818
+S'normal'
+p2819
+sS'rs1148259(G;G)'
+p2820
+S'lowest sphingomyelin ratios'
+p2821
+sS'i4001467(G;G)'
+p2822
+S'normal'
+p2823
+sS'rs2069514(A;G)'
+p2824
+S'carrier of one CYP1A2*1C allele'
+p2825
+sS'rs1954787(C;C)'
+p2826
+S'~10% more likely to respond to citalopram'
+p2827
+sS'rs10865331(A;G)'
+p2828
+S'1.2x higher risk for ankylosing spondylitis'
+p2829
+sS'rs910873(A;A)'
+p2830
+S'3x increased risk of melanoma'
+p2831
+sS'rs915909(C;T)'
+p2832
+S'carrier of one CYP2E1_6498C>T(I321I) allele'
+p2833
+sS'rs334558(A;A)'
+p2834
+S'later onset of BP'
+p2835
+sS'rs1057868(C;C)'
+p2836
+S'normal'
+p2837
+sS'rs10759932(C;C)'
+p2838
+S'increased risk for chorionic plate inflammation'
+p2839
+sS'rs358806(A;A)'
+p2840
+S'normal risk of type-2 diabetes'
+p2841
+sS'rs2031920(T;T)'
+p2842
+S'CYP2E1_-1055C>T homozygote'
+p2843
+sS'rs1048990(C;C)'
+p2844
+S'> 1.48x risk'
+p2845
+sS'rs7495174(A;A)'
+p2846
+S'blue/gray eyes more likely'
+p2847
+sS'rs7754840(C;G)'
+p2848
+S'1.3x increased risk for type-2 diabetes'
+p2849
+sS'rs1801270(C;C)'
+p2850
+S'normal risk'
+p2851
+sS'rs3804100(T;T)'
+p2852
+S'normal'
+p2853
+sS'rs2077119(G;G)'
+p2854
+S'0.91x decreased risk for T2D'
+p2855
+sS'rs590787(D;D)'
+p2856
+S'Rh- (Rhesus negative)'
+p2857
+sS'rs1799782(C;C)'
+p2858
+S'lower risk for skin cancer'
+p2859
+sS'rs57052654(G;T)'
+p2860
+S'heterozygote for pachyonychia congenita Type I mutation'
+p2861
+sS'rs17602729(G;G)'
+p2862
+S'common'
+p2863
+sS'rs1573496(C;C)'
+p2864
+S'normal'
+p2865
+sS'rs26722(T;T)'
+p2866
+S'darker eye, hair, skin color'
+p2867
+sS'rs6679677(A;A)'
+p2868
+S'5.2x risk for T1D; 3.3x for RA'
+p2869
+sS'rs11569562(T;T)'
+p2870
+S'normal'
+p2871
+sS'rs1889018(C;C)'
+p2872
+S'normal'
+p2873
+sS'rs10868366(G;G)'
+p2874
+S'average'
+p2875
+sS'rs11881940(A;T)'
+p2876
+S'1.9x risk of MI'
+p2877
+sS'rs11110912(C;G)'
+p2878
+S'1.3x risk'
+p2879
+sS'rs2953145(C;G)'
+p2880
+S'1.8x risk'
+p2881
+sS'rs4986913(T;T)'
+p2882
+S'CYP3A4*19 homozygote'
+p2883
+sS'i4001467(A;G)'
+p2884
+S'Carrier of one CYP2D6*4G non-functioning variant'
+p2885
+sS'rs28383479(G;G)'
+p2886
+S'normal'
+p2887
+sS'rs7543472(T;T)'
+p2888
+S'~2x increased risk for cataracts'
+p2889
+sS'rs2076756(A;G)'
+p2890
+g865
+sS'rs1922892(C;T)'
+p2891
+S'None'
+p2892
+sS'rs67784355(A;G)'
+p2893
+S'carrier of one CYP3A4*11 allele'
+p2894
+sS'rs55817950(G;G)'
+p2895
+S'normal'
+p2896
+sS'rs34516635(G;G)'
+p2897
+S'normal'
+p2898
+sS'rs5751876(C;T)'
+p2899
+S'None'
+p2900
+sS'rs10868366(T;T)'
+p2901
+S'reduced risk for AD?'
+p2902
+sS'rs7530511(C;T)'
+p2903
+S'normal'
+p2904
+sS'rs4958847(A;G)'
+p2905
+S"1.3x increased risk for Crohn's disease"
+p2906
+sS'rs3764261(G;T)'
+p2907
+S'associated with higher HDL cholesterol'
+p2908
+sS'rs1018381(T;T)'
+p2909
+S'impaired cognitive ability'
+p2910
+sS'rs688(T;T)'
+p2911
+S"1.5x higher risk for males of Alzheimer's; higher total and LDL cholesterol in females"
+p2912
+sS'rs1501299(A;A)'
+p2913
+S'normal'
+p2914
+sS'rs1061170(C;T)'
+p2915
+S'2.5x risk for AMD; higher mortality among nonagenarians'
+p2916
+sS'rs6413438(C;T)'
+p2917
+S'carrier of one CYP2C19*10 allele'
+p2918
+sS'rs6539137(T;T)'
+p2919
+S'normal'
+p2920
+sS'rs1057909(G;G)'
+p2921
+S'CYP2C9_42612A>G homozygote'
+p2922
+sS'rs2981579(C;C)'
+p2923
+S'common'
+p2924
+sS'rs5800(A;A)'
+p2925
+S'AF risk in HCM patients (only)'
+p2926
+sS'rs2981579(C;T)'
+p2927
+S'1.20x risk for breast cancer'
+p2928
+sS'rs1052133(G;G)'
+p2929
+S'2x increased bladder cancer risk; 4.5x increased risk for gallbladder cancer'
+p2930
+sS'rs7903146(C;T)'
+p2931
+S'1.4x increased risk for diabetes (and perhaps colon cancer)'
+p2932
+sS'rs41303343(T;T)'
+p2933
+S'CYP3A5*7 homozygote; nonexpressor for CYP3A5'
+p2934
+sS'rs3802177(C;T)'
+p2935
+S'1.16x increased risk for type-2 diabetes'
+p2936
+sS'rs4986790(A;G)'
+p2937
+S'None'
+p2938
+sS'rs10505483(G;G)'
+p2939
+S'common'
+p2940
+sS'rs1154155(G;T)'
+p2941
+S'1.94x increased risk for narcolepsy'
+p2942
+sS'rs144848(G;T)'
+p2943
+S'possible increased risk for breast cancer'
+p2944
+sS'rs28940574(A;C)'
+p2945
+S'carrier for Canavan disease'
+p2946
+sS'rs12536657(A;A)'
+p2947
+S'hypermyopia risk'
+p2948
+sS'rs1867277(A;A)'
+p2949
+S'2x increased risk for thyroid cancer'
+p2950
+sS'rs12150220(A;T)'
+p2951
+S'slightly increased risk for several autoimmune diseases'
+p2952
+sS'rs1800407(A;A)'
+p2953
+S'green/hazel/brown/black eyes more likely'
+p2954
+sS'rs7495174(G;G)'
+p2955
+S'blue/gray eyes less likely'
+p2956
+sS'rs6684439(T;T)'
+p2957
+S'normal?'
+p2958
+sS'rs6749447(G;G)'
+p2959
+S'slightly higher blood pressure if Caucasian'
+p2960
+sS'rs2930291(C;C)'
+p2961
+S'1.5x risk'
+p2962
+sS'rs3131296(A;A)'
+p2963
+S'normal'
+p2964
+sS'rs1801252(A;G)'
+p2965
+g148
+sS'rs4430796(A;A)'
+p2966
+S'1.38x increased risk for prostate cancer'
+p2967
+sS'rs599839(G;G)'
+p2968
+S'normal'
+p2969
+sS'rs4986908(G;G)'
+p2970
+S'normal'
+p2971
+sS'rs10250779(T;T)'
+p2972
+S'possible exercise-inducing cramping in African-Americans'
+p2973
+sS'rs3026785(C;C)'
+p2974
+S'may be protective against Hirschsprung disease'
+p2975
+sS'rs4986761(C;T)'
+p2976
+S'very slightly  increased risk (1.05) for breast cancer'
+p2977
+sS'rs3736228(C;T)'
+p2978
+S'increased risk for osteoporosis'
+p2979
+sS'rs11162922(A;A)'
+p2980
+S'2x risk'
+p2981
+sS'rs3738414(G;G)'
+p2982
+S'normal'
+p2983
+sS'rs2395029(G;G)'
+p2984
+S'HLA-B*5701 homozygote; high risk for hypersensitivity to various drugs including abacavir; see details'
+p2985
+sS'rs1793004(C;C)'
+p2986
+S"increased risk for Crohn's disease"
+p2987
+sS'rs35859249(C;C)'
+p2988
+S'normal'
+p2989
+sS'rs4506565(A;T)'
+p2990
+S'1.4x increased risk for type-2 diabetes'
+p2991
+sS'rs4988235(C;T)'
+p2992
+S'can digest milk'
+p2993
+sS'rs663048(G;T)'
+p2994
+S'None'
+p2995
+sS'rs33949390(C;C)'
+p2996
+S"3.3x increased risk for Parkinson's disease"
+p2997
+sS'rs5065(A;A)'
+p2998
+S'1.12x risk on diuretic; if hypertensive, better outcome when treated with calcium channel blocker than with diuretic'
+p2999
+sS'rs237025(C;T)'
+p3000
+S'contributes to both type-1 diabetes and type-2 diabetes'
+p3001
+sS'rs3816873(C;T)'
+p3002
+S'None'
+p3003
+sS'rs629242(T;T)'
+p3004
+S'somewhat higher risk for prostate cancer'
+p3005
+sS'rs3758391(T;T)'
+p3006
+S'less mental decline with age'
+p3007
+sS'rs3798220(C;C)'
+p3008
+S'2-3x higher risk for cardiovascular events, which can be lowered by aspirin'
+p3009
+sS'rs182549(C;T)'
+p3010
+S'None'
+p3011
+sS'rs2073711(T;T)'
+p3012
+S'average'
+p3013
+sS'rs55770810(T;T)'
+p3014
+S'carrier of two copies of BRCA1 variant; likely to be at higher risk for breast/ovarian cancer'
+p3015
+sS'rs9589207(G;G)'
+p3016
+S'common'
+p3017
+sS'rs10485057(A;A)'
+p3018
+S'normal'
+p3019
+sS'rs7757037(A;G)'
+p3020
+S'0.68x decreased risk for bipolar disorder'
+p3021
+sS'rs4794067(C;C)'
+p3022
+S'2.1x risk for AIA'
+p3023
+sS'rs10505483(A;G)'
+p3024
+S'None'
+p3025
+sS'rs8192287(T;T)'
+p3026
+S'possibly reduced lung function, see details'
+p3027
+sS'rs1328674(A;G)'
+p3028
+S'higher risk for RA'
+p3029
+sS'rs1801274(C;T)'
+p3030
+S'complex; generally greater risk for cancer progression'
+p3031
+sS'rs916977(A;G)'
+p3032
+S'usually brown eye color'
+p3033
+sS'rs4894(A;C)'
+p3034
+S'1.78x increased risk for schizophrenia in males'
+p3035
+sS'rs2240340(A;A)'
+p3036
+S'increased risk for RA'
+p3037
+sS'rs1043994(A;A)'
+p3038
+g865
+sS'rs72558186(T;T)'
+p3039
+S'normal'
+p3040
+sS'rs41279854(A;A)'
+p3041
+S'normal'
+p3042
+sS'rs2240017(C;G)'
+p3043
+S'respond better to steroids'
+p3044
+sS'rs3766379(T;T)'
+p3045
+S'1.9x increased risk for rheumatoid arthritis'
+p3046
+sS'rs7213516(A;G)'
+p3047
+S'higher cardiovascular risk in African Americans'
+p3048
+sS'rs1803274(G;G)'
+p3049
+S'normal'
+p3050
+sS'rs2910164(C;C)'
+p3051
+S'higher/earlier cancer likelihood??'
+p3052
+sS'rs4959039(A;A)'
+p3053
+S'normal'
+p3054
+sS'rs1800460(G;G)'
+p3055
+S'normal'
+p3056
+sS'rs931127(A;A)'
+p3057
+S'2.15x more likely positive lymph node'
+p3058
+sS'rs34983651(-;AT)'
+p3059
+S'some effects of higher bilirubin'
+p3060
+sS'rs1799971(G;G)'
+p3061
+S'more pain'
+p3062
+sS'rs2075650(G;G)'
+p3063
+S"4x higher Alzheimer's risk"
+p3064
+sS'rs9469220(A;A)'
+p3065
+S'1.5x risk'
+p3066
+sS'rs3738414(A;G)'
+p3067
+S'normal'
+p3068
+sS'rs9300039(A;C)'
+p3069
+S'1.5x risk for T2D'
+p3070
+sS'rs5352(A;A)'
+p3071
+S'probably [[Hirschsprung disease]]'
+p3072
+sS'rs4570625(G;G)'
+p3073
+S'higher scores on anxiety-related personality traits; greater placebo response'
+p3074
+sS'rs13333226(A;G)'
+p3075
+S'slightly lower risk for hypertension'
+p3076
+sS'rs4474514(G;G)'
+p3077
+S'normal'
+p3078
+sS'rs380390(C;G)'
+p3079
+S'None'
+p3080
+sS'rs36053993(G;G)'
+p3081
+S'normal'
+p3082
+sS'rs2476601(A;G)'
+p3083
+S"2x risk for T1D, RA, Addison's"
+p3084
+sS'rs10801935(A;C)'
+p3085
+S'normal'
+p3086
+sS'rs72552267(A;A)'
+p3087
+S'CYP2C19*6 homozygote'
+p3088
+sS'rs671(G;G)'
+p3089
+S'normal'
+p3090
+sS'rs688034(C;C)'
+p3091
+S'normal'
+p3092
+sS'rs7757037(G;G)'
+p3093
+S'normal'
+p3094
+sS'rs10897346(T;T)'
+p3095
+S'normal'
+p3096
+sS'rs7158782(G;G)'
+p3097
+S'4x higher risk of adverse side-effect if taking aromatase inhibitor'
+p3098
+sS'rs1057909(A;A)'
+p3099
+S'normal'
+p3100
+sS'rs55785340(A;G)'
+p3101
+S'carrier of one CYP3A4*2 allele'
+p3102
+sS'rs6458307(C;C)'
+p3103
+S'1.4x risk'
+p3104
+sS'rs2395029(T;T)'
+p3105
+S'common'
+p3106
+sS'rs41303343(-;-)'
+p3107
+S'normal'
+p3108
+sS'rs3093061(A;A)'
+p3109
+S'normal risk'
+p3110
+sS'rs11718863(T;T)'
+p3111
+S'1.43x increased osteoarthritis risk'
+p3112
+sS'rs6498169(A;G)'
+p3113
+S'1.14x risk'
+p3114
+sS'rs1136410(C;C)'
+p3115
+S'0.80x reduced risk for glioblastoma'
+p3116
+sS'rs6503691(T;T)'
+p3117
+S'None'
+p3118
+sS'rs72558186(A;A)'
+p3119
+S'CYP2C19*7 homozygote'
+p3120
+sS'rs9332239(T;T)'
+p3121
+S'CYP2C9*12 homozygote'
+p3122
+sS'rs1265159(C;C)'
+p3123
+S'normal'
+p3124
+sS'rs3813867(C;G)'
+p3125
+S'carrier of one CYP2E1_-1295G>C allele'
+p3126
+sS'rs910316(G;G)'
+p3127
+S'0.68cm taller on average'
+p3128
+sS'rs4986791(T;T)'
+p3129
+S'complex; see details'
+p3130
+sS'rs2948694(A;A)'
+p3131
+S'normal'
+p3132
+sS'rs7837688(G;G)'
+p3133
+S'1.7x increased risk for prostate cancer'
+p3134
+sS'rs2639703(T;T)'
+p3135
+S'normal'
+p3136
+sS'rs1355095(A;G)'
+p3137
+S'None'
+p3138
+sS'rs6836703(A;G)'
+p3139
+S'1.34x increased risk for azoospermia in males'
+p3140
+sS'rs28365083(A;A)'
+p3141
+S'CYP3A5*2 homozygote; nonexpressor for CYP3A5'
+p3142
+sS'rs7754840(G;G)'
+p3143
+S'normal'
+p3144
+sS'rs421016(C;T)'
+p3145
+S"Gaucher carrier; increased Parkinson's disease risk"
+p3146
+sS'rs2075291(C;C)'
+p3147
+S'normal'
+p3148
+sS'rs807701(T;T)'
+p3149
+S'common'
+p3150
+sS'rs5839491(-;-)'
+p3151
+S'normal risk'
+p3152
+sS'rs10250779(C;C)'
+p3153
+S'normal'
+p3154
+sS'rs1799807(A;G)'
+p3155
+S'Heterozygous for "atypical" BuChE'
+p3156
+sS'rs759178(G;G)'
+p3157
+S'higher risk of speech development delay and/or impairment'
+p3158
+sS'rs56276455(A;A)'
+p3159
+S'CYP1A2*3 homozygote'
+p3160
+sS'rs17221417(C;G)'
+p3161
+S'1.3x risk'
+p3162
+sS'rs7183877(A;A)'
+p3163
+S'usually brown eye color'
+p3164
+sS'rs5030849(A;G)'
+p3165
+S'PHENYLKETONURIA, MILD'
+p3166
+sS'rs2476601(G;G)'
+p3167
+S'normal'
+p3168
+sS'rs3785143(C;T)'
+p3169
+S'may be associated with ADHD'
+p3170
+sS'rs2070672(A;G)'
+p3171
+S'carrier of one CYP2E1*7_-352A>G allele'
+p3172
+sS'rs10090154(C;T)'
+p3173
+S'1.4x increased risk for prostate cancer'
+p3174
+sS'rs931127(G;G)'
+p3175
+S'more favorable'
+p3176
+sS'rs28940279(C;C)'
+p3177
+S'Canavan disease'
+p3178
+sS'rs41291556(C;C)'
+p3179
+S'CYP2C19*8 homozygote'
+p3180
+sS'rs3026785(T;T)'
+p3181
+S'normal'
+p3182
+sS'rs10868366(G;T)'
+p3183
+S'reduced risk for AD?'
+p3184
+sS'rs6439886(G;G)'
+p3185
+S'increased memory performance'
+p3186
+sS'rs242941(T;T)'
+p3187
+S'normal'
+p3188
+sS'rs28371759(C;C)'
+p3189
+S'CYP3A4*18 homozygote'
+p3190
+sS'rs2237897(T;T)'
+p3191
+S'1.4x increased risk for diabetic nephropathy in some populations'
+p3192
+sS'rs2070600(A;A)'
+p3193
+S'1.5x increased risk for gastric cancer'
+p3194
+sS'rs4961(G;G)'
+p3195
+S'normal'
+p3196
+sS'rs12044852(A;C)'
+p3197
+S'1.24x risk'
+p3198
+sS'rs2066702(C;T)'
+p3199
+S'None'
+p3200
+sS'rs4474514(A;A)'
+p3201
+S'>3x increased testicular cancer risk for men'
+p3202
+sS'rs7582694(C;C)'
+p3203
+S'1.71x increased SLE risk'
+p3204
+sS'rs2306536(C;T)'
+p3205
+g865
+sS'rs699947(A;A)'
+p3206
+S'1.36x increased risk for thyroid cancer in men'
+p3207
+sS'rs2274223(A;A)'
+p3208
+S'normal'
+p3209
+sS'rs5888(C;C)'
+p3210
+S'normal'
+p3211
+sS'rs10503669(A;A)'
+p3212
+S'associated with higher HDL cholesterol'
+p3213
+sS'rs5443(T;T)'
+p3214
+S'sibutramine has no effect'
+p3215
+sS'rs2398162(A;A)'
+p3216
+S'1.3x risk'
+p3217
+sS'rs3091339(A;A)'
+p3218
+S'normal'
+p3219
+sS'rs2077119(T;T)'
+p3220
+S'1x normal risk'
+p3221
+sS'rs992037(T;T)'
+p3222
+S'highest lysine values'
+p3223
+sS'rs59328451(A;A)'
+p3224
+S'normal'
+p3225
+sS'rs851715(A;G)'
+p3226
+S'None'
+p3227
+sS'rs6602024(A;G)'
+p3228
+g865
+sS'rs16260(A;C)'
+p3229
+S'1.5-1.7x increased risk of prostate cancer'
+p3230
+sS'rs1800795(C;C)'
+p3231
+S'less IL6; certain risks, see details'
+p3232
+sS'rs689465(A;A)'
+p3233
+S'1.5x increased risk for mild asthma'
+p3234
+sS'rs2881766(T;T)'
+p3235
+S'increased risk for pregnancy-induced hypertension'
+p3236
+sS'rs7574865(G;G)'
+p3237
+S'common'
+p3238
+sS'rs2470890(C;C)'
+p3239
+S'CYP1A2_1545T>C homozygote'
+p3240
+sS'rs2308327(A;G)'
+p3241
+S'0.67x decreased risk for lung cancer'
+p3242
+sS'rs3798220(T;T)'
+p3243
+S'normal'
+p3244
+sS'rs41293455(T;T)'
+p3245
+S'predisposition to breast cancer?'
+p3246
+sS'rs10495584(A;A)'
+p3247
+S'normal'
+p3248
+sS'rs1800709(C;T)'
+p3249
+S'possible predisposition to breast cancer'
+p3250
+sS'rs10498345(A;T)'
+p3251
+S'0.5x decreased risk for coronary spasm'
+p3252
+sS'rs3208361(A;A)'
+p3253
+S'normal'
+p3254
+sS'rs28897696(A;C)'
+p3255
+S'carrier of BRCA1 variant'
+p3256
+sS'rs58597806(G;T)'
+p3257
+S'likely reduced UGT1A9 glucuronidation'
+p3258
+sS'rs12150220(T;T)'
+p3259
+S'normal'
+p3260
+sS'rs1800469(C;T)'
+p3261
+S'higher risk for COPD'
+p3262
+sS'rs28940871(G;G)'
+p3263
+S'Tay-Sachs disease likely; see details'
+p3264
+sS'rs1343151(C;T)'
+p3265
+S'0.8x lower risk for spondylitis'
+p3266
+sS'rs20417(C;G)'
+p3267
+S'30% higher risk of diabetes'
+p3268
+sS'rs9960767(C;C)'
+p3269
+S'1.4x increased risk for schizophrenia'
+p3270
+sS'rs28383468(T;T)'
+p3271
+S'CYP3A5*H30Y homozygote; nonexpressor for CYP3A5'
+p3272
+sS'rs28371686(C;G)'
+p3273
+S'carrier of one CYP2C9*5 allele'
+p3274
+sS'rs419788(A;A)'
+p3275
+S'2.3x risk for lupus'
+p3276
+sS'rs7158782(A;G)'
+p3277
+S'2x higher risk of adverse side-effect if taking aromatase inhibitor'
+p3278
+sS'rs11881940(A;A)'
+p3279
+S'normal form'
+p3280
+sS'rs1800057(G;G)'
+p3281
+S'1.5x increased risk for breast cancer'
+p3282
+sS'rs9296249(C;C)'
+p3283
+S'<0.62x risk for restless legs'
+p3284
+sS'rs2069912(C;C)'
+p3285
+S'sepsis risk in East Asians'
+p3286
+sS'rs5030882(C;T)'
+p3287
+g148
+sS'rs30187(C;T)'
+p3288
+S'1.4x higher risk for spondylitis'
+p3289
+sS'rs2069526(T;T)'
+p3290
+S'normal'
+p3291
+sS'rs10033464(T;T)'
+p3292
+S'1.4x increased risk of atrial fibrillation and ischemic stroke'
+p3293
+sS'rs2986017(C;T)'
+p3294
+S'no clear risk'
+p3295
+sS'rs520354(G;G)'
+p3296
+S'normal'
+p3297
+sS'rs356219(A;G)'
+p3298
+S"1.3x increased risk for Parkinson's disease"
+p3299
+sS'rs2572886(G;G)'
+p3300
+S'normal'
+p3301
+sS'rs6602024(G;G)'
+p3302
+S'normal'
+p3303
+sS'rs5742904(A;A)'
+p3304
+S'Hypercholesterolemia, Type B; homozygote'
+p3305
+sS'rs2298566(A;A)'
+p3306
+S'normal'
+p3307
+sS'rs7646054(A;G)'
+p3308
+S'increased osteoporosis risk'
+p3309
+sS'rs527974(T;T)'
+p3310
+S'normal'
+p3311
+sS'rs10918594(G;G)'
+p3312
+S'Longer QT interval'
+p3313
+sS'rs2745557(A;G)'
+p3314
+S'autism risk?'
+p3315
+sS'rs10754339(A;A)'
+p3316
+S'normal'
+p3317
+sS'rs2075291(A;A)'
+p3318
+S'>4x higher risk for high triglyceride levels in Asians'
+p3319
+sS'rs28942079(A;G)'
+p3320
+S'None'
+p3321
+sS'rs131690(A;G)'
+p3322
+S'1.5x increased risk for bipolar disorder'
+p3323
+sS'rs187238(C;G)'
+p3324
+S'hypertension not a risk factor for sudden cardiac death'
+p3325
+sS'rs2837960(G;G)'
+p3326
+S'2.3x risk'
+p3327
+sS'rs3212227(A;A)'
+p3328
+S'1.4x increased risk of psoriasis and psoriatic arthritis'
+p3329
+sS'rs776746(A;G)'
+p3330
+S'carrier of 1 nonfunctional CYP3A5 allele; drug metabolism affects'
+p3331
+sS'rs4129148(C;C)'
+p3332
+S'>3x risk'
+p3333
+sS'rs8192287(G;G)'
+p3334
+S'normal'
+p3335
+sS'rs28931568(A;A)'
+p3336
+S'high risk of emphysema'
+p3337
+sS'rs2279420(C;T)'
+p3338
+S'0.79x decreased risk for LOAD'
+p3339
+sS'rs992037(C;T)'
+p3340
+S'intermediate lysine values'
+p3341
+sS'rs35859249(T;T)'
+p3342
+S'associated with familiar obesity'
+p3343
+sS'rs7305115(G;G)'
+p3344
+S'risk of suicide behavior'
+p3345
+sS'rs4129148(G;G)'
+p3346
+S'common'
+p3347
+sS'rs4864548(G;G)'
+p3348
+S'1.8x higher risk for obesity if in haplotype'
+p3349
+sS'rs662(G;G)'
+p3350
+S'higher risk of coronary heart disease in some studies; significantly reduced PON catalytic efficiency; increased trait-anxiety scores'
+p3351
+sS'rs10239794(C;T)'
+p3352
+S'1.3x risk for ALS'
+p3353
+sS'rs4939883(C;C)'
+p3354
+S'associated with higher HDL cholesterol'
+p3355
+sS'rs2229616(A;G)'
+p3356
+S'lower risk of metabolic syndrome'
+p3357
+sS'rs3758581(A;G)'
+p3358
+S'carrier of one CYP2C19 V331I allele'
+p3359
+sS'rs671(A;G)'
+p3360
+S'experiences asian flush'
+p3361
+sS'rs6596075(C;G)'
+p3362
+S'1.5x risk'
+p3363
+sS'rs700651(G;G)'
+p3364
+S'~1.56x increased risk of aneurysm'
+p3365
+sS'rs59349773(A;C)'
+p3366
+S'heterozygote for pachyonychia congenita Type I mutation'
+p3367
+sS'rs12184413(C;T)'
+p3368
+S'normal'
+p3369
+sS'rs131690(G;G)'
+p3370
+S'1.5x increased risk for bipolar disorder'
+p3371
+sS'rs9332739(C;C)'
+p3372
+S'reduced risk of age related macular degeneration'
+p3373
+sS'rs889312(C;C)'
+p3374
+S'Very slightly higher risk for breast cancer'
+p3375
+sS'rs4987161(C;T)'
+p3376
+S'carrier of one CYP3A4*17 allele'
+p3377
+sS'rs5030867(A;C)'
+p3378
+S'carrier of one CYP2D6*7 allele'
+p3379
+sS'rs3774426(C;T)'
+p3380
+S'normal'
+p3381
+sS'rs2303067(A;A)'
+p3382
+S'1.8x risk'
+p3383
+sS'rs9300039(A;A)'
+p3384
+S'normal risk'
+p3385
+sS'rs2572886(A;G)'
+p3386
+S'1.4x increased risk of HIV infection'
+p3387
+sS'rs356219(G;G)'
+p3388
+S"1.6x increased risk for Parkinson's disease"
+p3389
+sS'rs324420(A;C)'
+p3390
+S'normal'
+p3391
+sS'rs1375144(C;C)'
+p3392
+S'1.6x risk'
+p3393
+sS'rs1148259(T;T)'
+p3394
+S'highest sphingomyelin ratios'
+p3395
+sS'rs4655595(G;G)'
+p3396
+S'2.3 risk'
+p3397
+sS'rs2241880(T;T)'
+p3398
+S'normal'
+p3399
+sS'rs7794745(T;T)'
+p3400
+S'slightly increased risk for autism'
+p3401
+sS'rs1048990(G;G)'
+p3402
+S'common'
+p3403
+sS'rs17782313(C;C)'
+p3404
+S'adults likely to be 0.44 BMI units higher'
+p3405
+sS'rs2241880(C;C)'
+p3406
+S"2x-3x increased risk for Crohn's disease in Caucasians"
+p3407
+sS'rs2298566(C;C)'
+p3408
+S'increased risk of coronary heart disease; better response to statins'
+p3409
+sS'rs324420(C;C)'
+p3410
+S'normal'
+p3411
+sS'rs59349773(C;C)'
+p3412
+S'homozygote for pachyonychia congenita Type I mutation'
+p3413
+sS'rs1143634(C;C)'
+p3414
+S'normal'
+p3415
+sS'rs34778348(A;A)'
+p3416
+S"2.1x increased risk for Parkinson's disease"
+p3417
+sS'rs6684865(A;A)'
+p3418
+S'1.5x risk'
+p3419
+sS'rs4986893(A;A)'
+p3420
+S'poor metabolizer of several commonly prescribed drugs'
+p3421
+sS'rs6025(G;G)'
+p3422
+S'normal/common'
+p3423
+sS'rs1135840(C;G)'
+p3424
+S'Carrier of at least one CYP2D6 variants (non-CYP2D6*1)'
+p3425
+sS'rs2305795(A;G)'
+p3426
+S'normal risk of narcolepsy'
+p3427
+sS'rs7305115(A;G)'
+p3428
+S'risk of suicide behavior'
+p3429
+sS'rs8192284(A;A)'
+p3430
+S'normal'
+p3431
+sS'rs2515641(T;T)'
+p3432
+S'normal'
+p3433
+sS'rs2070672(G;G)'
+p3434
+S'normal'
+p3435
+sS'rs2072797(T;T)'
+p3436
+S'1.5x increased risk of Non-Hodgkin Lymphoma'
+p3437
+sS'rs966221(C;T)'
+p3438
+S'1.5x increased stroke risk'
+p3439
+sS'rs17166496(C;G)'
+p3440
+S'0.8x risk'
+p3441
+sS'rs2745557(G;G)'
+p3442
+S'normal'
+p3443
+sS'rs17234657(G;T)'
+p3444
+S'1.5x risk'
+p3445
+sS'rs2333227(T;T)'
+p3446
+S'0.7x decreased risk for lung cancer among smokers; increased gastric cancer risk'
+p3447
+sS'rs440446(C;G)'
+p3448
+S'increased risk in men for biliary conditions'
+p3449
+sS'rs1799782(T;T)'
+p3450
+S'1.4x increased risk for oral cancer among Asians'
+p3451
+sS'rs41309764(C;T)'
+p3452
+S'Congenital heart disease and valve calcification likely'
+p3453
+sS'rs642961(A;A)'
+p3454
+S'normal'
+p3455
+sS'rs726601(C;C)'
+p3456
+S'normal'
+p3457
+sS'rs1495965(G;G)'
+p3458
+S'normal risk'
+p3459
+sS'rs486907(A;A)'
+p3460
+S'2x increased prostate cancer risk'
+p3461
+sS'rs1554483(C;G)'
+p3462
+S'1.8x higher risk for obesity if in haplotype'
+p3463
+sS'rs213950(G;G)'
+p3464
+S'normal'
+p3465
+sS'rs17884712(G;G)'
+p3466
+S'normal'
+p3467
+sS'rs7341475(G;G)'
+p3468
+S'1.58x increased schizophrenia risk for women'
+p3469
+sS'rs7895676(C;C)'
+p3470
+S'normal'
+p3471
+sS'rs2232165(C;T)'
+p3472
+S'increased risk for heavy alcohol consumption'
+p3473
+sS'rs4402960(G;T)'
+p3474
+S'1.2x increased risk for type-2 diabetes'
+p3475
+sS'rs1799945(G;G)'
+p3476
+S'Two copies of H36D, likely affected by mild form of hemochromatosis'
+p3477
+sS'rs28931573(C;T)'
+p3478
+S'positive for the APOA1 Milano variant'
+p3479
+sS'rs2470890(C;T)'
+p3480
+S'carrier of one CYP1A2_1545T>C allele'
+p3481
+sS'rs3218536(A;G)'
+p3482
+S'lower risk for breast, ovarian cancer'
+p3483
+sS'rs4648317(T;T)'
+p3484
+S'prone to higher nicotine dependence?'
+p3485
+sS'rs1889018(T;T)'
+p3486
+S'1.12x increased risk for T2D'
+p3487
+sS'rs26722(C;C)'
+p3488
+S'normal'
+p3489
+sS'rs1805008(T;T)'
+p3490
+S'~7-10x higher likelihood of red hair'
+p3491
+sS'rs12720461(C;C)'
+p3492
+S'normal'
+p3493
+sS'rs2910164(C;G)'
+p3494
+S'higher/earlier cancer likelihood??'
+p3495
+sS'rs573225(C;C)'
+p3496
+S'normal'
+p3497
+sS'rs10893081(C;T)'
+p3498
+S'normal'
+p3499
+sS'rs131702(T;T)'
+p3500
+S'normal risk'
+p3501
+sS'rs2066702(T;T)'
+p3502
+S'None'
+p3503
+sS'rs2740574(A;A)'
+p3504
+S'normal'
+p3505
+sS'rs11761231(C;T)'
+p3506
+g148
+sS'rs34815109(TA;TA)'
+p3507
+S'effects of higher bilirubin; irinotecan toxicity; tranilast toxicity'
+p3508
+sS'rs2710117(A;T)'
+p3509
+S'None'
+p3510
+sS'i4001467(A;A)'
+p3511
+S'Homozygous for CYP2D6*4G non-functioning variant'
+p3512
+sS'rs17376328(G;G)'
+p3513
+S'normal'
+p3514
+sS'rs662799(A;G)'
+p3515
+S'less weight gain on high fat diets'
+p3516
+sS'rs6601764(C;C)'
+p3517
+S'1.5x risk'
+p3518
+sS'rs10892759(A;G)'
+p3519
+S'normal'
+p3520
+sS'rs1470579(A;A)'
+p3521
+S'normal'
+p3522
+sS'rs2710102(C;T)'
+p3523
+S'None'
+p3524
+sS'rs12425791(A;A)'
+p3525
+S'possibly increased risk of stroke'
+p3526
+sS'rs2306536(C;C)'
+p3527
+S'average'
+p3528
+sS'rs11136000(C;C)'
+p3529
+S'normal'
+p3530
+sS'rs3093061(G;G)'
+p3531
+S'0.37-0.49x reduced risk for SLE'
+p3532
+sS'rs5888(T;T)'
+p3533
+S'1.6x higher risk for age-related macular degeneration'
+p3534
+sS'rs72547515(C;C)'
+p3535
+S'normal'
+p3536
+sS'rs5770917(C;C)'
+p3537
+S'>1.4x increased risk for narcolepsy'
+p3538
+sS'rs12469063(G;G)'
+p3539
+S'common'
+p3540
+sS'rs1360780(T;T)'
+p3541
+S'1.3x increased risk for depression'
+p3542
+sS'rs34612342(G;G)'
+p3543
+S'increased risk for certain cancers?'
+p3544
+sS'rs1042714(G;G)'
+p3545
+S'complex; see details for increased risks'
+p3546
+sS'rs892086(C;T)'
+p3547
+S'normal'
+p3548
+sS'rs767603(T;T)'
+p3549
+S'normal'
+p3550
+sS'rs6267(T;T)'
+p3551
+S'None'
+p3552
+sS'rs11465804(G;T)'
+p3553
+S'0.68x lower risk for spondylitis'
+p3554
+sS'rs1042713(A;A)'
+p3555
+S'1.7x increased risk that pediatric inhaler use may make asthma worse'
+p3556
+sS'rs1800947(C;G)'
+p3557
+S'lower CRP levels'
+p3558
+sS'rs11073328(C;C)'
+p3559
+S'normal'
+p3560
+sS'rs1042522(C;G)'
+p3561
+S'None'
+p3562
+sS'rs5800(A;G)'
+p3563
+S'AF risk in HCM patients (only)'
+p3564
+sS'rs11209026(A;A)'
+p3565
+S'0.26x lower risk for certain autoimmune diseases'
+p3566
+sS'rs3935591(G;G)'
+p3567
+S'blue eye color if part of blue eye color haplotype'
+p3568
+sS'rs2074190(C;C)'
+p3569
+S'2.2x risk for AIA'
+p3570
+sS'rs4320932(A;A)'
+p3571
+S'normal'
+p3572
+sS'rs2518224(A;C)'
+p3573
+S'normal'
+p3574
+sS'rs6837793(G;G)'
+p3575
+S'more likely to gain weight if taking risperidone'
+p3576
+sS'rs4504469(T;T)'
+p3577
+S'> 1.5x risk'
+p3578
+sS'rs2854344(A;A)'
+p3579
+S'normal risk'
+p3580
+sS'rs7341475(A;A)'
+p3581
+S'normal'
+p3582
+sS'rs12487066(T;T)'
+p3583
+S'common'
+p3584
+sS'rs8702(G;G)'
+p3585
+S'0.2x risk for MS'
+p3586
+sS'rs1800630(C;C)'
+p3587
+S'normal'
+p3588
+sS'rs30187(C;C)'
+p3589
+S'normal risk'
+p3590
+sS'rs5361(A;C)'
+p3591
+S'normal risk'
+p3592
+sS'rs25489(A;A)'
+p3593
+S'4.68x higher risk for breast cancer'
+p3594
+sS'rs1334512(G;T)'
+p3595
+S'decreased risk for severe malaria'
+p3596
+sS'rs55817950(A;G)'
+p3597
+S'carrier of one CYP3A5*8 allele'
+p3598
+sS'rs56411402(T;T)'
+p3599
+S'normal'
+p3600
+sS'rs4430796(A;G)'
+p3601
+S'normal risk'
+p3602
+sS'rs8192284(A;C)'
+p3603
+S'1.7x increased melanoma risk'
+p3604
+sS'rs4253208(C;C)'
+p3605
+S'normal'
+p3606
+sS'rs2059693(C;C)'
+p3607
+S'normal'
+p3608
+sS'rs1061646(C;T)'
+p3609
+S'1.08x increased risk for breast cancer'
+p3610
+sS'rs4795400(C;C)'
+p3611
+S'normal'
+p3612
+sS'rs2427837(A;G)'
+p3613
+S'lower IgE levels'
+p3614
+sS'rs10260404(T;T)'
+p3615
+S'average'
+p3616
+sS'rs2187668(G;G)'
+p3617
+S'average'
+p3618
+sS'rs2420946(C;T)'
+p3619
+S'1.20x risk for breast cancer'
+p3620
+sS'rs2240203(G;G)'
+p3621
+S'blue eye color if part of blue eye color haplotype'
+p3622
+sS'rs2179922(G;G)'
+p3623
+S'common'
+p3624
+sS'rs5787121(-;-)'
+p3625
+S'CYP2C19 G439- homozygote'
+p3626
+sS'rs603965(A;G)'
+p3627
+g865
+sS'rs2187668(A;G)'
+p3628
+S'Somewhat increased autoimmune disorder (lupus, celiac disease) risk; 1 HLA-DRB1*0301 allele'
+p3629
+sS'rs28933087(G;T)'
+p3630
+S'heterozygote for pachyonychia congenita Type I mutation'
+p3631
+sS'rs622342(C;C)'
+p3632
+S"influences dosage for Parkinson's patients"
+p3633
+sS'rs2981582(C;T)'
+p3634
+S'1.3x higher risk of ER+ breast cancer'
+p3635
+sS'rs4986852(A;A)'
+p3636
+S'predisposition to breast cancer?'
+p3637
+sS'rs55889066(G;G)'
+p3638
+S'normal'
+p3639
+sS'i4001456(G;G)'
+p3640
+S'normal'
+p3641
+sS'rs10505483(A;A)'
+p3642
+S'None'
+p3643
+sS'rs6277(C;C)'
+p3644
+S'1.6x higher schizophrenia risk'
+p3645
+sS'rs10507391(T;T)'
+p3646
+S'1.24x increased stroke risk for males'
+p3647
+sS'rs11614913(C;T)'
+p3648
+S'normal'
+p3649
+sS'rs965513(G;G)'
+p3650
+S'normal'
+p3651
+sS'rs4939883(C;T)'
+p3652
+S'associated with higher HDL cholesterol'
+p3653
+sS'rs4506565(T;T)'
+p3654
+S'normal'
+p3655
+sS'rs12721627(C;G)'
+p3656
+S'carrier of one CYP3A4*16 allele'
+p3657
+sS'rs1805762(G;G)'
+p3658
+S'average'
+p3659
+sS'rs4959039(A;G)'
+p3660
+S'1.4x higher risk for multiple sclerosis'
+p3661
+sS'rs4714156(C;C)'
+p3662
+S'<0.61x risk for restless legs'
+p3663
+sS'rs17646946(A;A)'
+p3664
+S'straighter curl'
+p3665
+sS'rs4148323(A;A)'
+p3666
+S'homozygous for UGT1A1*6'
+p3667
+sS'rs56276455(A;G)'
+p3668
+S'carrier of one CYP1A2*3 allele'
+p3669
+sS'rs183130(C;C)'
+p3670
+S'lower HDL cholesterol'
+p3671
+sS'rs8038652(A;G)'
+p3672
+S'normal'
+p3673
+sS'rs17228212(C;C)'
+p3674
+S'>1.26x increased risk for heart disease'
+p3675
+sS'rs213950(A;G)'
+p3676
+S'1.1x risk'
+p3677
+sS'rs12425791(A;G)'
+p3678
+S'mixed evidence of increased risk for stroke'
+p3679
+sS'rs5275(C;T)'
+p3680
+S'0.68x decreased risk for bladder cancer'
+p3681
+sS'rs9469220(A;G)'
+p3682
+S'1.1x risk'
+p3683
+sS'rs13333226(A;A)'
+p3684
+S'common but slightly higher risk for hypertension'
+p3685
+sS'rs1800057(C;G)'
+p3686
+S'very slightly  increased risk (1.05) for breast cancer'
+p3687
+sS'rs3738414(A;A)'
+p3688
+S'0.4x decreased risk of breast cancer'
+p3689
+sS'rs58973490(G;G)'
+p3690
+S'normal'
+p3691
+sS'rs17782313(C;T)'
+p3692
+S'adults likely to be 0.22 BMI units higher'
+p3693
+sS'rs4516035(T;T)'
+p3694
+S'normal'
+p3695
+sS'rs646776(A;A)'
+p3696
+S'1.2x risk of coronary artery disease'
+p3697
+sS'rs2077119(G;T)'
+p3698
+S'0.91x decreased risk for T2D'
+p3699
+sS'rs5020278(A;G)'
+p3700
+S'"sweet" smeller'
+p3701
+sS'rs3738579(C;C)'
+p3702
+S'1.5x increased risk for breast cancer, HNSCC'
+p3703
+sS'rs2839471(T;T)'
+p3704
+S'1.6x increased risk for high myopia'
+p3705
+sS'rs5787121(G;G)'
+p3706
+S'normal'
+p3707
+sS'rs1800056(T;T)'
+p3708
+S'normal'
+p3709
+sS'rs1800630(A;A)'
+p3710
+S'1.8x increased lupus risk'
+p3711
+sS'rs4795400(T;T)'
+p3712
+S'if 4 years old or younger, ~2.5x increased asthma risk if exposed to smoke'
+p3713
+sS'rs1126497(C;C)'
+p3714
+S'normal'
+p3715
+sS'rs6330(T;T)'
+p3716
+S'more anxious males, less anxious females'
+p3717
+sS'rs793862(G;G)'
+p3718
+S'common'
+p3719
+sS'rs12184413(T;T)'
+p3720
+S'0.7x decreased risk for breast cancer'
+p3721
+sS'rs759178(T;T)'
+p3722
+S'None'
+p3723
+sS'rs1800462(G;G)'
+p3724
+S'normal for 23andMe'
+p3725
+sS'rs1800437(C;G)'
+p3726
+S'0.72x risk for heart disease'
+p3727
+sS'rs6314(C;C)'
+p3728
+S'higher risk for RA'
+p3729
+sS'rs1135824(A;A)'
+p3730
+S'normal'
+p3731
+sS'rs4833103(A;C)'
+p3732
+S"0.75x decreased risk for Non-hodgkin's lymphoma"
+p3733
+sS'rs662(A;G)'
+p3734
+S'0.65x lower risk of ovarian cancer; higher risk of coronary heart disease in some studies; somewhat reduced PON catalytic efficiency'
+p3735
+sS'rs1143634(C;T)'
+p3736
+S'complex; see details'
+p3737
+sS'rs6836703(A;A)'
+p3738
+S'1.34x increased risk for azoospermia in males'
+p3739
+sS'rs1695(A;G)'
+p3740
+g865
+sS'rs2948694(A;G)'
+p3741
+S'increased risk for heavy alcohol consumption'
+p3742
+sS'rs1027557(A;G)'
+p3743
+S'heterozygosity seems common'
+p3744
+sS'rs5558(G;G)'
+p3745
+S'None'
+p3746
+sS'rs312481(C;C)'
+p3747
+S'better response to certain calcium channel blockers'
+p3748
+sS'rs761100(T;T)'
+p3749
+S'normal risk'
+p3750
+sS'rs5030849(A;A)'
+p3751
+S'PHENYLKETONURIA, MILD'
+p3752
+sS'rs1128503(C;T)'
+p3753
+S'may require more methadone during heroin withdrawal'
+p3754
+sS'rs10210302(C;T)'
+p3755
+S'1.2x risk'
+p3756
+sS'rs762551(A;A)'
+p3757
+S'CYP1A2*1F homozygote; Fast metabolizer'
+p3758
+sS'rs5020278(G;G)'
+p3759
+S'"sweaty" smeller'
+p3760
+sS'rs10835638(T;T)'
+p3761
+S'lower serum FSH level among males'
+p3762
+sS'rs9951307(A;A)'
+p3763
+S'normal'
+p3764
+sS'rs1265181(G;G)'
+p3765
+S'possibly increased risk of psoriasis'
+p3766
+sS'rs965513(A;A)'
+p3767
+S'3.5x increased thyroid cancer risk'
+p3768
+sS'rs3003609(C;T)'
+p3769
+g865
+sS'rs3794260(G;G)'
+p3770
+S'average'
+p3771
+sS'rs1126742(C;T)'
+p3772
+S'higher hypertension risk'
+p3773
+sS'rs1329428(A;G)'
+p3774
+g865
+sS'rs7003908(C;C)'
+p3775
+S'1.4x increased risk for glioblastoma'
+p3776
+sS'rs12721634(C;T)'
+p3777
+S'carrier of one CYP3A4*14 allele'
+p3778
+sS'rs2240203(A;A)'
+p3779
+S'usually brown eye color'
+p3780
+sS'rs1801394(G;G)'
+p3781
+S'1.4x higher risk for meningiomas'
+p3782
+sS'rs1047552(T;T)'
+p3783
+S'normal'
+p3784
+sS'rs662(A;A)'
+p3785
+S'0.65x lower risk of ovarian cancer; normal PON catalytic efficiency'
+p3786
+sS'rs3194051(G;G)'
+p3787
+S'normal'
+p3788
+sS'rs10503669(A;C)'
+p3789
+S'associated with higher HDL cholesterol'
+p3790
+sS'rs13361189(C;C)'
+p3791
+S"2.6x increased risk for Crohn's disease"
+p3792
+sS'rs41309764(T;T)'
+p3793
+S'Congenital heart disease and valve calcification'
+p3794
+sS'rs1799782(C;T)'
+p3795
+S'1.3x increased risk for oral cancer among Asians'
+p3796
+sS'rs1154155(G;G)'
+p3797
+S'2.5x increased risk for narcolepsy'
+p3798
+sS'rs28383479(A;G)'
+p3799
+S'carrier of one CYP3A5*9 allele'
+p3800
+sS'rs713598(C;G)'
+p3801
+S'can taste bitter'
+p3802
+sS'rs383830(A;A)'
+p3803
+S'1.9x risk'
+p3804
+sS'rs7183877(A;C)'
+p3805
+S'usually brown eye color'
+p3806
+sS'rs5092(A;A)'
+p3807
+S'less likely to gain weight if taking olanzapine'
+p3808
+sS'rs1522305(C;C)'
+p3809
+S'normal'
+p3810
+sS'rs1801516(G;G)'
+p3811
+S'normal'
+p3812
+sS'rs17238540(G;G)'
+p3813
+S'less responsive to statin treatment'
+p3814
+sS'rs4986908(A;G)'
+p3815
+S'carrier of one CYP3A4*_14313G>A(E174H) allele'
+p3816
+sS'rs3091339(A;G)'
+p3817
+S'carrier of one CYP3A4*_11460A>G(K96E) allele'
+p3818
+sS'rs2230199(C;C)'
+p3819
+S'3.2x risk of ARMD'
+p3820
+sS'rs872071(A;G)'
+p3821
+S'~1.5x increased risk for chronic lymphocytic leukemia'
+p3822
+sS'rs10181656(C;C)'
+p3823
+S'normal'
+p3824
+sS'rs705379(A;A)'
+p3825
+S'lowest arylesterase activity'
+p3826
+sS'rs2059693(C;T)'
+p3827
+S'1.3x increased risk for testicular cancer'
+p3828
+sS'rs4845618(G;G)'
+p3829
+S'normal'
+p3830
+sS'rs36053993(A;A)'
+p3831
+S'increased risk for certain cancers?'
+p3832
+sS'rs17482753(G;G)'
+p3833
+S'normal'
+p3834
+sS'rs2232165(C;C)'
+p3835
+S'normal'
+p3836
+sS'rs3194051(A;A)'
+p3837
+S'>1.1x risk'
+p3838
+sS'rs4402960(G;G)'
+p3839
+S'normal'
+p3840
+sS'rs1334512(G;G)'
+p3841
+S'0.37x decreased risk for severe malaria'
+p3842
+sS'rs2145418(G;T)'
+p3843
+S'5.0x increased thyroid cancer risk'
+p3844
+sS'rs3208361(A;G)'
+p3845
+S'carrier of one CYP3A4*_15635A>G(I193V) allele'
+p3846
+sS'rs28897672(G;T)'
+p3847
+S'possible predisposition to breast cancer'
+p3848
+sS'rs1327328(T;T)'
+p3849
+S'1.7x increased risk for multiple sclerosis'
+p3850
+sS'rs6413438(T;T)'
+p3851
+S'CYP2C19*10 homozygote'
+p3852
+sS'rs10490924(G;T)'
+p3853
+S'2.7x risk for age related macular degeneration'
+p3854
+sS'rs2250889(C;C)'
+p3855
+S'1.69x higher risk for lung cancer'
+p3856
+sS'rs11465804(G;G)'
+p3857
+S'0.68x lower risk for spondylitis'
+p3858
+sS'rs7570682(G;G)'
+p3859
+S'normal'
+p3860
+sS'rs2981582(C;C)'
+p3861
+S'normal'
+p3862
+sS'rs3754777(A;A)'
+p3863
+S'slightly higher blood pressure if Caucasian'
+p3864
+sS'rs1800888(C;C)'
+p3865
+S'normal'
+p3866
+sS'rs1049550(C;T)'
+p3867
+S'0.62x reduced risk for sarcoidosis'
+p3868
+sS'rs10246939(C;T)'
+p3869
+S'can taste bitter'
+p3870
+sS'rs889312(A;A)'
+p3871
+S'normal'
+p3872
+sS'rs4504469(C;T)'
+p3873
+S'1.5x risk'
+p3874
+sS'i4001456(A;G)'
+p3875
+S'Carrier of one copy of CYP2D6*4F non-functioning variant.'
+p3876
+sS'rs1799999(G;T)'
+p3877
+g148
+sS'rs1799969(A;G)'
+p3878
+S'slightly higher breast cancer risk'
+p3879
+sS'rs6887695(C;C)'
+p3880
+S'normal'
+p3881
+sS'rs1859345(T;T)'
+p3882
+S'normal'
+p3883
+sS'rs4149274(C;C)'
+p3884
+S'associated with higher HDL cholesterol'
+p3885
+sS'rs1800454(G;G)'
+p3886
+S'normal'
+p3887
+sS'rs2256871(T;T)'
+p3888
+S'normal'
+p3889
+sS'rs3736309(A;G)'
+p3890
+S'0.44x decreased risk for chronic obstructive pulmonary lung disease'
+p3891
+sS'rs34210653(C;T)'
+p3892
+S'1.6x increased risk for heart disease'
+p3893
+sS'rs4516035(C;C)'
+p3894
+S'if less milk in teenage females, less bone?'
+p3895
+sS'rs3025039(C;T)'
+p3896
+S'2.6x increased risk for ARMD'
+p3897
+sS'rs12150220(A;A)'
+p3898
+S'slightly increased risk for several autoimmune diseases'
+p3899
+sS'rs1334710(G;G)'
+p3900
+S'increased risk'
+p3901
+sS'rs1554483(C;C)'
+p3902
+S'normal'
+p3903
+sS'rs7837688(T;T)'
+p3904
+S'normal risk'
+p3905
+sS'rs2538991(G;T)'
+p3906
+S'None'
+p3907
+sS'rs2177369(C;T)'
+p3908
+S'normal'
+p3909
+sS'rs569108(C;T)'
+p3910
+S'3x risk'
+p3911
+sS'rs2398162(A;G)'
+p3912
+S'normal'
+p3913
+sS'rs1143679(G;G)'
+p3914
+S'normal'
+p3915
+sS'rs1800860(G;G)'
+p3916
+S'normal'
+p3917
+sS'rs8179183(C;G)'
+p3918
+S'less likely to gain weight if taking risperidone'
+p3919
+sS'rs3816873(C;C)'
+p3920
+S'reduced risk of type-2 diabetes'
+p3921
+sS'rs361525(A;A)'
+p3922
+S'complex; generally higher risk for certain diseases'
+p3923
+sS'rs2075291(A;C)'
+p3924
+S'4x higher risk for high triglyceride levels in Asians'
+p3925
+sS'rs1800860(A;G)'
+p3926
+S'10% smaller kidneys as newborns'
+p3927
+sS'rs11523871(A;C)'
+p3928
+S'1.6x increased breast cancer risk for women over 60'
+p3929
+sS'rs8050894(C;C)'
+p3930
+S'warfarin sensitivity (~2.5 mg/day)'
+p3931
+sS'rs4792311(A;G)'
+p3932
+S'increased risk'
+p3933
+sS'rs2145418(G;G)'
+p3934
+S'9.2x increased thyroid cancer risk'
+p3935
+sS'rs688034(C;T)'
+p3936
+S'1.1x risk'
+p3937
+sS'rs3842787(C;C)'
+p3938
+S'normal'
+p3939
+sS'rs241448(C;T)'
+p3940
+S"1.51x increased risk for Alzheimer's"
+p3941
+sS'rs55901263(C;G)'
+p3942
+S'carrier of one CYP3A4*5 allele'
+p3943
+sS'rs3093061(A;G)'
+p3944
+S'normal risk?'
+p3945
+sS'rs4986913(C;C)'
+p3946
+S'normal'
+p3947
+sS'rs11718863(A;T)'
+p3948
+S'1.43x increased osteoarthritis risk'
+p3949
+sS'rs4986761(C;C)'
+p3950
+S'1.5x increased risk for breast cancer'
+p3951
+sS'rs1803274(A;A)'
+p3952
+S"possible increased Alzheimer's risk"
+p3953
+sS'rs419598(C;C)'
+p3954
+S'0.29x lower risk for periodontitis'
+p3955
+sS'rs4565946(T;T)'
+p3956
+S'None'
+p3957
+sS'rs17822931(T;T)'
+p3958
+S'dry earwax'
+p3959
+sS'rs892086(C;C)'
+p3960
+S'normal'
+p3961
+sS'rs671(A;A)'
+p3962
+S'Flusher, increased risk of esophageal cancer'
+p3963
+sS'rs6330(C;T)'
+p3964
+S'normal'
+p3965
+sS'rs1076560(A;A)'
+p3966
+S'influences working memory'
+p3967
+sS'rs1219648(G;G)'
+p3968
+S'common'
+p3969
+sS'rs4986908(A;A)'
+p3970
+S'CYP3A4*_14313G>A(E174H) homozygote'
+p3971
+sS'rs1265159(C;T)'
+p3972
+S'~5x increased risk of psoriasis'
+p3973
+sS'rs34139813(G;G)'
+p3974
+S'homozygous Hb Crete'
+p3975
+sS'rs7101429(G;G)'
+p3976
+S"0.70x reduced risk for Alzheimer's risk"
+p3977
+sS'rs8038652(A;A)'
+p3978
+S'shorter adult height, at least among Mongolians'
+p3979
+sS'rs5751876(T;T)'
+p3980
+S'significantly higher anxiety levels after moderate caffeine consumption'
+p3981
+sS'rs2071746(A;A)'
+p3982
+S'normal'
+p3983
+sS'rs2948694(G;G)'
+p3984
+S'increased risk for heavy alcohol consumption'
+p3985
+sS'rs2572886(A;A)'
+p3986
+S'1.4x increased risk of HIV infection'
+p3987
+sS'rs60554162(A;G)'
+p3988
+S'heterozygote for pachyonychia congenita Type I mutation'
+p3989
+sS'rs4833103(A;A)'
+p3990
+S'normal'
+p3991
+sS'rs4988235(T;T)'
+p3992
+S'can digest milk'
+p3993
+sS'rs1801028(C;G)'
+p3994
+S'1.4x risk for schizophrenia'
+p3995
+sS'rs1859962(G;G)'
+p3996
+S'1.28x increased risk for prostate cancer'
+p3997
+sS'rs910873(G;G)'
+p3998
+S'normal'
+p3999
+sS'rs12970134(G;G)'
+p4000
+S'normal'
+p4001
+sS'rs56244447(C;C)'
+p4002
+S'CYP3A5*3D homozygote; nonexpressor for CYP3A5'
+p4003
+sS'rs7536563(A;A)'
+p4004
+S'>1.12x risk'
+p4005
+sS'rs1143679(A;A)'
+p4006
+S'>1.78x increased risk for SLE'
+p4007
+sS'rs13149290(C;C)'
+p4008
+S'somewhat higher risk for prostate cancer'
+p4009
+sS'rs4986893(A;G)'
+p4010
+S'carrier'
+p4011
+sS'rs4149056(C;C)'
+p4012
+S'17x myopathy risk for statin users'
+p4013
+sS'rs3003609(C;C)'
+p4014
+S'normal'
+p4015
+sS'rs1057910(C;C)'
+p4016
+S'CYP2C9*3 homozygote; average 80% reduction in warfarin metabolism'
+p4017
+sS'rs17234657(T;T)'
+p4018
+S'normal'
+p4019
+sS'rs1801394(A;G)'
+p4020
+S'normal'
+p4021
+sS'rs8702(C;G)'
+p4022
+g865
+sS'rs16891982(G;G)'
+p4023
+S'generally European'
+p4024
+sS'rs10811661(C;T)'
+p4025
+S'1.2x increased risk for type-2 diabetes'
+p4026
+sS'rs1573496(G;G)'
+p4027
+S'0.68x decreased risk of oral/throat cancers'
+p4028
+sS'rs7305115(A;A)'
+p4029
+S'Individuals showed a significantly lower risk of suicide behavior than those with the A/G or G/G genotype'
+p4030
+sS'rs8069176(A;A)'
+p4031
+S'normal'
+p4032
+sS'rs3798220(C;T)'
+p4033
+S'2-3x higher risk for cardiovascular events, which can be lowered by aspirin'
+p4034
+sS'rs27048(C;C)'
+p4035
+S'2x risk of severe alcohol withdrawal'
+p4036
+sS'rs5030655(-;-)'
+p4037
+S'CYP2D6*6 poor metabolizer phenotype'
+p4038
+sS'rs17879685(T;T)'
+p4039
+S'CYP2C19*13 homozygote'
+p4040
+sS'rs642961(A;G)'
+p4041
+S'1.9x risk of cleft lip'
+p4042
+sS'rs1042714(C;C)'
+p4043
+S'normal'
+p4044
+sS'rs4253623(G;G)'
+p4045
+S'1.25x higher risk of nonfatal myocardial infarction'
+p4046
+sS'rs3212236(G;G)'
+p4047
+S'normal risk'
+p4048
+sS'rs6918698(C;C)'
+p4049
+S'normal risk'
+p4050
+sS'rs241448(C;C)'
+p4051
+S"2.14x increased risk for Alzheimer's"
+p4052
+sS'rs237025(T;T)'
+p4053
+S'MET/MET increased diabetes susceptibility'
+p4054
+sS'rs4714156(C;T)'
+p4055
+S'0.61x risk for restless legs'
+p4056
+sS'rs3781719(T;T)'
+p4057
+S'normal'
+p4058
+sS'rs3935591(A;A)'
+p4059
+S'usually brown eye color'
+p4060
+sS'rs17244841(T;T)'
+p4061
+S'not as responsive to statin treatment'
+p4062
+sS'rs1570360(A;A)'
+p4063
+S'3x risk'
+p4064
+sS'rs10513025(C;T)'
+p4065
+S'0.55x reduced risk for autism'
+p4066
+sS'rs4779584(C;C)'
+p4067
+S'average'
+p4068
+sS'rs664143(T;T)'
+p4069
+S'1.6x increased risk of lung cancer'
+p4070
+sS'rs9469220(G;G)'
+p4071
+S'normal'
+p4072
+sS'rs6602024(A;A)'
+p4073
+S'1-3 body mass index units heavier on average'
+p4074
+sS'rs4399848(A;G)'
+p4075
+S'Heterozygous'
+p4076
+sS'rs9332964(A;G)'
+p4077
+S'average'
+p4078
+sS'rs55770810(C;C)'
+p4079
+S'normal'
+p4080
+sS'rs1800750(A;G)'
+p4081
+S'normal risk'
+p4082
+sS'rs17036314(C;G)'
+p4083
+S'risk of progressing from IGT to T2D; reduced by exercise'
+p4084
+sS'rs7794745(A;T)'
+p4085
+S'slightly increased risk for autism'
+p4086
+sS'rs1800054(G;G)'
+p4087
+S'1.5x increased risk for breast cancer'
+p4088
+sS'rs6604026(C;T)'
+p4089
+S'1.15x risk'
+p4090
+sS'rs4864548(A;G)'
+p4091
+S'1.8x higher risk for obesity if in haplotype'
+p4092
+sS'rs9272346(G;G)'
+p4093
+S'normal'
+p4094
+sS'rs13361189(C;T)'
+p4095
+S"1.3x increased risk for Crohn's disease"
+p4096
+sS'rs4276227(T;T)'
+p4097
+S'normal'
+p4098
+sS'rs2070744(T;T)'
+p4099
+S'cardiovascular differences'
+p4100
+sS'rs4986909(T;T)'
+p4101
+S'CYP3A4*13 homozygote'
+p4102
+sS'rs8069176(A;G)'
+p4103
+S'normal'
+p4104
+sS'rs1799853(C;T)'
+p4105
+S'CYP2C9*2 carrier; average 20% reduction in warfarin metabolism'
+p4106
+sS'rs326(G;G)'
+p4107
+S'normal risk'
+p4108
+sS'rs41291556(C;T)'
+p4109
+S'carrier of one CYP2C19*8 allele'
+p4110
+sS'rs11110912(C;C)'
+p4111
+S'1.3x risk'
+p4112
+sS'rs1800888(T;T)'
+p4113
+S'increased risk of coronary artery disease'
+p4114
+sS'rs7754840(C;C)'
+p4115
+S'1.3x increased risk for type-2 diabetes'
+p4116
+sS'rs6684439(C;C)'
+p4117
+S'normal'
+p4118
+sS'i4001473(A;G)'
+p4119
+S'common'
+p4120
+sS'rs2953145(G;G)'
+p4121
+S'2.1x risk'
+p4122
+sS'rs8176058(C;C)'
+p4123
+S'common'
+p4124
+sS'rs2238289(T;T)'
+p4125
+S'blue eye color if part of blue eye color haplotype'
+p4126
+sS'rs420259(C;C)'
+p4127
+S'normal'
+p4128
+sS'rs187238(G;G)'
+p4129
+S'hypertension increases risk 3.75x for sudden cardiac death'
+p4130
+sS'rs4994(T;T)'
+p4131
+S'normal'
+p4132
+sS'rs4242382(A;G)'
+p4133
+S'1.7x increased risk for prostate cancer'
+p4134
+sS'rs3842787(T;T)'
+p4135
+S'Higher risk of bleeding during coronary angiography'
+p4136
+sS'rs1229984(G;G)'
+p4137
+S'normal; more frequent alcohol consumption'
+p4138
+sS'rs3738579(T;T)'
+p4139
+S'1.3x - 2x increased risk for several cancers'
+p4140
+sS'rs763361(C;C)'
+p4141
+S'normal'
+p4142
+sS'rs521102(T;T)'
+p4143
+S'pancreatic cancer patients respond poorer to combined therapy'
+p4144
+sS'rs7216389(T;T)'
+p4145
+S'2.1x increased risk for asthma'
+p4146
+sS'rs11045585(A;G)'
+p4147
+S'63% chance (higher than average) of docetaxel-induced leukopenia/neutropenia'
+p4148
+sS'rs1135840(G;G)'
+p4149
+S'normal'
+p4150
+sS'rs1470579(A;C)'
+p4151
+S'1.2x increased risk for type-2 diabetes'
+p4152
+sS'rs908832(G;G)'
+p4153
+S'normal'
+p4154
+sS'rs17238540(G;T)'
+p4155
+S'not as responsive to statin treatment'
+p4156
+sS'rs2228000(T;T)'
+p4157
+S'statistically significant, but slight, increase in bladder cancer risk'
+p4158
+sS'rs9652490(G;G)'
+p4159
+S'normal'
+p4160
+sS'rs12044852(C;C)'
+p4161
+S'>1.24x risk'
+p4162
+sS'rs67784355(G;G)'
+p4163
+S'normal'
+p4164
+sS'rs28365083(C;C)'
+p4165
+S'normal'
+p4166
+sS'rs3783799(A;G)'
+p4167
+S'1.4x increased risk for stroke'
+p4168
+sS'rs11073328(T;T)'
+p4169
+S'increased longevity?'
+p4170
+sS'rs1126809(A;G)'
+p4171
+S'slight increase in skin cancer risk'
+p4172
+sS'rs1800469(C;C)'
+p4173
+S'higher risk for COPD'
+p4174
+sS'rs1784931(C;C)'
+p4175
+S'0.86x risk for Alzheimers'
+p4176
+sS'rs58597806(G;G)'
+p4177
+S'normal'
+p4178
+sS'rs6232(G;G)'
+p4179
+S'obesity and insulin'
+p4180
+sS'rs8192466(T;T)'
+p4181
+S'None'
+p4182
+sS'rs11209026(A;G)'
+p4183
+S'0.26x lower risk for certain autoimmune diseases'
+p4184
+sS'rs4253623(A;A)'
+p4185
+S'normal'
+p4186
+sS'rs2745557(A;A)'
+p4187
+S'autism risk?'
+p4188
+sS'rs28399504(A;A)'
+p4189
+S'normal'
+p4190
+sS'rs55901263(G;G)'
+p4191
+S'normal'
+p4192
+sS'rs4320932(A;G)'
+p4193
+S'0.87x decreased risk for ovarian cancer'
+p4194
+sS'rs6910071(A;A)'
+p4195
+S'normal'
+p4196
+sS'rs28897672(G;G)'
+p4197
+S'predisposition to breast cancer?'
+p4198
+sS'rs211239(C;C)'
+p4199
+S'1.7x risk for priapism in SCA patients'
+p4200
+sS'rs27044(C;C)'
+p4201
+S'normal risk'
+p4202
+sS'rs2300478(G;T)'
+p4203
+S'1.7x risk for restless legs'
+p4204
+sS'rs17166496(C;C)'
+p4205
+S'1.1x risk'
+p4206
+sS'rs8176058(T;T)'
+p4207
+S'None'
+p4208
+sS'rs11809207(G;G)'
+p4209
+S'normal'
+p4210
+sS'rs5067(A;A)'
+p4211
+S'normal'
+p4212
+sS'rs2854344(A;G)'
+p4213
+g148
+sS'rs1585215(A;G)'
+p4214
+S'2x increased risk for Hodgkin lymphoma'
+p4215
+sS'rs5361(A;A)'
+p4216
+S'normal risk'
+p4217
+sS'rs27044(G;G)'
+p4218
+S'1.4x higher risk for spondylitis'
+p4219
+sS'rs5443(C;T)'
+p4220
+S'(some risk; see details)'
+p4221
+sS'rs4778138(A;A)'
+p4222
+S'freckles more likely'
+p4223
+sS'rs9886784(C;C)'
+p4224
+S'average'
+p4225
+sS'rs2306536(T;T)'
+p4226
+S'0.5x lower risk of colorectal cancer'
+p4227
+sS'rs2609653(C;T)'
+p4228
+S'1.5x risk'
+p4229
+sS'rs1375144(C;T)'
+p4230
+S'1.3x risk'
+p4231
+sS'rs1801516(A;G)'
+p4232
+S'normal'
+p4233
+sS'rs2518224(A;A)'
+p4234
+S'normal'
+p4235
+sS'rs2237897(C;T)'
+p4236
+S'1.2x increased risk for diabetic nephropathy in some populations'
+p4237
+sS'rs12979860(C;T)'
+p4238
+S'~20-40% of such hepatitis C patients respond to treatment'
+p4239
+sS'rs4845618(G;T)'
+p4240
+S'1.7x increased melanoma risk'
+p4241
+sS'rs5030655(T;T)'
+p4242
+S'normal'
+p4243
+sS'rs1000113(C;T)'
+p4244
+S"1.5x risk of Crohn's disease"
+p4245
+sS'rs11809207(A;G)'
+p4246
+S'0.46cm taller on average'
+p4247
+sS'rs4775041(C;C)'
+p4248
+S'lowest phosphatidylethanolamine values'
+p4249
+sS'rs1061646(C;C)'
+p4250
+S'1.16x increased risk for breast cancer'
+p4251
+sS'rs6259(A;A)'
+p4252
+S'normal'
+p4253
+sS'rs603965(A;A)'
+p4254
+S'normal'
+p4255
+sS'rs6267(G;T)'
+p4256
+S'None'
+p4257
+sS'rs12913832(A;G)'
+p4258
+S'brown eye color'
+p4259
+sS'rs33949390(C;G)'
+p4260
+S"3.3x increased risk for Parkinson's disease"
+p4261
+sS'rs688(C;C)'
+p4262
+S'normal risk'
+p4263
+sS'rs60554162(A;A)'
+p4264
+S'homozygote for pachyonyitia congenita Type I mutation'
+p4265
+sS'rs4149056(T;T)'
+p4266
+S'normal'
+p4267
+sS'rs1131532(T;T)'
+p4268
+S'3-6x higher odds of worse outcomes in breast cancer patients'
+p4269
+sS'rs16947078(A;A)'
+p4270
+S'common'
+p4271
+sS'rs3746444(C;C)'
+p4272
+S'1.25x increased risk for breast cancer'
+p4273
+sS'rs16991615(A;G)'
+p4274
+S'slight increase (11 months) in avg age at menopause'
+p4275
+sS'rs4938369(T;T)'
+p4276
+S'normal'
+p4277
+sS'rs72558185(G;G)'
+p4278
+S'CYP2C19 hCV34328665 homozygote'
+p4279
+sS'rs4290(C;C)'
+p4280
+S'normal'
+p4281
+sS'rs10865331(G;G)'
+p4282
+S'normal'
+p4283
+sS'rs10485057(G;G)'
+p4284
+S'increased risk for smoking, nicotine dependence'
+p4285
+sS'rs1495965(A;A)'
+p4286
+S'1.2x higher risk for spondylitis'
+p4287
+sS'rs1799945(C;G)'
+p4288
+S'One copy of H63D, carrier of hemochromatosis, likely unaffected unless also C282Y carrier.'
+p4289
+sS'rs17882687(C;C)'
+p4290
+S'CYP2C19*15 homozygote'
+p4291
+sS'rs12597511(C;T)'
+p4292
+S'slightly higher blood pressure'
+p4293
+sS'rs3129934(C;C)'
+p4294
+S'normal'
+p4295
+sS'rs9886784(A;C)'
+p4296
+S'3.2x risk for AD'
+p4297
+sS'rs4148323(A;G)'
+p4298
+S'carrier of 1 UGT1A1*6 allele'
+p4299
+sS'rs7326018(A;T)'
+p4300
+S'normal'
+p4301
+sS'rs2230500(G;G)'
+p4302
+S'normal risk'
+p4303
+sS'rs10033464(G;T)'
+p4304
+S'1.4x increased risk of atrial fibrillation and ischemic stroke'
+p4305
+sS'rs10871777(A;A)'
+p4306
+S'adults likely to be 0.44 BMI units higher'
+p4307
+sS'rs2231142(A;A)'
+p4308
+S'increased risk of gout; more responsive to rosuvastatin'
+p4309
+sS'rs2240017(C;C)'
+p4310
+S'not observed (too rare)'
+p4311
+sS'rs4516035(C;T)'
+p4312
+S'if less milk in teenage females, less bone?'
+p4313
+sS'rs807701(C;C)'
+p4314
+S'2-5x increased dyslexia risk'
+p4315
+sS'rs1858830(G;G)'
+p4316
+S'normal'
+p4317
+sS'rs2200733(C;T)'
+p4318
+S'1.4x increased risk of atrial fibrillation and ischemic stroke'
+p4319
+sS'rs3814113(C;T)'
+p4320
+S'0.8x decreased risk for ovarian cancer'
+p4321
+sS'rs2538991(G;G)'
+p4322
+S'higher risk of speech development delay and/or impairment'
+p4323
+sS'rs3785143(T;T)'
+p4324
+S'may be associated with ADHD'
+p4325
+sS'rs7216389(C;C)'
+p4326
+S'normal'
+p4327
+sS'rs705381(T;T)'
+p4328
+S'less likely to gain weight if taking risperidone'
+p4329
+sS'rs1800454(A;G)'
+p4330
+S'carrier'
+p4331
+sS'rs12037606(A;G)'
+p4332
+S"1.2x risk of Crohn's disease"
+p4333
+sS'rs2518224(C;C)'
+p4334
+S'8.2x higher risk of suicidal thoughts when taking [[citalopram]]'
+p4335
+sS'rs642961(G;G)'
+p4336
+S'2.3x risk of cleft lip'
+p4337
+sS'rs2834167(G;G)'
+p4338
+S'normal'
+p4339
+sS'rs28383468(C;T)'
+p4340
+S'carrier of one CYP3A5*H30Y allele'
+p4341
+sS'rs1800630(A;C)'
+p4342
+S'1.8x increased lupus risk'
+p4343
+sS'rs4986907(G;G)'
+p4344
+S'normal'
+p4345
+sS'rs4481887(A;G)'
+p4346
+S'71% of you can smell asparagus metabolites in urine'
+p4347
+sS'rs3821236(A;A)'
+p4348
+S'2x higher risk of lupus'
+p4349
+sS'rs10411210(T;T)'
+p4350
+S'1.15x increased risk of colorectal cancer'
+p4351
+sS'rs3764261(T;T)'
+p4352
+S'associated with higher HDL cholesterol'
+p4353
+sS'rs364897(A;G)'
+p4354
+S'N188S variant of the GBA gene'
+p4355
+sS'rs9332964(G;G)'
+p4356
+S'average'
+p4357
+sS'rs2108622(C;T)'
+p4358
+S'None'
+p4359
+sS'rs761100(G;G)'
+p4360
+S'higher risk for dyslexia'
+p4361
+sS'rs1148259(G;T)'
+p4362
+S'intermediate sphingomyelin ratios'
+p4363
+sS'rs7019241(T;T)'
+p4364
+S'reduced risk for AD?'
+p4365
+sS'rs7961152(A;C)'
+p4366
+S'1.2x higher risk for hypertension'
+p4367
+sS'rs4363657(C;C)'
+p4368
+S'17x increased myopathy risk for statin users'
+p4369
+sS'rs7771980(T;T)'
+p4370
+S'normal'
+p4371
+sS'rs3813867(C;C)'
+p4372
+S'CYP2E1_-1295G>C homozygote'
+p4373
+sS'rs1135824(A;G)'
+p4374
+S'One copy of CYP2D6*3B non-functioning variant.'
+p4375
+sS'rs1800460(A;A)'
+p4376
+S'incapable of detoxifying byproducts of certain drugs'
+p4377
+sS'rs17878459(G;G)'
+p4378
+S'normal'
+p4379
+sS'rs4481887(G;G)'
+p4380
+S'57%% of you can smell asparagus metabolites in urine'
+p4381
+sS'rs41303343(-;T)'
+p4382
+S'carrier of one CYP3A5*7 allele'
+p4383
+sS'rs7412(T;T)'
+p4384
+S'normal'
+p4385
+sS'rs8192466(C;C)'
+p4386
+S'common'
+p4387
+sS'rs11569562(C;C)'
+p4388
+S'increased risk for adult asthma'
+p4389
+sS'rs12708716(A;G)'
+p4390
+S'1.2x risk'
+p4391
+sS'rs4464148(C;T)'
+p4392
+S'1.10x increased risk for colorectal cancer'
+p4393
+sS'rs16947078(A;G)'
+p4394
+S'possible risk for allergic asthma'
+p4395
+sS'rs17300539(A;A)'
+p4396
+S'if obese, dieting more effective'
+p4397
+sS'rs6887695(G;G)'
+p4398
+S'1.4x increased risk of psoriasis, psoriatic arthritis'
+p4399
+sS'rs17221417(C;C)'
+p4400
+S'normal'
+p4401
+sS'rs719725(C;C)'
+p4402
+S'normal'
+p4403
+sS'rs3803662(C;C)'
+p4404
+S'normal'
+p4405
+sS'rs9306160(C;T)'
+p4406
+S'0.75x (reduced) risk for metastasis in LN-/ER+ breast cancer patients'
+p4407
+sS'rs1329428(A;A)'
+p4408
+S'normal'
+p4409
+sS'rs1334710(A;A)'
+p4410
+S'average'
+p4411
+sS'rs7646054(G;G)'
+p4412
+S'increased osteoporosis risk'
+p4413
+sS'rs6920220(A;G)'
+p4414
+S'1.2x risk'
+p4415
+sS'rs4845618(T;T)'
+p4416
+S'normal?'
+p4417
+sS'rs10993994(T;T)'
+p4418
+S'1.2x prostate cancer risk'
+p4419
+sS'rs28371685(T;T)'
+p4420
+S'CYP2C9*11 homozygote'
+p4421
+sS'rs2273697(A;G)'
+p4422
+S'Adverse reaction more likely to carbamazepine in epileptic patients'
+p4423
+sS'rs1864163(G;G)'
+p4424
+S'associated with higher HDL cholesterol'
+p4425
+sS'rs1800562(A;A)'
+p4426
+S'Two copies of H36D, likely affected by hemochromatosis which may be serious if male or post-menopausal.'
+p4427
+sS'rs4655595(A;A)'
+p4428
+S'normal'
+p4429
+sS'rs2231137(A;G)'
+p4430
+S'2-3x increased risk for ischemic stroke'
+p4431
+sS'rs12708716(G;G)'
+p4432
+S'normal'
+p4433
+sS'rs1800255(G;G)'
+p4434
+S'normal'
+p4435
+sS'rs3129934(T;T)'
+p4436
+S'3.3x increased risk for multiple sclerosis'
+p4437
+sS'rs2228001(C;C)'
+p4438
+S'normal'
+p4439
+sS'rs2854344(G;G)'
+p4440
+S'1.25x risk of developing ovarian cancer'
+p4441
+sS'rs3135391(C;C)'
+p4442
+S'normal'
+p4443
+sS'rs28371733(A;A)'
+p4444
+S'Homozygous for CYP2D6*52 variant.'
+p4445
+sS'rs7326018(T;T)'
+p4446
+S'1.8x increased risk for multiple sclerosis'
+p4447
+sS'rs72552791(A;G)'
+p4448
+S'carrier of one CYP3A5*11 allele'
+p4449
+sS'rs7582694(C;G)'
+p4450
+S'1.71x increased SLE risk'
+p4451
+sS'rs11209032(A;A)'
+p4452
+S'1.3x higher risk for spondylitis'
+p4453
+sS'rs8192678(A;G)'
+p4454
+S'higher blood pressure if <50'
+p4455
+sS'rs1050565(A;A)'
+p4456
+S'normal'
+p4457
+s.
