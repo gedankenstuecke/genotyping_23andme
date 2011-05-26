@@ -26,6 +26,7 @@ I wrote this script to get information about homozygotous, dominant SNPs i carry
 Up to know these candidate SNPs have to be screened by hand, to see if I carry the dominant genotype (otherwise no information about parental phenotype can be won). To reduce load on SNPedia data on genotypes and descriptions are stored locally in *.data-files
 
 === Dependencies ===
+
 * snp.py
 * [http://code.google.com/p/python-wikitools/ Python-Wiki-Tools]
 
@@ -35,6 +36,7 @@ The script crawls the PubMed-database for scientific papers on the SNPs which ar
 The script is written to be run once a month to look for new papers, which are then added to the existing RSS-feed.      
 
 === Dependencies ===
+
 * snp.py
 * [http://biopython.org/wiki/Main_Page BioPython]
 * [http://www.dalkescientific.com/Python/PyRSS2Gen.html PyRSS2Gen] 
