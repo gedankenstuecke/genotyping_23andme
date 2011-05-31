@@ -43,6 +43,8 @@ Last-update-time is stored in last.update, old RSS-items are stored in pubmed_rs
 
 Whats missing: An option to split the job into chunks, otherwise a full run on 1 Mio SNPs will take ~4 days to complete.   
 
+An example RSS-Feed can be found in 23andme_feed.xml
+
 === Dependencies ===
 
 * snp.py
