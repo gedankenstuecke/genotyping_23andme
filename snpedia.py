@@ -1,5 +1,6 @@
 import sys,pickle,snp
 from wikitools import wiki,category,page
+from glob import glob
 
 
 def snpedia_items():										# get all snps from snpedia
@@ -122,8 +123,9 @@ def description_getter(genotypes):
 def genotype_comparer(my_filtered_snps,genotypes,descriptions):
 	counter = 1
 	bases = {'A': "T", "T" : "A", "G" : "C", "C" :"G", "I" : "I", "D" : "D"}
-	
-	for single_snp in my_filtered_snps:																							# iterate over all SNPs from user 
+	candidates = {}	
+	for single_snp in my_filtered_snps:	
+																							# iterate over all SNPs from user 
 		my_genotype = ""
 		if genotypes.has_key(single_snp.name) and single_snp.genotype != "--":													# is this SNP called and are there genotypes for this SNP?  
 			genotype = genotypes[single_snp.name]
@@ -135,6 +137,7 @@ def genotype_comparer(my_filtered_snps,genotypes,descriptions):
 	
 			if my_genotype != "":																								# if genotype of user is known: go on!
 				output = "-----------\nMy genotype at " + single_snp.name+": "+single_snp.genotype+" or "+my_genotype+"\n"
+				
 				for single_genotype in genotype:	
 					genotype_name = single_snp.name + single_genotype
 					if descriptions.has_key(genotype_name):
@@ -142,7 +145,28 @@ def genotype_comparer(my_filtered_snps,genotypes,descriptions):
 				if output.find("associated") != -1:
 					print counter
 					print output
+					candidates[single_snp.name] = single_snp
+					
 					counter += 1
+	print candidates
+	return candidates
+
+
+def freq_counter(candidates):
+	other_genomes = glob("other_genomes/*.txt")
+	for single_genome in other_genomes:
+		second_genome = {}
+		second_genome = snp.reader_dict(single_genome)
+		for my_snp in candidates:
+			if second_genome.has_key(my_snp):
+				if candidates[my_snp].other_genotypes.has_key(second_genome[my_snp].genotype):
+					candidates[my_snp].other_genotypes[second_genome[my_snp].genotype] += 1
+				else:
+					candidates[my_snp].other_genotypes[second_genome[my_snp].genotype] = 1
+				print candidates[my_snp].other_genotypes
+		print len(candidates)
+		
+
 
 def main():
 	print "Start getting SNPs from snpedia.com"
@@ -161,8 +185,8 @@ def main():
 	descriptions = genotype_descriptions(genotypes) 															# get different descriptions for each genotype, saved as hash. key = genotype name, value = description
 	print "Got "+ str(len(descriptions)) +" genotypes with a sufficient description\n"
 	print "Start getting relevant genotypes\n"
-	genotype_comparer(my_filtered_snps,genotypes,descriptions)
-
+	candidates = genotype_comparer(my_filtered_snps,genotypes,descriptions)
+	freq_counter(candidates)
 #todo: compare users genotype to heterozygotous variant
 		
 main()
