@@ -148,12 +148,13 @@ def genotype_comparer(my_filtered_snps,genotypes,descriptions):
 					candidates[single_snp.name] = single_snp
 					
 					counter += 1
-	print candidates
 	return candidates
 
 
 def freq_counter(candidates):
 	other_genomes = glob("other_genomes/*.txt")
+	variance = {}
+	
 	for single_genome in other_genomes:
 		second_genome = {}
 		second_genome = snp.reader_dict(single_genome)
@@ -164,7 +165,14 @@ def freq_counter(candidates):
 				else:
 					candidates[my_snp].other_genotypes[second_genome[my_snp].genotype] = 1
 				print candidates[my_snp].other_genotypes
-		print len(candidates)
+	for single_snp in candidates:
+		if variance.has_key(len(candidates[single_snp].other_genotypes)):
+			variance[len(candidates[single_snp].other_genotypes)] += 1
+		else:
+			variance[len(candidates[single_snp].other_genotypes)] = 1
+		if len(candidates[single_snp].other_genotypes) > 3:
+			print single_snp + ": " + str(candidates[single_snp].other_genotypes)
+	print variance
 		
 
 
@@ -186,7 +194,9 @@ def main():
 	print "Got "+ str(len(descriptions)) +" genotypes with a sufficient description\n"
 	print "Start getting relevant genotypes\n"
 	candidates = genotype_comparer(my_filtered_snps,genotypes,descriptions)
+	print "Got relevant genotypes\n"
+	print "Start counting frequency of candidates\n"
 	freq_counter(candidates)
-#todo: compare users genotype to heterozygotous variant
+
 		
 main()
