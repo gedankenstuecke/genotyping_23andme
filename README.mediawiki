@@ -38,7 +38,7 @@ Up to know these candidate SNPs have to be screened by hand, to see if I carry t
 == pubmed_crawler.py ==
 The script crawls the PubMed-database for scientific papers on the SNPs which are analyzed by 23and me. And republishes the results as a RSS-feed. Already crawled papers are stored locally to reduce load on the NCBI-servers. 
 
-The script is written to be run once a month (using cron etc.) to look for new papers, which are then added to the existing RSS-feed.
+The script is written to be run once a month (using cron etc.) to look for new papers, which are then added to the existing RSS-feed
 
 Last-update-time is stored in last.update, old RSS-items are stored in pubmed_rss.backup, the feed is published to 23andme_feed.xml    
 
